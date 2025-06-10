@@ -3,9 +3,10 @@ import torch
 from torch.utils.data import Dataset
 
 class DNA_Dataset(Dataset):
-    def __init__(self, x): # choose x from ['train.neg', 'train.pos', 'valid.neg', 'valid.pos', 'test.neg', 'test.pos']
+    def __init__(self, motif, x = 'test.pos'):
+        # choose x from ['train.neg', 'train.pos', 'valid.neg', 'valid.pos', 'test.neg', 'test.pos']
         self.x = x
-        self.seqs = self.binfasta_to_list(f'GANs_with_DNA/Simulated Data/X.{x}.fasta')
+        self.seqs = self.binfasta_to_list(f'GANs_with_DNA/Simulated Data/{motif}.{x}.fasta')
 
     def binfasta_to_list(self, path):
         f = gzip.open(path)

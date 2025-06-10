@@ -9,7 +9,7 @@ from model import Discriminator, Generator, init_weights
 from dataset import DNA_Dataset
 from config import (z_dim, batch_size, features_disc, features_gen,
                     learning_rate_disc, learning_rate_gen, num_epochs,
-                    leaky_relu_disc, leaky_relu_gen,
+                    leaky_relu_disc, leaky_relu_gen, motif,
                     max_pool_size, dropout_factor)
 
 def count_parameters(model):
@@ -62,7 +62,7 @@ if __name__ == '__main__':
     h.close()
 
     #Setup training data
-    dataset = DNA_Dataset('test.pos')
+    dataset = DNA_Dataset(motif, 'test.pos')
     test_dataset, train_dataset= random_split(dataset, [1,len(dataset)-1])
     dataloader = DataLoader(train_dataset, batch_size=batch_size,
                             shuffle = False, num_workers = 0)

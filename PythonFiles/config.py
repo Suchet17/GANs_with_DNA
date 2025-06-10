@@ -10,3 +10,4 @@ leaky_relu_disc = 0.2
 leaky_relu_gen = 0.2
 max_pool_size = 35
 dropout_factor = 0.3
+motif = "ATF3_disc1"
