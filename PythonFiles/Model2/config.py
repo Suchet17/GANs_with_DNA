@@ -1,13 +1,8 @@
-z_dim = 100
-batch_size = 1
-learning_rate_disc = 2e-5
-learning_rate_gen  = 4e-5
+z_dim = 256
+batch_size = 25
+learning_rate_disc = 4e-7
+learning_rate_gen  = 1e-4
 num_epochs = 20
-features_disc = 1
-features_gen = 1
-
-leaky_relu_disc = 0.2
-leaky_relu_gen = 0.2
-max_pool_size = 35
-dropout_factor = 0.3
-motif = "ATF3_disc1"
+features_disc = 100
+features_gen = 125
+repeat_factor = 18
