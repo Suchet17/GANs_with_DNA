@@ -1,0 +1,11 @@
+dataset=SingleMotif_len10_Centre150
+z_dim=256
+batch_size=25
+features_disc=100
+features_gen=125
+lr_disc=4e-07
+lr_gen=0.0001
+num_epochs=20
+params_gen = 1220754
+param_disc = 306001
+repeat_factor=20

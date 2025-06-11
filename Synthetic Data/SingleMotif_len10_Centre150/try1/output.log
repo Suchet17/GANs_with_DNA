@@ -1,0 +1,60 @@
+2025-06-11 18:43:08.712335	Epoch:1/20	Batch:40/200	Loss_disc:0.6776	loss_gen:0.6796
+2025-06-11 18:43:18.168516	Epoch:1/20	Batch:80/200	Loss_disc:0.6689	loss_gen:0.6715
+2025-06-11 18:43:25.778368	Epoch:1/20	Batch:120/200	Loss_disc:0.6455	loss_gen:0.6773
+2025-06-11 18:43:33.367069	Epoch:1/20	Batch:160/200	Loss_disc:0.6295	loss_gen:0.6905
+2025-06-11 18:43:40.917849	Epoch:1/20	Batch:200/200	Loss_disc:0.6070	loss_gen:0.7029
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:43:48.495371	Epoch:2/20	Batch:40/200	Loss_disc:0.5813	loss_gen:0.7096
+2025-06-11 18:43:56.069639	Epoch:2/20	Batch:80/200	Loss_disc:0.6004	loss_gen:0.6406
+2025-06-11 18:44:03.648199	Epoch:2/20	Batch:120/200	Loss_disc:0.4914	loss_gen:0.7736
+2025-06-11 18:44:11.251245	Epoch:2/20	Batch:160/200	Loss_disc:0.5749	loss_gen:0.6392
+2025-06-11 18:44:18.838376	Epoch:2/20	Batch:200/200	Loss_disc:0.4370	loss_gen:0.8401
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:44:26.459032	Epoch:3/20	Batch:40/200	Loss_disc:0.3735	loss_gen:0.9929
+2025-06-11 18:44:34.032813	Epoch:3/20	Batch:80/200	Loss_disc:0.2476	loss_gen:1.2483
+2025-06-11 18:44:41.665473	Epoch:3/20	Batch:120/200	Loss_disc:0.1353	loss_gen:1.7282
+2025-06-11 18:44:49.307829	Epoch:3/20	Batch:160/200	Loss_disc:0.1202	loss_gen:1.8582
+2025-06-11 18:44:56.871445	Epoch:3/20	Batch:200/200	Loss_disc:0.0838	loss_gen:2.0737
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:45:04.490815	Epoch:4/20	Batch:40/200	Loss_disc:0.0504	loss_gen:2.4645
+2025-06-11 18:45:12.150283	Epoch:4/20	Batch:80/200	Loss_disc:0.0382	loss_gen:2.7226
+2025-06-11 18:45:19.746629	Epoch:4/20	Batch:120/200	Loss_disc:0.0323	loss_gen:2.9061
+2025-06-11 18:45:27.368632	Epoch:4/20	Batch:160/200	Loss_disc:0.0827	loss_gen:2.2415
+2025-06-11 18:45:34.933581	Epoch:4/20	Batch:200/200	Loss_disc:0.1069	loss_gen:2.4443
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:45:42.526250	Epoch:5/20	Batch:40/200	Loss_disc:0.0626	loss_gen:2.8788
+2025-06-11 18:45:50.110168	Epoch:5/20	Batch:80/200	Loss_disc:0.0264	loss_gen:3.3777
+2025-06-11 18:45:57.678961	Epoch:5/20	Batch:120/200	Loss_disc:0.0615	loss_gen:3.3284
+2025-06-11 18:46:05.263051	Epoch:5/20	Batch:160/200	Loss_disc:0.0397	loss_gen:3.9532
+2025-06-11 18:46:12.843371	Epoch:5/20	Batch:200/200	Loss_disc:0.0238	loss_gen:4.3256
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:46:20.412495	Epoch:6/20	Batch:40/200	Loss_disc:0.0111	loss_gen:4.5253
+2025-06-11 18:46:27.978227	Epoch:6/20	Batch:80/200	Loss_disc:0.0137	loss_gen:4.7351
+2025-06-11 18:46:35.556142	Epoch:6/20	Batch:120/200	Loss_disc:0.0635	loss_gen:3.4930
+2025-06-11 18:46:43.142407	Epoch:6/20	Batch:160/200	Loss_disc:0.0277	loss_gen:4.0891
+2025-06-11 18:46:50.706420	Epoch:6/20	Batch:200/200	Loss_disc:0.0404	loss_gen:3.8850
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:46:58.303871	Epoch:7/20	Batch:40/200	Loss_disc:0.0128	loss_gen:4.8800
+2025-06-11 18:47:05.941380	Epoch:7/20	Batch:80/200	Loss_disc:0.0237	loss_gen:4.3199
+2025-06-11 18:47:13.584951	Epoch:7/20	Batch:120/200	Loss_disc:0.0130	loss_gen:5.1920
+2025-06-11 18:47:21.182679	Epoch:7/20	Batch:160/200	Loss_disc:0.0142	loss_gen:4.4087
+2025-06-11 18:47:28.754349	Epoch:7/20	Batch:200/200	Loss_disc:0.0107	loss_gen:5.0075
+lr_d=[4e-07]	lr_gen=[0.0001]
+2025-06-11 18:47:36.329352	Epoch:8/20	Batch:40/200	Loss_disc:0.0103	loss_gen:5.2377
+2025-06-11 18:47:43.927946	Epoch:8/20	Batch:80/200	Loss_disc:0.0045	loss_gen:5.9400
+2025-06-11 18:47:51.511949	Epoch:8/20	Batch:120/200	Loss_disc:0.0235	loss_gen:4.9595
+2025-06-11 18:47:59.116628	Epoch:8/20	Batch:160/200	Loss_disc:0.0208	loss_gen:5.1031
+2025-06-11 18:48:06.745781	Epoch:8/20	Batch:200/200	Loss_disc:0.0055	loss_gen:6.2513
+lr_d=[8e-08]	lr_gen=[2e-05]
+2025-06-11 18:48:14.347094	Epoch:9/20	Batch:40/200	Loss_disc:0.0060	loss_gen:6.4119
+2025-06-11 18:48:21.968272	Epoch:9/20	Batch:80/200	Loss_disc:0.0083	loss_gen:5.7171
+2025-06-11 18:48:29.555530	Epoch:9/20	Batch:120/200	Loss_disc:0.0152	loss_gen:4.6931
+2025-06-11 18:48:37.124688	Epoch:9/20	Batch:160/200	Loss_disc:0.0106	loss_gen:5.3881
+2025-06-11 18:48:44.701005	Epoch:9/20	Batch:200/200	Loss_disc:0.0086	loss_gen:5.8446
+lr_d=[8e-08]	lr_gen=[2e-05]
+2025-06-11 18:48:52.295499	Epoch:10/20	Batch:40/200	Loss_disc:0.0058	loss_gen:6.1287
+2025-06-11 18:48:59.867712	Epoch:10/20	Batch:80/200	Loss_disc:0.0057	loss_gen:6.3297
+2025-06-11 18:49:07.503321	Epoch:10/20	Batch:120/200	Loss_disc:0.0076	loss_gen:5.9580
+2025-06-11 18:49:15.073935	Epoch:10/20	Batch:160/200	Loss_disc:0.0083	loss_gen:5.7953
+2025-06-11 18:49:22.696533	Epoch:10/20	Batch:200/200	Loss_disc:0.0055	loss_gen:6.0579
+lr_d=[8e-08]	lr_gen=[2e-05]

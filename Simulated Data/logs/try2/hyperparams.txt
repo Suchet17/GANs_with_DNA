@@ -1,0 +1,9 @@
+z_dim=100
+batch_size=1
+features_disc=32
+features_gen=32
+lr_disc=2e-05
+lr_gen=4e-05
+num_epochs=20
+params_gen = 117060
+param_disc = 32641
