@@ -43,7 +43,7 @@ class Generator(nn.Module):
             nn.ConvTranspose1d(features, features, kernel_size=8 , stride=4, padding=1), #250
             nn.LeakyReLU(0.2),
             nn.ConvTranspose1d(features, 4, kernel_size=10, stride=4, padding=3), #1000
-            nn.Sigmoid(),
+            nn.Tanh(),
         )
 
     def forward(self, x):

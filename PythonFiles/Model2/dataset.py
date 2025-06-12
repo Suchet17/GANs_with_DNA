@@ -20,7 +20,7 @@ class DNA_Dataset(Dataset):
         else:
             path = path+'.fa'
         self.path = path
-        f = open(path)
+        f = open(path, 'r')
         self.seqs = f.readlines()[1::2]
 
     def __len__(self):

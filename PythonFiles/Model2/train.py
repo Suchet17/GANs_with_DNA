@@ -62,8 +62,8 @@ if __name__ == '__main__':
     k = len(dataloader) // 5
 
     # Setup trainers
-    optim_disc = Adam(disc.parameters(), lr=learning_rate_disc, betas=(0.9,0.999))
-    optim_gen = Adam(gen.parameters(), lr=learning_rate_gen, betas=(0.9,0.999))
+    optim_disc = Adam(disc.parameters(), lr=learning_rate_disc, betas=(0.5,0.999))
+    optim_gen = Adam(gen.parameters(), lr=learning_rate_gen, betas=(0.5,0.999))
     criterion = nn.BCELoss()
     sched_d = ReduceLROnPlateau(optimizer=optim_disc, factor=0.2,
                                 patience=5, cooldown=0, eps=1e-8)
@@ -82,10 +82,10 @@ if __name__ == '__main__':
 
     # Training Loop
     print("Start Training")
-    gen.train()
-    disc.train()
-
+    # ==========================================================================
     for epoch in range(num_epochs):
+        gen.train()
+        disc.train()
         for batch_index , (real, _ ) in enumerate(dataloader):
             real = real.to(device)
             z = torch.randn((batch_size, z_dim)).to(device)
@@ -133,13 +133,12 @@ if __name__ == '__main__':
 
     disc.eval()
     gen.eval()
-
-    print(f"Fake Sequence Probability = {disc(gen(fixed_noise.to(device))).item():.4f}",
-    f"Real Sequence Probability = {disc(real[0].reshape(1,4,1000).to(device))[0].item():.4f}",
-    file=f, flush=True)
-
-    f.close()
-    g.close()
     torch.save(gen.state_dict(), f"GANs_with_DNA/{destinationfolder}/try{version}/final_weights_gen.pth")
     torch.save(disc.state_dict(), f"GANs_with_DNA/{destinationfolder}/try{version}/final_weights_disc.pth")
     print("Training Complete")
+
+    print(f"Fake Sequence Probability = {disc(gen(fixed_noise)).to('cpu').item():.4f}",
+    f"Real Sequence Probability = {disc(real[0].reshape(1,4,1000).to('cpu'))[0].item():.4f}",
+    file=f, flush=True)
+    f.close()
+    g.close()
