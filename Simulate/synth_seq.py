@@ -80,7 +80,7 @@ Options:
                  used equally often)
 """)
 
-randvec = [0.25,0.25,0.25,0.25]
+randvec = [1.0, 0.0, 0.0, 0.0]
 
 nwm_l = 2
 nwm_h = 2
@@ -93,7 +93,7 @@ lwm_l = 10
 lwm_h = 10
 dirpam = 0.2
 
-import sys,getopt
+import getopt
 optlist,args = getopt.getopt(sys.argv[1:],"n:s:N:l:L:rd:w:h")
 for o,v in optlist:
     if o=="-n":
