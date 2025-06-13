@@ -65,7 +65,7 @@ def test():
         device = torch.device('cpu')
 
     batch_size, H, W = 2, 4, 1000
-    noise_dim = 100
+    noise_dim = int(5e4)
     num_classes = 2
     x = torch.randn((batch_size, H, W)).to(device)
     disc = Discriminator(51, num_classes).to(device)

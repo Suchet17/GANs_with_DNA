@@ -7,7 +7,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 from torch.utils.data import DataLoader, random_split
 from model import Discriminator, Generator, init_weights
 from dataset import DNA_Dataset
-from config import (z_dim, batch_size, features_disc, features_gen, repeat_factor,
+from config import (z_dim, batch_size, features_disc, features_gen,
                     learning_rate_disc, learning_rate_gen, num_epochs)
 
 def count_parameters(model):
@@ -25,9 +25,10 @@ def onehot_to_fasta(matrix):
     return seq
 
 if __name__ == '__main__':
-    datafolder = "SingleMotif_len10_Centre150"
+    sourcefolder = "GANs_with_DNA/Simulate"
+    datafolder = "SingleMotif_10bp_AllA"
     destinationfolder = f"Synthetic Data/{datafolder}"
-    version = 1
+    version = 7
     try:
         os.makedirs(f"GANs_with_DNA/{destinationfolder}/try{version}", exist_ok = False)
     except FileExistsError:
@@ -50,12 +51,12 @@ if __name__ == '__main__':
           f"features_disc={features_disc}", f"features_gen={features_gen}",
           f"lr_disc={learning_rate_disc}", f"lr_gen={learning_rate_gen}",
           f"num_epochs={num_epochs}", f"params_gen = {count_parameters(gen)[0]}",
-          f"param_disc = {count_parameters(disc)[0]}", f"repeat_factor={repeat_factor}",
+          f"param_disc = {count_parameters(disc)[0]}",
           file=h, flush=True, sep='\n')
     h.close()
 
     #Setup training data
-    dataset = DNA_Dataset(f"GANs_with_DNA/Simulated Data/Simulate/{datafolder}.fa")
+    dataset = DNA_Dataset(f"{sourcefolder}/{datafolder}.fa")
     test_dataset, train_dataset= random_split(dataset, [1,len(dataset)-1])
     dataloader = DataLoader(train_dataset, batch_size=batch_size,
                             shuffle = False, num_workers = 0)
@@ -92,16 +93,15 @@ if __name__ == '__main__':
             fake = gen(z)
 
             # Train  Discriminator
-            for _ in range(repeat_factor):
-                disc_real = disc(real).reshape(-1)
-                loss_disc_real = criterion(disc_real, torch.ones_like(disc_real))
-                disc_fake = disc(fake).reshape(-1)
-                loss_disc_fake = criterion(disc_fake, torch.zeros_like(disc_fake))
-                loss_disc = (loss_disc_real + loss_disc_fake)/2
+            disc_real = disc(real).reshape(-1)
+            loss_disc_real = criterion(disc_real, torch.ones_like(disc_real))
+            disc_fake = disc(fake).reshape(-1)
+            loss_disc_fake = criterion(disc_fake, torch.zeros_like(disc_fake))
+            loss_disc = (loss_disc_real + loss_disc_fake)/2
 
-                disc.zero_grad()
-                loss_disc.backward(retain_graph = True)
-                optim_disc.step()
+            disc.zero_grad()
+            loss_disc.backward(retain_graph = True)
+            optim_disc.step()
 
             # Train Generator
             disc_fake = disc(fake).reshape(-1)
@@ -115,7 +115,7 @@ if __name__ == '__main__':
                       f"Epoch:{epoch+1}/{num_epochs}",
                       f"Batch:{batch_index+1}/{len(dataloader)}",
                       f"Loss_disc:{loss_disc:.4f}",
-                      f"loss_gen:{loss_gen:.4f}",
+                      f"Loss_gen:{loss_gen:.4f}",
                       sep='\t', file = f, flush=True)
 
         sched_d.step(loss_disc+loss_gen)
@@ -127,7 +127,7 @@ if __name__ == '__main__':
         fixed_fake = gen(fixed_noise).to(torch.device('cpu'))
         fake_seq = onehot_to_fasta(fixed_fake[0])
         print(f">{epoch}\n{fake_seq}", file=g, flush=True)
-        print(f"Saved Sequence{epoch+1}",
+        print(f"Saved Sequence {epoch+1}",
               f"Fake Prob = {disc(gen(fixed_noise)).to('cpu').detach()[0].item():.4f}",
               f"Real Prob = {disc(fixed_real).to('cpu').detach()[0].item():.4f}")
 
@@ -138,7 +138,7 @@ if __name__ == '__main__':
     print("Training Complete")
 
     print(f"Fake Sequence Probability = {disc(gen(fixed_noise)).to('cpu').item():.4f}",
-    f"Real Sequence Probability = {disc(real[0].reshape(1,4,1000).to('cpu'))[0].item():.4f}",
+    f"Real Sequence Probability = {disc(real[0].reshape(1,4,-1)).to('cpu')[0].item():.4f}",
     file=f, flush=True)
     f.close()
     g.close()
