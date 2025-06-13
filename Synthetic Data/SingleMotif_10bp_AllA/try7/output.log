@@ -1,0 +1,1411 @@
+2025-06-13 11:44:33.794856	Epoch:1/300	Batch:4/624	Loss_critic:6.2585	loss_gen:-0.5008
+2025-06-13 11:44:36.590251	Epoch:1/300	Batch:128/624	Loss_critic:0.7813	loss_gen:-0.4180
+2025-06-13 11:44:39.270843	Epoch:1/300	Batch:252/624	Loss_critic:0.0321	loss_gen:-0.4323
+2025-06-13 11:44:42.008035	Epoch:1/300	Batch:376/624	Loss_critic:0.6877	loss_gen:-0.3361
+2025-06-13 11:44:44.821679	Epoch:1/300	Batch:500/624	Loss_critic:0.0063	loss_gen:-0.3949
+2025-06-13 11:44:47.757462	Epoch:1/300	Batch:624/624	Loss_critic:0.2168	loss_gen:-0.3527
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:44:47.851456	Epoch:2/300	Batch:4/624	Loss_critic:-0.0619	loss_gen:-0.4122
+2025-06-13 11:44:50.837114	Epoch:2/300	Batch:128/624	Loss_critic:-0.0220	loss_gen:-0.3934
+2025-06-13 11:44:53.722129	Epoch:2/300	Batch:252/624	Loss_critic:-0.1154	loss_gen:-0.4089
+2025-06-13 11:44:56.603593	Epoch:2/300	Batch:376/624	Loss_critic:-0.2272	loss_gen:-0.3231
+2025-06-13 11:44:59.480329	Epoch:2/300	Batch:500/624	Loss_critic:-0.0963	loss_gen:-0.4151
+2025-06-13 11:45:02.343505	Epoch:2/300	Batch:624/624	Loss_critic:-0.1972	loss_gen:-0.3500
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:45:02.457266	Epoch:3/300	Batch:4/624	Loss_critic:-0.0342	loss_gen:-0.3339
+2025-06-13 11:45:05.283271	Epoch:3/300	Batch:128/624	Loss_critic:-0.1327	loss_gen:-0.3664
+2025-06-13 11:45:08.047376	Epoch:3/300	Batch:252/624	Loss_critic:-0.0990	loss_gen:-0.3884
+2025-06-13 11:45:10.874172	Epoch:3/300	Batch:376/624	Loss_critic:-0.1289	loss_gen:-0.3389
+2025-06-13 11:45:13.586592	Epoch:3/300	Batch:500/624	Loss_critic:0.1656	loss_gen:-0.3499
+2025-06-13 11:45:16.289694	Epoch:3/300	Batch:624/624	Loss_critic:0.0100	loss_gen:-0.3649
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:45:16.379668	Epoch:4/300	Batch:4/624	Loss_critic:-0.1682	loss_gen:-0.3285
+2025-06-13 11:45:19.274547	Epoch:4/300	Batch:128/624	Loss_critic:-0.1374	loss_gen:-0.4523
+2025-06-13 11:45:22.155919	Epoch:4/300	Batch:252/624	Loss_critic:-0.1505	loss_gen:-0.4544
+2025-06-13 11:45:24.972943	Epoch:4/300	Batch:376/624	Loss_critic:-0.0424	loss_gen:-0.4614
+2025-06-13 11:45:27.767452	Epoch:4/300	Batch:500/624	Loss_critic:-0.1043	loss_gen:-0.4462
+2025-06-13 11:45:30.588815	Epoch:4/300	Batch:624/624	Loss_critic:-0.1942	loss_gen:-0.3182
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:45:30.678809	Epoch:5/300	Batch:4/624	Loss_critic:-0.2143	loss_gen:-0.3495
+2025-06-13 11:45:33.386101	Epoch:5/300	Batch:128/624	Loss_critic:-0.0645	loss_gen:-0.3318
+2025-06-13 11:45:36.012476	Epoch:5/300	Batch:252/624	Loss_critic:-0.1928	loss_gen:-0.4131
+2025-06-13 11:45:38.721729	Epoch:5/300	Batch:376/624	Loss_critic:-0.0777	loss_gen:-0.3980
+2025-06-13 11:45:41.437217	Epoch:5/300	Batch:500/624	Loss_critic:-0.0267	loss_gen:-0.4134
+2025-06-13 11:45:44.233894	Epoch:5/300	Batch:624/624	Loss_critic:-0.0947	loss_gen:-0.3960
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:45:44.323900	Epoch:6/300	Batch:4/624	Loss_critic:-0.1412	loss_gen:-0.5197
+2025-06-13 11:45:47.224232	Epoch:6/300	Batch:128/624	Loss_critic:-0.1208	loss_gen:-0.4092
+2025-06-13 11:45:50.126378	Epoch:6/300	Batch:252/624	Loss_critic:-0.2649	loss_gen:-0.3890
+2025-06-13 11:45:53.684149	Epoch:6/300	Batch:376/624	Loss_critic:-0.1296	loss_gen:-0.3911
+2025-06-13 11:45:57.573884	Epoch:6/300	Batch:500/624	Loss_critic:0.1529	loss_gen:-0.3799
+2025-06-13 11:46:01.559872	Epoch:6/300	Batch:624/624	Loss_critic:-0.2889	loss_gen:-0.3782
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:46:01.740243	Epoch:7/300	Batch:4/624	Loss_critic:0.1867	loss_gen:-0.3156
+2025-06-13 11:46:05.864851	Epoch:7/300	Batch:128/624	Loss_critic:-0.1992	loss_gen:-0.4224
+2025-06-13 11:46:10.021127	Epoch:7/300	Batch:252/624	Loss_critic:-0.0049	loss_gen:-0.3793
+2025-06-13 11:46:14.020010	Epoch:7/300	Batch:376/624	Loss_critic:-0.1998	loss_gen:-0.4228
+2025-06-13 11:46:18.099164	Epoch:7/300	Batch:500/624	Loss_critic:-0.0729	loss_gen:-0.3504
+2025-06-13 11:46:21.971795	Epoch:7/300	Batch:624/624	Loss_critic:-0.3246	loss_gen:-0.3756
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:46:22.115491	Epoch:8/300	Batch:4/624	Loss_critic:-0.0858	loss_gen:-0.3667
+2025-06-13 11:46:26.034813	Epoch:8/300	Batch:128/624	Loss_critic:-0.3310	loss_gen:-0.3369
+2025-06-13 11:46:29.770020	Epoch:8/300	Batch:252/624	Loss_critic:0.1238	loss_gen:-0.3020
+2025-06-13 11:46:33.418425	Epoch:8/300	Batch:376/624	Loss_critic:-0.2856	loss_gen:-0.4019
+2025-06-13 11:46:36.696326	Epoch:8/300	Batch:500/624	Loss_critic:-0.3327	loss_gen:-0.2997
+2025-06-13 11:46:39.965675	Epoch:8/300	Batch:624/624	Loss_critic:-0.0165	loss_gen:-0.4056
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:46:40.071582	Epoch:9/300	Batch:4/624	Loss_critic:-0.1091	loss_gen:-0.4054
+2025-06-13 11:46:43.413250	Epoch:9/300	Batch:128/624	Loss_critic:-0.2180	loss_gen:-0.4060
+2025-06-13 11:46:47.011489	Epoch:9/300	Batch:252/624	Loss_critic:-0.1504	loss_gen:-0.4276
+2025-06-13 11:46:50.767633	Epoch:9/300	Batch:376/624	Loss_critic:-0.0741	loss_gen:-0.4126
+2025-06-13 11:46:54.590432	Epoch:9/300	Batch:500/624	Loss_critic:-0.1092	loss_gen:-0.3632
+2025-06-13 11:46:58.422773	Epoch:9/300	Batch:624/624	Loss_critic:-0.2564	loss_gen:-0.3243
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:46:58.613269	Epoch:10/300	Batch:4/624	Loss_critic:0.2114	loss_gen:-0.2875
+2025-06-13 11:47:02.563620	Epoch:10/300	Batch:128/624	Loss_critic:-0.1972	loss_gen:-0.3366
+2025-06-13 11:47:06.323435	Epoch:10/300	Batch:252/624	Loss_critic:-0.2145	loss_gen:-0.2817
+2025-06-13 11:47:10.234942	Epoch:10/300	Batch:376/624	Loss_critic:-0.2027	loss_gen:-0.2926
+2025-06-13 11:47:13.925803	Epoch:10/300	Batch:500/624	Loss_critic:-0.0727	loss_gen:-0.2284
+2025-06-13 11:47:18.232148	Epoch:10/300	Batch:624/624	Loss_critic:-0.2153	loss_gen:-0.3687
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:47:18.372965	Epoch:11/300	Batch:4/624	Loss_critic:-0.1918	loss_gen:-0.3341
+2025-06-13 11:47:22.459165	Epoch:11/300	Batch:128/624	Loss_critic:-0.2867	loss_gen:-0.3310
+2025-06-13 11:47:26.235429	Epoch:11/300	Batch:252/624	Loss_critic:-0.2958	loss_gen:-0.3414
+2025-06-13 11:47:29.995672	Epoch:11/300	Batch:376/624	Loss_critic:-0.2451	loss_gen:-0.3424
+2025-06-13 11:47:33.791637	Epoch:11/300	Batch:500/624	Loss_critic:-0.1172	loss_gen:-0.4120
+2025-06-13 11:47:37.794861	Epoch:11/300	Batch:624/624	Loss_critic:-0.0983	loss_gen:-0.3719
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:47:37.936124	Epoch:12/300	Batch:4/624	Loss_critic:0.1233	loss_gen:-0.3255
+2025-06-13 11:47:41.734327	Epoch:12/300	Batch:128/624	Loss_critic:-0.1117	loss_gen:-0.3190
+2025-06-13 11:47:45.658957	Epoch:12/300	Batch:252/624	Loss_critic:0.2872	loss_gen:-0.4354
+2025-06-13 11:47:49.477395	Epoch:12/300	Batch:376/624	Loss_critic:-0.0764	loss_gen:-0.4646
+2025-06-13 11:47:53.091571	Epoch:12/300	Batch:500/624	Loss_critic:-0.0567	loss_gen:-0.3850
+2025-06-13 11:47:56.606646	Epoch:12/300	Batch:624/624	Loss_critic:-0.0162	loss_gen:-0.4913
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:47:56.716643	Epoch:13/300	Batch:4/624	Loss_critic:-0.1068	loss_gen:-0.4364
+2025-06-13 11:48:00.153418	Epoch:13/300	Batch:128/624	Loss_critic:0.0839	loss_gen:-0.4810
+2025-06-13 11:48:03.910267	Epoch:13/300	Batch:252/624	Loss_critic:-0.1781	loss_gen:-0.4020
+2025-06-13 11:48:07.739121	Epoch:13/300	Batch:376/624	Loss_critic:0.0184	loss_gen:-0.4029
+2025-06-13 11:48:11.412409	Epoch:13/300	Batch:500/624	Loss_critic:-0.0335	loss_gen:-0.4236
+2025-06-13 11:48:14.229174	Epoch:13/300	Batch:624/624	Loss_critic:-0.0861	loss_gen:-0.4295
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:48:14.329274	Epoch:14/300	Batch:4/624	Loss_critic:-0.0866	loss_gen:-0.4399
+2025-06-13 11:48:17.292953	Epoch:14/300	Batch:128/624	Loss_critic:-0.1220	loss_gen:-0.3568
+2025-06-13 11:48:20.115262	Epoch:14/300	Batch:252/624	Loss_critic:0.0779	loss_gen:-0.4260
+2025-06-13 11:48:22.892302	Epoch:14/300	Batch:376/624	Loss_critic:0.0971	loss_gen:-0.3931
+2025-06-13 11:48:25.720151	Epoch:14/300	Batch:500/624	Loss_critic:-0.0970	loss_gen:-0.3822
+2025-06-13 11:48:28.529601	Epoch:14/300	Batch:624/624	Loss_critic:-0.1695	loss_gen:-0.3938
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:48:28.620241	Epoch:15/300	Batch:4/624	Loss_critic:-0.0328	loss_gen:-0.4573
+2025-06-13 11:48:31.407322	Epoch:15/300	Batch:128/624	Loss_critic:-0.1857	loss_gen:-0.4325
+2025-06-13 11:48:34.283348	Epoch:15/300	Batch:252/624	Loss_critic:0.1221	loss_gen:-0.3401
+2025-06-13 11:48:37.063195	Epoch:15/300	Batch:376/624	Loss_critic:-0.0293	loss_gen:-0.3589
+2025-06-13 11:48:39.862748	Epoch:15/300	Batch:500/624	Loss_critic:-0.0827	loss_gen:-0.3651
+2025-06-13 11:48:42.870278	Epoch:15/300	Batch:624/624	Loss_critic:-0.0427	loss_gen:-0.3840
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:48:42.970890	Epoch:16/300	Batch:4/624	Loss_critic:-0.1652	loss_gen:-0.3569
+2025-06-13 11:48:45.975524	Epoch:16/300	Batch:128/624	Loss_critic:-0.2252	loss_gen:-0.3082
+2025-06-13 11:48:48.873903	Epoch:16/300	Batch:252/624	Loss_critic:-0.1773	loss_gen:-0.2897
+2025-06-13 11:48:52.292215	Epoch:16/300	Batch:376/624	Loss_critic:-0.0956	loss_gen:-0.3459
+2025-06-13 11:48:56.064764	Epoch:16/300	Batch:500/624	Loss_critic:-0.1096	loss_gen:-0.2805
+2025-06-13 11:48:59.753055	Epoch:16/300	Batch:624/624	Loss_critic:-0.1279	loss_gen:-0.4129
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:48:59.926788	Epoch:17/300	Batch:4/624	Loss_critic:-0.1545	loss_gen:-0.3827
+2025-06-13 11:49:03.286538	Epoch:17/300	Batch:128/624	Loss_critic:-0.1786	loss_gen:-0.3193
+2025-06-13 11:49:06.142718	Epoch:17/300	Batch:252/624	Loss_critic:-0.1251	loss_gen:-0.2806
+2025-06-13 11:49:08.937986	Epoch:17/300	Batch:376/624	Loss_critic:-0.2008	loss_gen:-0.3679
+2025-06-13 11:49:11.683390	Epoch:17/300	Batch:500/624	Loss_critic:-0.1407	loss_gen:-0.3455
+2025-06-13 11:49:14.677602	Epoch:17/300	Batch:624/624	Loss_critic:-0.2073	loss_gen:-0.3257
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:49:14.778622	Epoch:18/300	Batch:4/624	Loss_critic:-0.2622	loss_gen:-0.3955
+2025-06-13 11:49:17.861531	Epoch:18/300	Batch:128/624	Loss_critic:-0.0323	loss_gen:-0.3427
+2025-06-13 11:49:20.991818	Epoch:18/300	Batch:252/624	Loss_critic:-0.0251	loss_gen:-0.3711
+2025-06-13 11:49:24.030996	Epoch:18/300	Batch:376/624	Loss_critic:-0.0536	loss_gen:-0.3428
+2025-06-13 11:49:26.969475	Epoch:18/300	Batch:500/624	Loss_critic:-0.1901	loss_gen:-0.3261
+2025-06-13 11:49:29.752090	Epoch:18/300	Batch:624/624	Loss_critic:-0.0063	loss_gen:-0.3498
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:49:29.842721	Epoch:19/300	Batch:4/624	Loss_critic:-0.2339	loss_gen:-0.3055
+2025-06-13 11:49:32.538747	Epoch:19/300	Batch:128/624	Loss_critic:-0.2429	loss_gen:-0.2537
+2025-06-13 11:49:35.288899	Epoch:19/300	Batch:252/624	Loss_critic:0.0559	loss_gen:-0.3125
+2025-06-13 11:49:37.978022	Epoch:19/300	Batch:376/624	Loss_critic:-0.0606	loss_gen:-0.3189
+2025-06-13 11:49:40.691570	Epoch:19/300	Batch:500/624	Loss_critic:-0.2244	loss_gen:-0.2502
+2025-06-13 11:49:43.474969	Epoch:19/300	Batch:624/624	Loss_critic:-0.0042	loss_gen:-0.3297
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:49:43.564977	Epoch:20/300	Batch:4/624	Loss_critic:-0.1150	loss_gen:-0.3720
+2025-06-13 11:49:46.314886	Epoch:20/300	Batch:128/624	Loss_critic:-0.0681	loss_gen:-0.4396
+2025-06-13 11:49:49.338169	Epoch:20/300	Batch:252/624	Loss_critic:-0.0938	loss_gen:-0.3479
+2025-06-13 11:49:52.474735	Epoch:20/300	Batch:376/624	Loss_critic:0.0257	loss_gen:-0.2703
+2025-06-13 11:49:55.594301	Epoch:20/300	Batch:500/624	Loss_critic:-0.3849	loss_gen:-0.2641
+2025-06-13 11:49:58.814004	Epoch:20/300	Batch:624/624	Loss_critic:-0.2707	loss_gen:-0.2420
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:49:58.914632	Epoch:21/300	Batch:4/624	Loss_critic:-0.2923	loss_gen:-0.2526
+2025-06-13 11:50:02.098412	Epoch:21/300	Batch:128/624	Loss_critic:-0.1782	loss_gen:-0.2505
+2025-06-13 11:50:05.273678	Epoch:21/300	Batch:252/624	Loss_critic:0.3507	loss_gen:-0.2006
+2025-06-13 11:50:08.440022	Epoch:21/300	Batch:376/624	Loss_critic:-0.2509	loss_gen:-0.2736
+2025-06-13 11:50:11.640821	Epoch:21/300	Batch:500/624	Loss_critic:-0.2462	loss_gen:-0.2940
+2025-06-13 11:50:14.783280	Epoch:21/300	Batch:624/624	Loss_critic:0.0755	loss_gen:-0.2901
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:50:14.904586	Epoch:22/300	Batch:4/624	Loss_critic:-0.3117	loss_gen:-0.2511
+2025-06-13 11:50:17.932796	Epoch:22/300	Batch:128/624	Loss_critic:-0.2299	loss_gen:-0.2670
+2025-06-13 11:50:21.079066	Epoch:22/300	Batch:252/624	Loss_critic:-0.3899	loss_gen:-0.1842
+2025-06-13 11:50:24.179976	Epoch:22/300	Batch:376/624	Loss_critic:-0.2527	loss_gen:-0.2933
+2025-06-13 11:50:27.390975	Epoch:22/300	Batch:500/624	Loss_critic:-0.1933	loss_gen:-0.2593
+2025-06-13 11:50:30.547157	Epoch:22/300	Batch:624/624	Loss_critic:-0.3850	loss_gen:-0.2604
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:50:30.667403	Epoch:23/300	Batch:4/624	Loss_critic:-0.2873	loss_gen:-0.3028
+2025-06-13 11:50:33.915083	Epoch:23/300	Batch:128/624	Loss_critic:-0.0231	loss_gen:-0.2544
+2025-06-13 11:50:37.164876	Epoch:23/300	Batch:252/624	Loss_critic:-0.2636	loss_gen:-0.3444
+2025-06-13 11:50:40.221734	Epoch:23/300	Batch:376/624	Loss_critic:-0.2515	loss_gen:-0.2585
+2025-06-13 11:50:43.412940	Epoch:23/300	Batch:500/624	Loss_critic:0.0396	loss_gen:-0.2222
+2025-06-13 11:50:46.589721	Epoch:23/300	Batch:624/624	Loss_critic:-0.2350	loss_gen:-0.2657
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:50:46.689978	Epoch:24/300	Batch:4/624	Loss_critic:-0.2038	loss_gen:-0.2870
+2025-06-13 11:50:49.644816	Epoch:24/300	Batch:128/624	Loss_critic:-0.0294	loss_gen:-0.2575
+2025-06-13 11:50:52.786394	Epoch:24/300	Batch:252/624	Loss_critic:-0.3152	loss_gen:-0.2651
+2025-06-13 11:50:55.781287	Epoch:24/300	Batch:376/624	Loss_critic:-0.1608	loss_gen:-0.2305
+2025-06-13 11:50:58.978070	Epoch:24/300	Batch:500/624	Loss_critic:-0.4084	loss_gen:-0.2050
+2025-06-13 11:51:02.214671	Epoch:24/300	Batch:624/624	Loss_critic:-0.1448	loss_gen:-0.2069
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:51:02.334164	Epoch:25/300	Batch:4/624	Loss_critic:-0.1980	loss_gen:-0.2233
+2025-06-13 11:51:05.453703	Epoch:25/300	Batch:128/624	Loss_critic:-0.3121	loss_gen:-0.2273
+2025-06-13 11:51:08.677742	Epoch:25/300	Batch:252/624	Loss_critic:-0.0340	loss_gen:-0.3578
+2025-06-13 11:51:11.609327	Epoch:25/300	Batch:376/624	Loss_critic:-0.1556	loss_gen:-0.2733
+2025-06-13 11:51:14.679235	Epoch:25/300	Batch:500/624	Loss_critic:-0.2378	loss_gen:-0.3217
+2025-06-13 11:51:17.609348	Epoch:25/300	Batch:624/624	Loss_critic:-0.3924	loss_gen:-0.2844
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:51:17.705394	Epoch:26/300	Batch:4/624	Loss_critic:0.3546	loss_gen:-0.2837
+2025-06-13 11:51:20.775783	Epoch:26/300	Batch:128/624	Loss_critic:0.1243	loss_gen:-0.3536
+2025-06-13 11:51:23.596445	Epoch:26/300	Batch:252/624	Loss_critic:0.1347	loss_gen:-0.2774
+2025-06-13 11:51:26.810104	Epoch:26/300	Batch:376/624	Loss_critic:-0.1796	loss_gen:-0.2482
+2025-06-13 11:51:30.088614	Epoch:26/300	Batch:500/624	Loss_critic:-0.2268	loss_gen:-0.2972
+2025-06-13 11:51:33.320653	Epoch:26/300	Batch:624/624	Loss_critic:-0.0208	loss_gen:-0.2885
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:51:33.430620	Epoch:27/300	Batch:4/624	Loss_critic:-0.2897	loss_gen:-0.2486
+2025-06-13 11:51:36.644240	Epoch:27/300	Batch:128/624	Loss_critic:-0.2153	loss_gen:-0.2812
+2025-06-13 11:51:39.729517	Epoch:27/300	Batch:252/624	Loss_critic:-0.0962	loss_gen:-0.2649
+2025-06-13 11:51:42.750209	Epoch:27/300	Batch:376/624	Loss_critic:-0.3433	loss_gen:-0.2565
+2025-06-13 11:51:45.535485	Epoch:27/300	Batch:500/624	Loss_critic:0.1863	loss_gen:-0.2732
+2025-06-13 11:51:48.598320	Epoch:27/300	Batch:624/624	Loss_critic:-0.2282	loss_gen:-0.2661
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:51:48.708434	Epoch:28/300	Batch:4/624	Loss_critic:-0.3779	loss_gen:-0.2374
+2025-06-13 11:51:51.427406	Epoch:28/300	Batch:128/624	Loss_critic:-0.2699	loss_gen:-0.1625
+2025-06-13 11:51:54.195869	Epoch:28/300	Batch:252/624	Loss_critic:-0.1659	loss_gen:-0.2258
+2025-06-13 11:51:56.963813	Epoch:28/300	Batch:376/624	Loss_critic:-0.2374	loss_gen:-0.2419
+2025-06-13 11:51:59.719160	Epoch:28/300	Batch:500/624	Loss_critic:-0.3107	loss_gen:-0.3249
+2025-06-13 11:52:02.504414	Epoch:28/300	Batch:624/624	Loss_critic:-0.3534	loss_gen:-0.2820
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:52:02.604365	Epoch:29/300	Batch:4/624	Loss_critic:0.0438	loss_gen:-0.3389
+2025-06-13 11:52:05.338407	Epoch:29/300	Batch:128/624	Loss_critic:-0.2792	loss_gen:-0.3368
+2025-06-13 11:52:08.093202	Epoch:29/300	Batch:252/624	Loss_critic:-0.0972	loss_gen:-0.4441
+2025-06-13 11:52:10.802236	Epoch:29/300	Batch:376/624	Loss_critic:-0.0822	loss_gen:-0.2847
+2025-06-13 11:52:13.646208	Epoch:29/300	Batch:500/624	Loss_critic:0.3917	loss_gen:-0.4568
+2025-06-13 11:52:16.499112	Epoch:29/300	Batch:624/624	Loss_critic:0.1162	loss_gen:-0.4001
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:52:16.599509	Epoch:30/300	Batch:4/624	Loss_critic:-0.1791	loss_gen:-0.4061
+2025-06-13 11:52:19.344161	Epoch:30/300	Batch:128/624	Loss_critic:-0.1462	loss_gen:-0.2690
+2025-06-13 11:52:22.131951	Epoch:30/300	Batch:252/624	Loss_critic:-0.3421	loss_gen:-0.3781
+2025-06-13 11:52:24.864206	Epoch:30/300	Batch:376/624	Loss_critic:-0.2158	loss_gen:-0.3164
+2025-06-13 11:52:27.657497	Epoch:30/300	Batch:500/624	Loss_critic:0.3968	loss_gen:-0.3424
+2025-06-13 11:52:30.482207	Epoch:30/300	Batch:624/624	Loss_critic:-0.1067	loss_gen:-0.3054
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:52:30.582203	Epoch:31/300	Batch:4/624	Loss_critic:-0.1868	loss_gen:-0.3329
+2025-06-13 11:52:33.337797	Epoch:31/300	Batch:128/624	Loss_critic:-0.1748	loss_gen:-0.3672
+2025-06-13 11:52:36.179587	Epoch:31/300	Batch:252/624	Loss_critic:-0.2134	loss_gen:-0.3485
+2025-06-13 11:52:38.873147	Epoch:31/300	Batch:376/624	Loss_critic:-0.1968	loss_gen:-0.3767
+2025-06-13 11:52:41.622781	Epoch:31/300	Batch:500/624	Loss_critic:-0.0207	loss_gen:-0.4036
+2025-06-13 11:52:44.501739	Epoch:31/300	Batch:624/624	Loss_critic:-0.1602	loss_gen:-0.3526
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:52:44.597291	Epoch:32/300	Batch:4/624	Loss_critic:-0.2168	loss_gen:-0.2988
+2025-06-13 11:52:47.462148	Epoch:32/300	Batch:128/624	Loss_critic:-0.1938	loss_gen:-0.3186
+2025-06-13 11:52:50.326414	Epoch:32/300	Batch:252/624	Loss_critic:-0.2417	loss_gen:-0.3708
+2025-06-13 11:52:53.448565	Epoch:32/300	Batch:376/624	Loss_critic:-0.1998	loss_gen:-0.3181
+2025-06-13 11:52:56.353979	Epoch:32/300	Batch:500/624	Loss_critic:0.0324	loss_gen:-0.3919
+2025-06-13 11:52:59.202084	Epoch:32/300	Batch:624/624	Loss_critic:-0.2130	loss_gen:-0.2979
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:52:59.294997	Epoch:33/300	Batch:4/624	Loss_critic:-0.1074	loss_gen:-0.3158
+2025-06-13 11:53:02.113405	Epoch:33/300	Batch:128/624	Loss_critic:0.2423	loss_gen:-0.3555
+2025-06-13 11:53:04.882723	Epoch:33/300	Batch:252/624	Loss_critic:-0.2349	loss_gen:-0.3456
+2025-06-13 11:53:07.710542	Epoch:33/300	Batch:376/624	Loss_critic:-0.1564	loss_gen:-0.2682
+2025-06-13 11:53:10.442540	Epoch:33/300	Batch:500/624	Loss_critic:-0.1375	loss_gen:-0.3122
+2025-06-13 11:53:13.213818	Epoch:33/300	Batch:624/624	Loss_critic:-0.2527	loss_gen:-0.2809
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:53:13.313810	Epoch:34/300	Batch:4/624	Loss_critic:-0.1143	loss_gen:-0.3205
+2025-06-13 11:53:16.103719	Epoch:34/300	Batch:128/624	Loss_critic:-0.2993	loss_gen:-0.3243
+2025-06-13 11:53:18.923146	Epoch:34/300	Batch:252/624	Loss_critic:-0.2811	loss_gen:-0.3243
+2025-06-13 11:53:21.656841	Epoch:34/300	Batch:376/624	Loss_critic:-0.2038	loss_gen:-0.3234
+2025-06-13 11:53:24.408696	Epoch:34/300	Batch:500/624	Loss_critic:-0.3049	loss_gen:-0.2425
+2025-06-13 11:53:27.243977	Epoch:34/300	Batch:624/624	Loss_critic:-0.0779	loss_gen:-0.2666
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:53:27.344055	Epoch:35/300	Batch:4/624	Loss_critic:-0.0820	loss_gen:-0.3222
+2025-06-13 11:53:30.122192	Epoch:35/300	Batch:128/624	Loss_critic:-0.4580	loss_gen:-0.2839
+2025-06-13 11:53:32.847124	Epoch:35/300	Batch:252/624	Loss_critic:-0.3756	loss_gen:-0.2372
+2025-06-13 11:53:35.604121	Epoch:35/300	Batch:376/624	Loss_critic:-0.2014	loss_gen:-0.3224
+2025-06-13 11:53:38.367675	Epoch:35/300	Batch:500/624	Loss_critic:-0.3182	loss_gen:-0.2748
+2025-06-13 11:53:41.139910	Epoch:35/300	Batch:624/624	Loss_critic:-0.2936	loss_gen:-0.3193
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:53:41.240385	Epoch:36/300	Batch:4/624	Loss_critic:-0.1176	loss_gen:-0.3387
+2025-06-13 11:53:43.964887	Epoch:36/300	Batch:128/624	Loss_critic:0.7303	loss_gen:-0.4781
+2025-06-13 11:53:46.752638	Epoch:36/300	Batch:252/624	Loss_critic:0.1209	loss_gen:-0.6010
+2025-06-13 11:53:49.562008	Epoch:36/300	Batch:376/624	Loss_critic:-0.1160	loss_gen:-0.3618
+2025-06-13 11:53:52.774372	Epoch:36/300	Batch:500/624	Loss_critic:-0.1014	loss_gen:-0.3548
+2025-06-13 11:53:56.051465	Epoch:36/300	Batch:624/624	Loss_critic:-0.0857	loss_gen:-0.4097
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:53:56.153716	Epoch:37/300	Batch:4/624	Loss_critic:-0.1772	loss_gen:-0.4032
+2025-06-13 11:53:59.354170	Epoch:37/300	Batch:128/624	Loss_critic:-0.0900	loss_gen:-0.3212
+2025-06-13 11:54:02.546810	Epoch:37/300	Batch:252/624	Loss_critic:-0.3242	loss_gen:-0.3414
+2025-06-13 11:54:05.770280	Epoch:37/300	Batch:376/624	Loss_critic:-0.0049	loss_gen:-0.2245
+2025-06-13 11:54:08.889065	Epoch:37/300	Batch:500/624	Loss_critic:-0.1180	loss_gen:-0.3456
+2025-06-13 11:54:12.057581	Epoch:37/300	Batch:624/624	Loss_critic:0.5462	loss_gen:-0.3115
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:54:12.177580	Epoch:38/300	Batch:4/624	Loss_critic:-0.1989	loss_gen:-0.2986
+2025-06-13 11:54:15.364032	Epoch:38/300	Batch:128/624	Loss_critic:-0.2720	loss_gen:-0.3193
+2025-06-13 11:54:18.551877	Epoch:38/300	Batch:252/624	Loss_critic:-0.1631	loss_gen:-0.2575
+2025-06-13 11:54:21.890985	Epoch:38/300	Batch:376/624	Loss_critic:-0.1448	loss_gen:-0.3330
+2025-06-13 11:54:25.112852	Epoch:38/300	Batch:500/624	Loss_critic:-0.2183	loss_gen:-0.3252
+2025-06-13 11:54:28.345683	Epoch:38/300	Batch:624/624	Loss_critic:-0.2431	loss_gen:-0.2573
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:54:28.434904	Epoch:39/300	Batch:4/624	Loss_critic:-0.2797	loss_gen:-0.2331
+2025-06-13 11:54:31.586593	Epoch:39/300	Batch:128/624	Loss_critic:-0.0606	loss_gen:-0.2687
+2025-06-13 11:54:34.692225	Epoch:39/300	Batch:252/624	Loss_critic:0.0685	loss_gen:-0.3712
+2025-06-13 11:54:37.826294	Epoch:39/300	Batch:376/624	Loss_critic:-0.2686	loss_gen:-0.3393
+2025-06-13 11:54:40.991929	Epoch:39/300	Batch:500/624	Loss_critic:-0.0864	loss_gen:-0.2935
+2025-06-13 11:54:44.177486	Epoch:39/300	Batch:624/624	Loss_critic:-0.1888	loss_gen:-0.2829
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:54:44.315052	Epoch:40/300	Batch:4/624	Loss_critic:-0.3475	loss_gen:-0.1930
+2025-06-13 11:54:47.505075	Epoch:40/300	Batch:128/624	Loss_critic:-0.1455	loss_gen:-0.3192
+2025-06-13 11:54:51.087716	Epoch:40/300	Batch:252/624	Loss_critic:0.3689	loss_gen:-0.2818
+2025-06-13 11:54:54.664215	Epoch:40/300	Batch:376/624	Loss_critic:-0.1690	loss_gen:-0.3403
+2025-06-13 11:54:57.558935	Epoch:40/300	Batch:500/624	Loss_critic:-0.1622	loss_gen:-0.3975
+2025-06-13 11:55:00.727731	Epoch:40/300	Batch:624/624	Loss_critic:-0.2811	loss_gen:-0.3023
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:55:00.840937	Epoch:41/300	Batch:4/624	Loss_critic:-0.2706	loss_gen:-0.2951
+2025-06-13 11:55:03.923587	Epoch:41/300	Batch:128/624	Loss_critic:-0.3016	loss_gen:-0.2537
+2025-06-13 11:55:06.919716	Epoch:41/300	Batch:252/624	Loss_critic:-0.2481	loss_gen:-0.3259
+2025-06-13 11:55:09.968228	Epoch:41/300	Batch:376/624	Loss_critic:-0.2793	loss_gen:-0.3514
+2025-06-13 11:55:13.087693	Epoch:41/300	Batch:500/624	Loss_critic:-0.1699	loss_gen:-0.3337
+2025-06-13 11:55:16.202435	Epoch:41/300	Batch:624/624	Loss_critic:-0.2798	loss_gen:-0.2745
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:55:16.302543	Epoch:42/300	Batch:4/624	Loss_critic:-0.1947	loss_gen:-0.3087
+2025-06-13 11:55:19.329920	Epoch:42/300	Batch:128/624	Loss_critic:-0.1462	loss_gen:-0.2838
+2025-06-13 11:55:22.393539	Epoch:42/300	Batch:252/624	Loss_critic:-0.0855	loss_gen:-0.2550
+2025-06-13 11:55:25.327150	Epoch:42/300	Batch:376/624	Loss_critic:-0.2202	loss_gen:-0.3409
+2025-06-13 11:55:28.490274	Epoch:42/300	Batch:500/624	Loss_critic:-0.1556	loss_gen:-0.3326
+2025-06-13 11:55:31.479165	Epoch:42/300	Batch:624/624	Loss_critic:-0.2827	loss_gen:-0.2830
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:55:31.569257	Epoch:43/300	Batch:4/624	Loss_critic:-0.2795	loss_gen:-0.2953
+2025-06-13 11:55:34.641293	Epoch:43/300	Batch:128/624	Loss_critic:-0.2019	loss_gen:-0.2274
+2025-06-13 11:55:37.691296	Epoch:43/300	Batch:252/624	Loss_critic:-0.0747	loss_gen:-0.2648
+2025-06-13 11:55:40.821137	Epoch:43/300	Batch:376/624	Loss_critic:-0.2157	loss_gen:-0.3837
+2025-06-13 11:55:43.801098	Epoch:43/300	Batch:500/624	Loss_critic:-0.3412	loss_gen:-0.2905
+2025-06-13 11:55:46.957522	Epoch:43/300	Batch:624/624	Loss_critic:0.0065	loss_gen:-0.3026
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:55:47.057523	Epoch:44/300	Batch:4/624	Loss_critic:-0.1900	loss_gen:-0.3536
+2025-06-13 11:55:49.877950	Epoch:44/300	Batch:128/624	Loss_critic:-0.2701	loss_gen:-0.2453
+2025-06-13 11:55:52.654225	Epoch:44/300	Batch:252/624	Loss_critic:-0.2747	loss_gen:-0.2674
+2025-06-13 11:55:55.504404	Epoch:44/300	Batch:376/624	Loss_critic:-0.2697	loss_gen:-0.3444
+2025-06-13 11:55:58.324861	Epoch:44/300	Batch:500/624	Loss_critic:-0.0088	loss_gen:-0.2525
+2025-06-13 11:56:01.142627	Epoch:44/300	Batch:624/624	Loss_critic:-0.1822	loss_gen:-0.2711
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:56:01.232703	Epoch:45/300	Batch:4/624	Loss_critic:-0.0890	loss_gen:-0.2633
+2025-06-13 11:56:03.932230	Epoch:45/300	Batch:128/624	Loss_critic:-0.1860	loss_gen:-0.3143
+2025-06-13 11:56:06.620759	Epoch:45/300	Batch:252/624	Loss_critic:-0.2059	loss_gen:-0.2821
+2025-06-13 11:56:09.341295	Epoch:45/300	Batch:376/624	Loss_critic:-0.1606	loss_gen:-0.2374
+2025-06-13 11:56:12.080593	Epoch:45/300	Batch:500/624	Loss_critic:-0.0392	loss_gen:-0.2669
+2025-06-13 11:56:14.887898	Epoch:45/300	Batch:624/624	Loss_critic:0.3190	loss_gen:-0.2871
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:56:14.977899	Epoch:46/300	Batch:4/624	Loss_critic:-0.0964	loss_gen:-0.3657
+2025-06-13 11:56:17.887023	Epoch:46/300	Batch:128/624	Loss_critic:0.0499	loss_gen:-0.4073
+2025-06-13 11:56:20.780687	Epoch:46/300	Batch:252/624	Loss_critic:-0.1596	loss_gen:-0.4000
+2025-06-13 11:56:23.650957	Epoch:46/300	Batch:376/624	Loss_critic:-0.2297	loss_gen:-0.3523
+2025-06-13 11:56:26.414661	Epoch:46/300	Batch:500/624	Loss_critic:-0.1854	loss_gen:-0.2606
+2025-06-13 11:56:29.184181	Epoch:46/300	Batch:624/624	Loss_critic:-0.2516	loss_gen:-0.2780
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:56:29.284670	Epoch:47/300	Batch:4/624	Loss_critic:-0.2953	loss_gen:-0.2568
+2025-06-13 11:56:31.967639	Epoch:47/300	Batch:128/624	Loss_critic:-0.1953	loss_gen:-0.3015
+2025-06-13 11:56:34.757791	Epoch:47/300	Batch:252/624	Loss_critic:-0.3410	loss_gen:-0.2255
+2025-06-13 11:56:37.460702	Epoch:47/300	Batch:376/624	Loss_critic:-0.2451	loss_gen:-0.4473
+2025-06-13 11:56:40.173185	Epoch:47/300	Batch:500/624	Loss_critic:0.2564	loss_gen:-0.2861
+2025-06-13 11:56:43.013961	Epoch:47/300	Batch:624/624	Loss_critic:-0.0314	loss_gen:-0.2116
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:56:43.124368	Epoch:48/300	Batch:4/624	Loss_critic:-0.3330	loss_gen:-0.2466
+2025-06-13 11:56:45.874559	Epoch:48/300	Batch:128/624	Loss_critic:-0.1039	loss_gen:-0.2488
+2025-06-13 11:56:48.639929	Epoch:48/300	Batch:252/624	Loss_critic:-0.3286	loss_gen:-0.3147
+2025-06-13 11:56:51.319047	Epoch:48/300	Batch:376/624	Loss_critic:-0.2424	loss_gen:-0.2383
+2025-06-13 11:56:54.041077	Epoch:48/300	Batch:500/624	Loss_critic:-0.2582	loss_gen:-0.2769
+2025-06-13 11:56:56.713629	Epoch:48/300	Batch:624/624	Loss_critic:-0.2879	loss_gen:-0.2017
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:56:56.803692	Epoch:49/300	Batch:4/624	Loss_critic:-0.2978	loss_gen:-0.2967
+2025-06-13 11:56:59.559402	Epoch:49/300	Batch:128/624	Loss_critic:-0.3857	loss_gen:-0.3093
+2025-06-13 11:57:02.302230	Epoch:49/300	Batch:252/624	Loss_critic:-0.4586	loss_gen:-0.2115
+2025-06-13 11:57:04.985378	Epoch:49/300	Batch:376/624	Loss_critic:-0.3777	loss_gen:-0.2894
+2025-06-13 11:57:07.690770	Epoch:49/300	Batch:500/624	Loss_critic:-0.2990	loss_gen:-0.2197
+2025-06-13 11:57:10.469700	Epoch:49/300	Batch:624/624	Loss_critic:-0.2113	loss_gen:-0.2989
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:57:10.590447	Epoch:50/300	Batch:4/624	Loss_critic:-0.2503	loss_gen:-0.2736
+2025-06-13 11:57:13.321840	Epoch:50/300	Batch:128/624	Loss_critic:-0.4511	loss_gen:-0.2652
+2025-06-13 11:57:16.144901	Epoch:50/300	Batch:252/624	Loss_critic:-0.3121	loss_gen:-0.2812
+2025-06-13 11:57:18.922622	Epoch:50/300	Batch:376/624	Loss_critic:-0.4480	loss_gen:-0.1775
+2025-06-13 11:57:21.655342	Epoch:50/300	Batch:500/624	Loss_critic:-0.0042	loss_gen:-0.1881
+2025-06-13 11:57:24.464658	Epoch:50/300	Batch:624/624	Loss_critic:-0.0116	loss_gen:-0.3018
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:57:24.554652	Epoch:51/300	Batch:4/624	Loss_critic:-0.3178	loss_gen:-0.2392
+2025-06-13 11:57:27.281100	Epoch:51/300	Batch:128/624	Loss_critic:-0.2794	loss_gen:-0.2155
+2025-06-13 11:57:30.017944	Epoch:51/300	Batch:252/624	Loss_critic:-0.2725	loss_gen:-0.3011
+2025-06-13 11:57:32.781648	Epoch:51/300	Batch:376/624	Loss_critic:-0.0764	loss_gen:-0.2538
+2025-06-13 11:57:35.538569	Epoch:51/300	Batch:500/624	Loss_critic:-0.3230	loss_gen:-0.2683
+2025-06-13 11:57:38.437449	Epoch:51/300	Batch:624/624	Loss_critic:-0.3188	loss_gen:-0.2748
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:57:38.528066	Epoch:52/300	Batch:4/624	Loss_critic:-0.1136	loss_gen:-0.3746
+2025-06-13 11:57:41.274202	Epoch:52/300	Batch:128/624	Loss_critic:-0.4145	loss_gen:-0.2428
+2025-06-13 11:57:44.022490	Epoch:52/300	Batch:252/624	Loss_critic:-0.1749	loss_gen:-0.3229
+2025-06-13 11:57:46.858247	Epoch:52/300	Batch:376/624	Loss_critic:-0.3860	loss_gen:-0.3006
+2025-06-13 11:57:49.606658	Epoch:52/300	Batch:500/624	Loss_critic:-0.2027	loss_gen:-0.2672
+2025-06-13 11:57:53.203547	Epoch:52/300	Batch:624/624	Loss_critic:-0.3730	loss_gen:-0.2561
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:57:53.313644	Epoch:53/300	Batch:4/624	Loss_critic:-0.3228	loss_gen:-0.2632
+2025-06-13 11:57:56.407781	Epoch:53/300	Batch:128/624	Loss_critic:-0.2166	loss_gen:-0.3463
+2025-06-13 11:57:59.335678	Epoch:53/300	Batch:252/624	Loss_critic:-0.0894	loss_gen:-0.2827
+2025-06-13 11:58:02.353842	Epoch:53/300	Batch:376/624	Loss_critic:-0.2558	loss_gen:-0.2076
+2025-06-13 11:58:05.417329	Epoch:53/300	Batch:500/624	Loss_critic:-0.3641	loss_gen:-0.1807
+2025-06-13 11:58:08.712843	Epoch:53/300	Batch:624/624	Loss_critic:-0.2614	loss_gen:-0.2694
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:58:08.806596	Epoch:54/300	Batch:4/624	Loss_critic:-0.3197	loss_gen:-0.2232
+2025-06-13 11:58:12.108910	Epoch:54/300	Batch:128/624	Loss_critic:-0.2936	loss_gen:-0.3678
+2025-06-13 11:58:15.146492	Epoch:54/300	Batch:252/624	Loss_critic:-0.2677	loss_gen:-0.2175
+2025-06-13 11:58:18.172768	Epoch:54/300	Batch:376/624	Loss_critic:-0.4187	loss_gen:-0.2447
+2025-06-13 11:58:21.339926	Epoch:54/300	Batch:500/624	Loss_critic:-0.2920	loss_gen:-0.1729
+2025-06-13 11:58:24.188745	Epoch:54/300	Batch:624/624	Loss_critic:-0.2584	loss_gen:-0.2682
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:58:24.283286	Epoch:55/300	Batch:4/624	Loss_critic:-0.3612	loss_gen:-0.2396
+2025-06-13 11:58:26.972430	Epoch:55/300	Batch:128/624	Loss_critic:-0.0952	loss_gen:-0.2459
+2025-06-13 11:58:29.663247	Epoch:55/300	Batch:252/624	Loss_critic:-0.2430	loss_gen:-0.2036
+2025-06-13 11:58:32.324319	Epoch:55/300	Batch:376/624	Loss_critic:-0.2993	loss_gen:-0.3612
+2025-06-13 11:58:35.012840	Epoch:55/300	Batch:500/624	Loss_critic:-0.1120	loss_gen:-0.2243
+2025-06-13 11:58:37.624843	Epoch:55/300	Batch:624/624	Loss_critic:-0.4192	loss_gen:-0.2913
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:58:37.718853	Epoch:56/300	Batch:4/624	Loss_critic:-0.3005	loss_gen:-0.2249
+2025-06-13 11:58:40.393192	Epoch:56/300	Batch:128/624	Loss_critic:-0.4733	loss_gen:-0.2702
+2025-06-13 11:58:43.054584	Epoch:56/300	Batch:252/624	Loss_critic:0.1332	loss_gen:-0.2104
+2025-06-13 11:58:45.978661	Epoch:56/300	Batch:376/624	Loss_critic:-0.4819	loss_gen:-0.1862
+2025-06-13 11:58:48.765605	Epoch:56/300	Batch:500/624	Loss_critic:-0.3679	loss_gen:-0.1797
+2025-06-13 11:58:51.363017	Epoch:56/300	Batch:624/624	Loss_critic:-0.2233	loss_gen:-0.2192
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:58:51.457040	Epoch:57/300	Batch:4/624	Loss_critic:-0.1946	loss_gen:-0.2010
+2025-06-13 11:58:54.085154	Epoch:57/300	Batch:128/624	Loss_critic:-0.0093	loss_gen:-0.3868
+2025-06-13 11:58:56.714265	Epoch:57/300	Batch:252/624	Loss_critic:-0.5114	loss_gen:-0.1687
+2025-06-13 11:58:59.529906	Epoch:57/300	Batch:376/624	Loss_critic:-0.5635	loss_gen:-0.2069
+2025-06-13 11:59:02.330158	Epoch:57/300	Batch:500/624	Loss_critic:-0.3948	loss_gen:-0.2547
+2025-06-13 11:59:04.987933	Epoch:57/300	Batch:624/624	Loss_critic:0.6823	loss_gen:-0.3253
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:59:05.081679	Epoch:58/300	Batch:4/624	Loss_critic:1.0848	loss_gen:-0.2582
+2025-06-13 11:59:07.836308	Epoch:58/300	Batch:128/624	Loss_critic:-0.2354	loss_gen:-0.4130
+2025-06-13 11:59:10.574210	Epoch:58/300	Batch:252/624	Loss_critic:-0.2483	loss_gen:-0.1878
+2025-06-13 11:59:13.544484	Epoch:58/300	Batch:376/624	Loss_critic:-0.5070	loss_gen:-0.1898
+2025-06-13 11:59:16.252327	Epoch:58/300	Batch:500/624	Loss_critic:-0.2944	loss_gen:-0.3028
+2025-06-13 11:59:19.441003	Epoch:58/300	Batch:624/624	Loss_critic:0.1771	loss_gen:-0.2402
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:59:19.551064	Epoch:59/300	Batch:4/624	Loss_critic:-0.3512	loss_gen:-0.2717
+2025-06-13 11:59:22.536570	Epoch:59/300	Batch:128/624	Loss_critic:-0.0907	loss_gen:-0.3839
+2025-06-13 11:59:25.356741	Epoch:59/300	Batch:252/624	Loss_critic:0.5659	loss_gen:-0.2511
+2025-06-13 11:59:28.172762	Epoch:59/300	Batch:376/624	Loss_critic:-0.2988	loss_gen:-0.2755
+2025-06-13 11:59:31.037957	Epoch:59/300	Batch:500/624	Loss_critic:-0.2540	loss_gen:-0.2254
+2025-06-13 11:59:33.870538	Epoch:59/300	Batch:624/624	Loss_critic:-0.2477	loss_gen:-0.2109
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:59:33.979976	Epoch:60/300	Batch:4/624	Loss_critic:-0.0726	loss_gen:-0.3646
+2025-06-13 11:59:37.019626	Epoch:60/300	Batch:128/624	Loss_critic:-0.0372	loss_gen:-0.2144
+2025-06-13 11:59:39.835918	Epoch:60/300	Batch:252/624	Loss_critic:-0.1982	loss_gen:-0.2416
+2025-06-13 11:59:42.852668	Epoch:60/300	Batch:376/624	Loss_critic:-0.2969	loss_gen:-0.2063
+2025-06-13 11:59:45.915919	Epoch:60/300	Batch:500/624	Loss_critic:-0.0359	loss_gen:-0.2781
+2025-06-13 11:59:48.607249	Epoch:60/300	Batch:624/624	Loss_critic:-0.5001	loss_gen:-0.1472
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 11:59:48.701020	Epoch:61/300	Batch:4/624	Loss_critic:-0.3018	loss_gen:-0.2275
+2025-06-13 11:59:51.518096	Epoch:61/300	Batch:128/624	Loss_critic:-0.3122	loss_gen:-0.3915
+2025-06-13 11:59:54.393610	Epoch:61/300	Batch:252/624	Loss_critic:-0.2103	loss_gen:-0.3752
+2025-06-13 11:59:57.223128	Epoch:61/300	Batch:376/624	Loss_critic:-0.3700	loss_gen:-0.2084
+2025-06-13 12:00:00.068418	Epoch:61/300	Batch:500/624	Loss_critic:-0.1019	loss_gen:-0.2668
+2025-06-13 12:00:02.898131	Epoch:61/300	Batch:624/624	Loss_critic:-0.4190	loss_gen:-0.2444
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:00:03.007491	Epoch:62/300	Batch:4/624	Loss_critic:-0.3146	loss_gen:-0.1812
+2025-06-13 12:00:05.807040	Epoch:62/300	Batch:128/624	Loss_critic:-0.2849	loss_gen:-0.1299
+2025-06-13 12:00:08.620072	Epoch:62/300	Batch:252/624	Loss_critic:-0.2282	loss_gen:-0.2882
+2025-06-13 12:00:11.328191	Epoch:62/300	Batch:376/624	Loss_critic:-0.0008	loss_gen:-0.3291
+2025-06-13 12:00:14.068142	Epoch:62/300	Batch:500/624	Loss_critic:-0.1959	loss_gen:-0.1978
+2025-06-13 12:00:16.883664	Epoch:62/300	Batch:624/624	Loss_critic:-0.1793	loss_gen:-0.1338
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:00:17.024162	Epoch:63/300	Batch:4/624	Loss_critic:-0.3675	loss_gen:-0.1812
+2025-06-13 12:00:19.845181	Epoch:63/300	Batch:128/624	Loss_critic:-0.2427	loss_gen:-0.2892
+2025-06-13 12:00:22.508439	Epoch:63/300	Batch:252/624	Loss_critic:-0.3189	loss_gen:-0.2137
+2025-06-13 12:00:25.217844	Epoch:63/300	Batch:376/624	Loss_critic:-0.3031	loss_gen:-0.2039
+2025-06-13 12:00:28.095807	Epoch:63/300	Batch:500/624	Loss_critic:-0.2401	loss_gen:-0.1881
+2025-06-13 12:00:30.950010	Epoch:63/300	Batch:624/624	Loss_critic:-0.2102	loss_gen:-0.3208
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:00:31.044482	Epoch:64/300	Batch:4/624	Loss_critic:-0.1253	loss_gen:-0.2964
+2025-06-13 12:00:33.847122	Epoch:64/300	Batch:128/624	Loss_critic:-0.3949	loss_gen:-0.1901
+2025-06-13 12:00:36.508932	Epoch:64/300	Batch:252/624	Loss_critic:-0.4702	loss_gen:-0.1672
+2025-06-13 12:00:39.138321	Epoch:64/300	Batch:376/624	Loss_critic:-0.3039	loss_gen:-0.2152
+2025-06-13 12:00:41.817915	Epoch:64/300	Batch:500/624	Loss_critic:-0.4302	loss_gen:-0.2443
+2025-06-13 12:00:44.544955	Epoch:64/300	Batch:624/624	Loss_critic:-0.2521	loss_gen:-0.2616
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:00:44.639522	Epoch:65/300	Batch:4/624	Loss_critic:-0.5618	loss_gen:-0.2567
+2025-06-13 12:00:47.317094	Epoch:65/300	Batch:128/624	Loss_critic:0.1757	loss_gen:-0.2549
+2025-06-13 12:00:49.933629	Epoch:65/300	Batch:252/624	Loss_critic:-0.2846	loss_gen:-0.2443
+2025-06-13 12:00:52.578011	Epoch:65/300	Batch:376/624	Loss_critic:0.3288	loss_gen:-0.2403
+2025-06-13 12:00:55.209172	Epoch:65/300	Batch:500/624	Loss_critic:-0.5328	loss_gen:-0.2623
+2025-06-13 12:00:57.821967	Epoch:65/300	Batch:624/624	Loss_critic:-0.4697	loss_gen:-0.2213
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:00:57.900914	Epoch:66/300	Batch:4/624	Loss_critic:-0.3570	loss_gen:-0.2466
+2025-06-13 12:01:00.517452	Epoch:66/300	Batch:128/624	Loss_critic:-0.3325	loss_gen:-0.2829
+2025-06-13 12:01:03.181028	Epoch:66/300	Batch:252/624	Loss_critic:-0.0639	loss_gen:-0.2999
+2025-06-13 12:01:05.827181	Epoch:66/300	Batch:376/624	Loss_critic:-0.2222	loss_gen:-0.2908
+2025-06-13 12:01:08.475243	Epoch:66/300	Batch:500/624	Loss_critic:0.2936	loss_gen:-0.3318
+2025-06-13 12:01:11.138108	Epoch:66/300	Batch:624/624	Loss_critic:-0.3116	loss_gen:-0.3009
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:01:11.247969	Epoch:67/300	Batch:4/624	Loss_critic:-0.3565	loss_gen:-0.3500
+2025-06-13 12:01:13.911586	Epoch:67/300	Batch:128/624	Loss_critic:-0.3702	loss_gen:-0.3213
+2025-06-13 12:01:16.606996	Epoch:67/300	Batch:252/624	Loss_critic:-0.1669	loss_gen:-0.2545
+2025-06-13 12:01:19.397125	Epoch:67/300	Batch:376/624	Loss_critic:-0.2517	loss_gen:-0.2647
+2025-06-13 12:01:22.057697	Epoch:67/300	Batch:500/624	Loss_critic:-0.2089	loss_gen:-0.3118
+2025-06-13 12:01:24.670976	Epoch:67/300	Batch:624/624	Loss_critic:0.1096	loss_gen:-0.3835
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:01:24.749100	Epoch:68/300	Batch:4/624	Loss_critic:0.3045	loss_gen:-0.2524
+2025-06-13 12:01:27.394271	Epoch:68/300	Batch:128/624	Loss_critic:0.1767	loss_gen:-0.3347
+2025-06-13 12:01:29.993500	Epoch:68/300	Batch:252/624	Loss_critic:-0.4743	loss_gen:-0.1725
+2025-06-13 12:01:32.654672	Epoch:68/300	Batch:376/624	Loss_critic:0.0868	loss_gen:-0.2810
+2025-06-13 12:01:35.302955	Epoch:68/300	Batch:500/624	Loss_critic:-0.3957	loss_gen:-0.2578
+2025-06-13 12:01:37.918822	Epoch:68/300	Batch:624/624	Loss_critic:-0.3156	loss_gen:-0.2583
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:01:38.012535	Epoch:69/300	Batch:4/624	Loss_critic:-0.3585	loss_gen:-0.3100
+2025-06-13 12:01:40.722954	Epoch:69/300	Batch:128/624	Loss_critic:0.0031	loss_gen:-0.2100
+2025-06-13 12:01:43.402874	Epoch:69/300	Batch:252/624	Loss_critic:-0.2192	loss_gen:-0.3086
+2025-06-13 12:01:46.080066	Epoch:69/300	Batch:376/624	Loss_critic:-0.3554	loss_gen:-0.2319
+2025-06-13 12:01:49.150567	Epoch:69/300	Batch:500/624	Loss_critic:0.2620	loss_gen:-0.2937
+2025-06-13 12:01:52.125346	Epoch:69/300	Batch:624/624	Loss_critic:-0.5035	loss_gen:-0.3197
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:01:52.219123	Epoch:70/300	Batch:4/624	Loss_critic:-0.2431	loss_gen:-0.3168
+2025-06-13 12:01:55.022128	Epoch:70/300	Batch:128/624	Loss_critic:-0.3376	loss_gen:-0.2089
+2025-06-13 12:01:58.295350	Epoch:70/300	Batch:252/624	Loss_critic:-0.2727	loss_gen:-0.2956
+2025-06-13 12:02:01.270209	Epoch:70/300	Batch:376/624	Loss_critic:-0.4210	loss_gen:-0.1920
+2025-06-13 12:02:03.930627	Epoch:70/300	Batch:500/624	Loss_critic:-0.3507	loss_gen:-0.2547
+2025-06-13 12:02:06.578006	Epoch:70/300	Batch:624/624	Loss_critic:-0.3484	loss_gen:-0.3434
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:02:06.671737	Epoch:71/300	Batch:4/624	Loss_critic:0.7783	loss_gen:-0.3278
+2025-06-13 12:02:09.615184	Epoch:71/300	Batch:128/624	Loss_critic:-0.3063	loss_gen:-0.3363
+2025-06-13 12:02:12.557720	Epoch:71/300	Batch:252/624	Loss_critic:-0.1554	loss_gen:-0.3465
+2025-06-13 12:02:15.820977	Epoch:71/300	Batch:376/624	Loss_critic:-0.3109	loss_gen:-0.3232
+2025-06-13 12:02:18.739152	Epoch:71/300	Batch:500/624	Loss_critic:0.1404	loss_gen:-0.1522
+2025-06-13 12:02:21.669024	Epoch:71/300	Batch:624/624	Loss_critic:0.1090	loss_gen:-0.3214
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:02:21.762794	Epoch:72/300	Batch:4/624	Loss_critic:-0.1623	loss_gen:-0.3757
+2025-06-13 12:02:24.347390	Epoch:72/300	Batch:128/624	Loss_critic:-0.0959	loss_gen:-0.5031
+2025-06-13 12:02:26.950858	Epoch:72/300	Batch:252/624	Loss_critic:-0.3933	loss_gen:-0.2013
+2025-06-13 12:02:29.582204	Epoch:72/300	Batch:376/624	Loss_critic:-0.3511	loss_gen:-0.3894
+2025-06-13 12:02:32.179102	Epoch:72/300	Batch:500/624	Loss_critic:0.1010	loss_gen:-0.2631
+2025-06-13 12:02:34.937783	Epoch:72/300	Batch:624/624	Loss_critic:-0.2226	loss_gen:-0.2439
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:02:35.063312	Epoch:73/300	Batch:4/624	Loss_critic:-0.0997	loss_gen:-0.2287
+2025-06-13 12:02:38.338748	Epoch:73/300	Batch:128/624	Loss_critic:-0.2308	loss_gen:-0.2757
+2025-06-13 12:02:41.616966	Epoch:73/300	Batch:252/624	Loss_critic:-0.1473	loss_gen:-0.2249
+2025-06-13 12:02:44.877771	Epoch:73/300	Batch:376/624	Loss_critic:-0.0466	loss_gen:-0.2762
+2025-06-13 12:02:48.117762	Epoch:73/300	Batch:500/624	Loss_critic:-0.2184	loss_gen:-0.2625
+2025-06-13 12:02:50.920891	Epoch:73/300	Batch:624/624	Loss_critic:-0.3237	loss_gen:-0.2118
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:02:51.014591	Epoch:74/300	Batch:4/624	Loss_critic:-0.2498	loss_gen:-0.2211
+2025-06-13 12:02:53.692440	Epoch:74/300	Batch:128/624	Loss_critic:-0.4043	loss_gen:-0.2067
+2025-06-13 12:02:56.482539	Epoch:74/300	Batch:252/624	Loss_critic:-0.3237	loss_gen:-0.2183
+2025-06-13 12:02:59.177249	Epoch:74/300	Batch:376/624	Loss_critic:0.3485	loss_gen:-0.1205
+2025-06-13 12:03:01.852790	Epoch:74/300	Batch:500/624	Loss_critic:-0.1520	loss_gen:-0.1752
+2025-06-13 12:03:04.609394	Epoch:74/300	Batch:624/624	Loss_critic:-0.3588	loss_gen:-0.1627
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:03:04.687465	Epoch:75/300	Batch:4/624	Loss_critic:-0.2810	loss_gen:-0.1937
+2025-06-13 12:03:07.536851	Epoch:75/300	Batch:128/624	Loss_critic:-0.4624	loss_gen:-0.2274
+2025-06-13 12:03:10.309308	Epoch:75/300	Batch:252/624	Loss_critic:-0.0568	loss_gen:-0.2577
+2025-06-13 12:03:13.142200	Epoch:75/300	Batch:376/624	Loss_critic:-0.2981	loss_gen:-0.3065
+2025-06-13 12:03:16.023068	Epoch:75/300	Batch:500/624	Loss_critic:-0.1222	loss_gen:-0.2783
+2025-06-13 12:03:18.735181	Epoch:75/300	Batch:624/624	Loss_critic:-0.3002	loss_gen:-0.2284
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:03:18.813778	Epoch:76/300	Batch:4/624	Loss_critic:-0.1869	loss_gen:-0.2283
+2025-06-13 12:03:21.521809	Epoch:76/300	Batch:128/624	Loss_critic:0.6523	loss_gen:-0.2268
+2025-06-13 12:03:24.167089	Epoch:76/300	Batch:252/624	Loss_critic:-0.4150	loss_gen:-0.1882
+2025-06-13 12:03:26.813389	Epoch:76/300	Batch:376/624	Loss_critic:-0.4918	loss_gen:-0.1852
+2025-06-13 12:03:29.553380	Epoch:76/300	Batch:500/624	Loss_critic:-0.2450	loss_gen:-0.1505
+2025-06-13 12:03:32.232288	Epoch:76/300	Batch:624/624	Loss_critic:-0.4961	loss_gen:-0.1557
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:03:32.326039	Epoch:77/300	Batch:4/624	Loss_critic:-0.4683	loss_gen:-0.1906
+2025-06-13 12:03:35.238594	Epoch:77/300	Batch:128/624	Loss_critic:-0.2531	loss_gen:-0.2921
+2025-06-13 12:03:38.088399	Epoch:77/300	Batch:252/624	Loss_critic:-0.2457	loss_gen:-0.2650
+2025-06-13 12:03:40.983882	Epoch:77/300	Batch:376/624	Loss_critic:-0.4906	loss_gen:-0.1870
+2025-06-13 12:03:43.884046	Epoch:77/300	Batch:500/624	Loss_critic:-0.1201	loss_gen:-0.2818
+2025-06-13 12:03:46.560506	Epoch:77/300	Batch:624/624	Loss_critic:-0.5594	loss_gen:-0.2054
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:03:46.670175	Epoch:78/300	Batch:4/624	Loss_critic:-0.5086	loss_gen:-0.1815
+2025-06-13 12:03:49.346004	Epoch:78/300	Batch:128/624	Loss_critic:-0.2635	loss_gen:-0.2203
+2025-06-13 12:03:52.011681	Epoch:78/300	Batch:252/624	Loss_critic:-0.3853	loss_gen:-0.2729
+2025-06-13 12:03:54.643053	Epoch:78/300	Batch:376/624	Loss_critic:-0.1118	loss_gen:-0.3324
+2025-06-13 12:03:57.258459	Epoch:78/300	Batch:500/624	Loss_critic:-0.2835	loss_gen:-0.2342
+2025-06-13 12:04:00.001248	Epoch:78/300	Batch:624/624	Loss_critic:-0.3278	loss_gen:-0.2568
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:04:00.095164	Epoch:79/300	Batch:4/624	Loss_critic:-0.2009	loss_gen:-0.2600
+2025-06-13 12:04:02.866132	Epoch:79/300	Batch:128/624	Loss_critic:-0.3357	loss_gen:-0.2439
+2025-06-13 12:04:05.656522	Epoch:79/300	Batch:252/624	Loss_critic:-0.0538	loss_gen:-0.3469
+2025-06-13 12:04:08.383899	Epoch:79/300	Batch:376/624	Loss_critic:0.1001	loss_gen:-0.4639
+2025-06-13 12:04:11.078954	Epoch:79/300	Batch:500/624	Loss_critic:-0.1345	loss_gen:-0.4601
+2025-06-13 12:04:13.725446	Epoch:79/300	Batch:624/624	Loss_critic:-0.0797	loss_gen:-0.2943
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:04:13.803703	Epoch:80/300	Batch:4/624	Loss_critic:-0.1179	loss_gen:-0.3060
+2025-06-13 12:04:16.391109	Epoch:80/300	Batch:128/624	Loss_critic:-0.1509	loss_gen:-0.3364
+2025-06-13 12:04:19.052501	Epoch:80/300	Batch:252/624	Loss_critic:-0.2935	loss_gen:-0.1784
+2025-06-13 12:04:21.637286	Epoch:80/300	Batch:376/624	Loss_critic:-0.1735	loss_gen:-0.2251
+2025-06-13 12:04:24.270387	Epoch:80/300	Batch:500/624	Loss_critic:-0.2154	loss_gen:-0.2161
+2025-06-13 12:04:26.887238	Epoch:80/300	Batch:624/624	Loss_critic:-0.2642	loss_gen:-0.2309
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:04:26.980983	Epoch:81/300	Batch:4/624	Loss_critic:-0.2581	loss_gen:-0.2042
+2025-06-13 12:04:29.658644	Epoch:81/300	Batch:128/624	Loss_critic:-0.3194	loss_gen:-0.1593
+2025-06-13 12:04:32.354588	Epoch:81/300	Batch:252/624	Loss_critic:-0.2568	loss_gen:-0.2188
+2025-06-13 12:04:35.065706	Epoch:81/300	Batch:376/624	Loss_critic:-0.0286	loss_gen:-0.2489
+2025-06-13 12:04:37.730587	Epoch:81/300	Batch:500/624	Loss_critic:-0.2945	loss_gen:-0.2443
+2025-06-13 12:04:40.348722	Epoch:81/300	Batch:624/624	Loss_critic:-0.1004	loss_gen:-0.2805
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:04:40.442898	Epoch:82/300	Batch:4/624	Loss_critic:-0.3087	loss_gen:-0.3036
+2025-06-13 12:04:43.044325	Epoch:82/300	Batch:128/624	Loss_critic:-0.3205	loss_gen:-0.3341
+2025-06-13 12:04:45.661007	Epoch:82/300	Batch:252/624	Loss_critic:-0.3474	loss_gen:-0.1962
+2025-06-13 12:04:48.246531	Epoch:82/300	Batch:376/624	Loss_critic:-0.2372	loss_gen:-0.2997
+2025-06-13 12:04:50.845840	Epoch:82/300	Batch:500/624	Loss_critic:-0.2140	loss_gen:-0.2091
+2025-06-13 12:04:53.443881	Epoch:82/300	Batch:624/624	Loss_critic:-0.2941	loss_gen:-0.1664
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:04:53.538362	Epoch:83/300	Batch:4/624	Loss_critic:-0.4419	loss_gen:-0.1422
+2025-06-13 12:04:56.121442	Epoch:83/300	Batch:128/624	Loss_critic:-0.4556	loss_gen:-0.1951
+2025-06-13 12:04:58.676866	Epoch:83/300	Batch:252/624	Loss_critic:-0.5990	loss_gen:-0.1972
+2025-06-13 12:05:01.243957	Epoch:83/300	Batch:376/624	Loss_critic:-0.4702	loss_gen:-0.1996
+2025-06-13 12:05:03.859853	Epoch:83/300	Batch:500/624	Loss_critic:-0.3234	loss_gen:-0.2060
+2025-06-13 12:05:06.460450	Epoch:83/300	Batch:624/624	Loss_critic:-0.3939	loss_gen:-0.2024
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:05:06.554226	Epoch:84/300	Batch:4/624	Loss_critic:-0.5072	loss_gen:-0.1608
+2025-06-13 12:05:09.153671	Epoch:84/300	Batch:128/624	Loss_critic:-0.4290	loss_gen:-0.2061
+2025-06-13 12:05:11.767339	Epoch:84/300	Batch:252/624	Loss_critic:-0.2552	loss_gen:-0.1498
+2025-06-13 12:05:14.368926	Epoch:84/300	Batch:376/624	Loss_critic:-0.2804	loss_gen:-0.1859
+2025-06-13 12:05:17.015056	Epoch:84/300	Batch:500/624	Loss_critic:-0.4564	loss_gen:-0.2440
+2025-06-13 12:05:19.647010	Epoch:84/300	Batch:624/624	Loss_critic:-0.3371	loss_gen:-0.1604
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:05:19.740707	Epoch:85/300	Batch:4/624	Loss_critic:-0.5936	loss_gen:-0.1954
+2025-06-13 12:05:22.323405	Epoch:85/300	Batch:128/624	Loss_critic:-0.2216	loss_gen:-0.2513
+2025-06-13 12:05:24.907759	Epoch:85/300	Batch:252/624	Loss_critic:-0.3961	loss_gen:-0.2822
+2025-06-13 12:05:27.490408	Epoch:85/300	Batch:376/624	Loss_critic:-0.0738	loss_gen:-0.3152
+2025-06-13 12:05:30.072880	Epoch:85/300	Batch:500/624	Loss_critic:-0.3034	loss_gen:-0.3215
+2025-06-13 12:05:32.656742	Epoch:85/300	Batch:624/624	Loss_critic:-0.1376	loss_gen:-0.1799
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:05:32.750481	Epoch:86/300	Batch:4/624	Loss_critic:-0.3687	loss_gen:-0.1809
+2025-06-13 12:05:35.334604	Epoch:86/300	Batch:128/624	Loss_critic:0.4721	loss_gen:-0.3294
+2025-06-13 12:05:37.903321	Epoch:86/300	Batch:252/624	Loss_critic:-0.4281	loss_gen:-0.1904
+2025-06-13 12:05:40.484246	Epoch:86/300	Batch:376/624	Loss_critic:-0.3021	loss_gen:-0.2948
+2025-06-13 12:05:43.083275	Epoch:86/300	Batch:500/624	Loss_critic:-0.4943	loss_gen:-0.1806
+2025-06-13 12:05:45.698490	Epoch:86/300	Batch:624/624	Loss_critic:-0.4793	loss_gen:-0.2049
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:05:45.776614	Epoch:87/300	Batch:4/624	Loss_critic:-0.3542	loss_gen:-0.2447
+2025-06-13 12:05:48.454172	Epoch:87/300	Batch:128/624	Loss_critic:-0.4193	loss_gen:-0.2467
+2025-06-13 12:05:51.523510	Epoch:87/300	Batch:252/624	Loss_critic:-0.5404	loss_gen:-0.2105
+2025-06-13 12:05:54.859684	Epoch:87/300	Batch:376/624	Loss_critic:-0.3940	loss_gen:-0.2306
+2025-06-13 12:05:57.960482	Epoch:87/300	Batch:500/624	Loss_critic:-0.3836	loss_gen:-0.2294
+2025-06-13 12:06:01.262939	Epoch:87/300	Batch:624/624	Loss_critic:-0.4277	loss_gen:-0.1637
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:06:01.357733	Epoch:88/300	Batch:4/624	Loss_critic:-0.2908	loss_gen:-0.1464
+2025-06-13 12:06:04.031999	Epoch:88/300	Batch:128/624	Loss_critic:-0.4109	loss_gen:-0.2397
+2025-06-13 12:06:07.116911	Epoch:88/300	Batch:252/624	Loss_critic:-0.1820	loss_gen:-0.1383
+2025-06-13 12:06:10.343267	Epoch:88/300	Batch:376/624	Loss_critic:-0.1695	loss_gen:-0.1756
+2025-06-13 12:06:13.363941	Epoch:88/300	Batch:500/624	Loss_critic:-0.2482	loss_gen:-0.2954
+2025-06-13 12:06:16.214164	Epoch:88/300	Batch:624/624	Loss_critic:-0.2433	loss_gen:-0.2028
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:06:16.323858	Epoch:89/300	Batch:4/624	Loss_critic:-0.1107	loss_gen:-0.2231
+2025-06-13 12:06:19.223512	Epoch:89/300	Batch:128/624	Loss_critic:-0.4972	loss_gen:-0.1896
+2025-06-13 12:06:22.561146	Epoch:89/300	Batch:252/624	Loss_critic:-0.1445	loss_gen:-0.3138
+2025-06-13 12:06:25.782819	Epoch:89/300	Batch:376/624	Loss_critic:-0.2167	loss_gen:-0.1832
+2025-06-13 12:06:28.957848	Epoch:89/300	Batch:500/624	Loss_critic:-0.4137	loss_gen:-0.2941
+2025-06-13 12:06:32.164944	Epoch:89/300	Batch:624/624	Loss_critic:-0.5391	loss_gen:-0.2137
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:06:32.274978	Epoch:90/300	Batch:4/624	Loss_critic:0.1262	loss_gen:-0.2468
+2025-06-13 12:06:35.372043	Epoch:90/300	Batch:128/624	Loss_critic:-0.3373	loss_gen:-0.2611
+2025-06-13 12:06:38.466466	Epoch:90/300	Batch:252/624	Loss_critic:-0.4762	loss_gen:-0.2108
+2025-06-13 12:06:41.593741	Epoch:90/300	Batch:376/624	Loss_critic:-0.2053	loss_gen:-0.2645
+2025-06-13 12:06:44.718131	Epoch:90/300	Batch:500/624	Loss_critic:0.5758	loss_gen:-0.3387
+2025-06-13 12:06:47.904117	Epoch:90/300	Batch:624/624	Loss_critic:-0.0438	loss_gen:-0.3202
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:06:48.013665	Epoch:91/300	Batch:4/624	Loss_critic:-0.0129	loss_gen:-0.3031
+2025-06-13 12:06:51.161679	Epoch:91/300	Batch:128/624	Loss_critic:-0.1671	loss_gen:-0.3050
+2025-06-13 12:06:54.198252	Epoch:91/300	Batch:252/624	Loss_critic:-0.3726	loss_gen:-0.3123
+2025-06-13 12:06:57.403497	Epoch:91/300	Batch:376/624	Loss_critic:-0.1495	loss_gen:-0.2863
+2025-06-13 12:07:00.581462	Epoch:91/300	Batch:500/624	Loss_critic:-0.2570	loss_gen:-0.2227
+2025-06-13 12:07:03.756312	Epoch:91/300	Batch:624/624	Loss_critic:0.0965	loss_gen:-0.1992
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:07:03.865815	Epoch:92/300	Batch:4/624	Loss_critic:-0.3169	loss_gen:-0.1716
+2025-06-13 12:07:07.034234	Epoch:92/300	Batch:128/624	Loss_critic:-0.3151	loss_gen:-0.2121
+2025-06-13 12:07:10.033426	Epoch:92/300	Batch:252/624	Loss_critic:-0.2091	loss_gen:-0.1940
+2025-06-13 12:07:12.742152	Epoch:92/300	Batch:376/624	Loss_critic:-0.5419	loss_gen:-0.2001
+2025-06-13 12:07:15.376241	Epoch:92/300	Batch:500/624	Loss_critic:-0.1710	loss_gen:-0.2719
+2025-06-13 12:07:18.152753	Epoch:92/300	Batch:624/624	Loss_critic:-0.3134	loss_gen:-0.2409
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:07:18.246503	Epoch:93/300	Batch:4/624	Loss_critic:-0.4033	loss_gen:-0.2165
+2025-06-13 12:07:20.990107	Epoch:93/300	Batch:128/624	Loss_critic:-0.3457	loss_gen:-0.2292
+2025-06-13 12:07:23.718165	Epoch:93/300	Batch:252/624	Loss_critic:-0.4132	loss_gen:-0.2193
+2025-06-13 12:07:26.569235	Epoch:93/300	Batch:376/624	Loss_critic:-0.3103	loss_gen:-0.3236
+2025-06-13 12:07:29.266633	Epoch:93/300	Batch:500/624	Loss_critic:-0.4307	loss_gen:-0.2490
+2025-06-13 12:07:32.246952	Epoch:93/300	Batch:624/624	Loss_critic:-0.2510	loss_gen:-0.1839
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:07:32.355843	Epoch:94/300	Batch:4/624	Loss_critic:-0.1309	loss_gen:-0.2600
+2025-06-13 12:07:35.020096	Epoch:94/300	Batch:128/624	Loss_critic:0.4818	loss_gen:-0.2581
+2025-06-13 12:07:37.603258	Epoch:94/300	Batch:252/624	Loss_critic:-0.2249	loss_gen:-0.2629
+2025-06-13 12:07:40.191092	Epoch:94/300	Batch:376/624	Loss_critic:0.1180	loss_gen:-0.1969
+2025-06-13 12:07:42.775517	Epoch:94/300	Batch:500/624	Loss_critic:-0.3881	loss_gen:-0.2043
+2025-06-13 12:07:45.363929	Epoch:94/300	Batch:624/624	Loss_critic:-0.3856	loss_gen:-0.3053
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:07:45.441549	Epoch:95/300	Batch:4/624	Loss_critic:0.4414	loss_gen:-0.2482
+2025-06-13 12:07:48.168757	Epoch:95/300	Batch:128/624	Loss_critic:-0.2526	loss_gen:-0.2598
+2025-06-13 12:07:50.915465	Epoch:95/300	Batch:252/624	Loss_critic:-0.1827	loss_gen:-0.2040
+2025-06-13 12:07:53.629020	Epoch:95/300	Batch:376/624	Loss_critic:-0.2789	loss_gen:-0.1884
+2025-06-13 12:07:56.359179	Epoch:95/300	Batch:500/624	Loss_critic:-0.1542	loss_gen:-0.1660
+2025-06-13 12:07:59.102940	Epoch:95/300	Batch:624/624	Loss_critic:-0.3916	loss_gen:-0.2061
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:07:59.202312	Epoch:96/300	Batch:4/624	Loss_critic:-0.4073	loss_gen:-0.2051
+2025-06-13 12:08:01.864693	Epoch:96/300	Batch:128/624	Loss_critic:-0.0771	loss_gen:-0.3522
+2025-06-13 12:08:04.436320	Epoch:96/300	Batch:252/624	Loss_critic:-0.5081	loss_gen:-0.2193
+2025-06-13 12:08:07.010140	Epoch:96/300	Batch:376/624	Loss_critic:-0.0833	loss_gen:-0.3972
+2025-06-13 12:08:09.597853	Epoch:96/300	Batch:500/624	Loss_critic:-0.1795	loss_gen:-0.2538
+2025-06-13 12:08:12.155369	Epoch:96/300	Batch:624/624	Loss_critic:-0.2001	loss_gen:-0.2412
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:08:12.233971	Epoch:97/300	Batch:4/624	Loss_critic:-0.1769	loss_gen:-0.2836
+2025-06-13 12:08:14.825981	Epoch:97/300	Batch:128/624	Loss_critic:-0.0775	loss_gen:-0.2448
+2025-06-13 12:08:17.637286	Epoch:97/300	Batch:252/624	Loss_critic:-0.2693	loss_gen:-0.3384
+2025-06-13 12:08:20.317401	Epoch:97/300	Batch:376/624	Loss_critic:-0.3153	loss_gen:-0.2826
+2025-06-13 12:08:23.032221	Epoch:97/300	Batch:500/624	Loss_critic:-0.2109	loss_gen:-0.2210
+2025-06-13 12:08:25.822725	Epoch:97/300	Batch:624/624	Loss_critic:0.0029	loss_gen:-0.2164
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:08:25.948586	Epoch:98/300	Batch:4/624	Loss_critic:-0.0105	loss_gen:-0.1855
+2025-06-13 12:08:29.540737	Epoch:98/300	Batch:128/624	Loss_critic:-0.2083	loss_gen:-0.2462
+2025-06-13 12:08:33.228119	Epoch:98/300	Batch:252/624	Loss_critic:-0.3839	loss_gen:-0.2265
+2025-06-13 12:08:36.858881	Epoch:98/300	Batch:376/624	Loss_critic:-0.1884	loss_gen:-0.1538
+2025-06-13 12:08:40.650853	Epoch:98/300	Batch:500/624	Loss_critic:-0.3469	loss_gen:-0.1801
+2025-06-13 12:08:44.413116	Epoch:98/300	Batch:624/624	Loss_critic:-0.3357	loss_gen:-0.2289
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:08:44.555090	Epoch:99/300	Batch:4/624	Loss_critic:0.0029	loss_gen:-0.2727
+2025-06-13 12:08:48.364956	Epoch:99/300	Batch:128/624	Loss_critic:-0.3372	loss_gen:-0.3133
+2025-06-13 12:08:52.054975	Epoch:99/300	Batch:252/624	Loss_critic:-0.4466	loss_gen:-0.2758
+2025-06-13 12:08:55.612507	Epoch:99/300	Batch:376/624	Loss_critic:0.0238	loss_gen:-0.1910
+2025-06-13 12:08:59.046070	Epoch:99/300	Batch:500/624	Loss_critic:-0.4419	loss_gen:-0.2378
+2025-06-13 12:09:02.537913	Epoch:99/300	Batch:624/624	Loss_critic:-0.3683	loss_gen:-0.2209
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:09:02.647278	Epoch:100/300	Batch:4/624	Loss_critic:-0.4351	loss_gen:-0.2217
+2025-06-13 12:09:06.216209	Epoch:100/300	Batch:128/624	Loss_critic:-0.3143	loss_gen:-0.2937
+2025-06-13 12:09:09.779950	Epoch:100/300	Batch:252/624	Loss_critic:-0.2839	loss_gen:-0.2137
+2025-06-13 12:09:13.329436	Epoch:100/300	Batch:376/624	Loss_critic:0.1015	loss_gen:-0.3323
+2025-06-13 12:09:17.138554	Epoch:100/300	Batch:500/624	Loss_critic:-0.1969	loss_gen:-0.4619
+2025-06-13 12:09:21.044893	Epoch:100/300	Batch:624/624	Loss_critic:-0.2034	loss_gen:-0.2416
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:09:21.170336	Epoch:101/300	Batch:4/624	Loss_critic:-0.2444	loss_gen:-0.2146
+2025-06-13 12:09:25.097112	Epoch:101/300	Batch:128/624	Loss_critic:-0.3934	loss_gen:-0.2928
+2025-06-13 12:09:28.831623	Epoch:101/300	Batch:252/624	Loss_critic:0.0842	loss_gen:-0.2437
+2025-06-13 12:09:32.153470	Epoch:101/300	Batch:376/624	Loss_critic:-0.1216	loss_gen:-0.3489
+2025-06-13 12:09:35.425867	Epoch:101/300	Batch:500/624	Loss_critic:-0.0745	loss_gen:-0.2765
+2025-06-13 12:09:38.764993	Epoch:101/300	Batch:624/624	Loss_critic:0.0376	loss_gen:-0.2554
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:09:38.906508	Epoch:102/300	Batch:4/624	Loss_critic:-0.1435	loss_gen:-0.2997
+2025-06-13 12:09:42.287596	Epoch:102/300	Batch:128/624	Loss_critic:-0.4685	loss_gen:-0.2563
+2025-06-13 12:09:45.736997	Epoch:102/300	Batch:252/624	Loss_critic:-0.3540	loss_gen:-0.2085
+2025-06-13 12:09:49.184039	Epoch:102/300	Batch:376/624	Loss_critic:-0.0390	loss_gen:-0.1680
+2025-06-13 12:09:52.755963	Epoch:102/300	Batch:500/624	Loss_critic:-0.1048	loss_gen:-0.2374
+2025-06-13 12:09:56.327254	Epoch:102/300	Batch:624/624	Loss_critic:-0.4148	loss_gen:-0.1672
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:09:56.469324	Epoch:103/300	Batch:4/624	Loss_critic:-0.2930	loss_gen:-0.1626
+2025-06-13 12:10:00.153728	Epoch:103/300	Batch:128/624	Loss_critic:-0.2014	loss_gen:-0.2871
+2025-06-13 12:10:03.822269	Epoch:103/300	Batch:252/624	Loss_critic:-0.2536	loss_gen:-0.1547
+2025-06-13 12:10:07.360062	Epoch:103/300	Batch:376/624	Loss_critic:-0.3538	loss_gen:-0.2272
+2025-06-13 12:10:10.887589	Epoch:103/300	Batch:500/624	Loss_critic:-0.1636	loss_gen:-0.1797
+2025-06-13 12:10:14.289690	Epoch:103/300	Batch:624/624	Loss_critic:-0.3252	loss_gen:-0.2727
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:10:14.400505	Epoch:104/300	Batch:4/624	Loss_critic:-0.5154	loss_gen:-0.2864
+2025-06-13 12:10:17.909757	Epoch:104/300	Batch:128/624	Loss_critic:-0.2016	loss_gen:-0.1925
+2025-06-13 12:10:21.386894	Epoch:104/300	Batch:252/624	Loss_critic:-0.2636	loss_gen:-0.1856
+2025-06-13 12:10:24.914846	Epoch:104/300	Batch:376/624	Loss_critic:-0.3104	loss_gen:-0.3497
+2025-06-13 12:10:28.457197	Epoch:104/300	Batch:500/624	Loss_critic:-0.1322	loss_gen:-0.2856
+2025-06-13 12:10:31.981128	Epoch:104/300	Batch:624/624	Loss_critic:-0.2396	loss_gen:-0.3876
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:10:32.106126	Epoch:105/300	Batch:4/624	Loss_critic:-0.0456	loss_gen:-0.4326
+2025-06-13 12:10:35.583375	Epoch:105/300	Batch:128/624	Loss_critic:-0.2332	loss_gen:-0.3152
+2025-06-13 12:10:39.028311	Epoch:105/300	Batch:252/624	Loss_critic:-0.3590	loss_gen:-0.3351
+2025-06-13 12:10:42.603295	Epoch:105/300	Batch:376/624	Loss_critic:-0.1067	loss_gen:-0.2683
+2025-06-13 12:10:46.207177	Epoch:105/300	Batch:500/624	Loss_critic:-0.1407	loss_gen:-0.2894
+2025-06-13 12:10:49.878715	Epoch:105/300	Batch:624/624	Loss_critic:-0.1273	loss_gen:-0.3616
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:10:49.990038	Epoch:106/300	Batch:4/624	Loss_critic:0.5153	loss_gen:-0.2455
+2025-06-13 12:10:53.718647	Epoch:106/300	Batch:128/624	Loss_critic:-0.3778	loss_gen:-0.2143
+2025-06-13 12:10:57.247169	Epoch:106/300	Batch:252/624	Loss_critic:0.0289	loss_gen:-0.3763
+2025-06-13 12:11:00.526816	Epoch:106/300	Batch:376/624	Loss_critic:-0.5334	loss_gen:-0.2197
+2025-06-13 12:11:03.955678	Epoch:106/300	Batch:500/624	Loss_critic:0.0882	loss_gen:-0.3122
+2025-06-13 12:11:07.545214	Epoch:106/300	Batch:624/624	Loss_critic:-0.3753	loss_gen:-0.2501
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:11:07.654062	Epoch:107/300	Batch:4/624	Loss_critic:-0.1040	loss_gen:-0.1985
+2025-06-13 12:11:11.306868	Epoch:107/300	Batch:128/624	Loss_critic:-0.1921	loss_gen:-0.2165
+2025-06-13 12:11:15.036845	Epoch:107/300	Batch:252/624	Loss_critic:0.1075	loss_gen:-0.1896
+2025-06-13 12:11:18.533297	Epoch:107/300	Batch:376/624	Loss_critic:-0.3812	loss_gen:-0.2186
+2025-06-13 12:11:21.965292	Epoch:107/300	Batch:500/624	Loss_critic:-0.1086	loss_gen:-0.4564
+2025-06-13 12:11:25.380854	Epoch:107/300	Batch:624/624	Loss_critic:-0.4016	loss_gen:-0.2882
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:11:25.505809	Epoch:108/300	Batch:4/624	Loss_critic:-0.0493	loss_gen:-0.2930
+2025-06-13 12:11:29.205587	Epoch:108/300	Batch:128/624	Loss_critic:0.0083	loss_gen:-0.3090
+2025-06-13 12:11:32.922689	Epoch:108/300	Batch:252/624	Loss_critic:-0.0448	loss_gen:-0.4130
+2025-06-13 12:11:36.699936	Epoch:108/300	Batch:376/624	Loss_critic:-0.1362	loss_gen:-0.4774
+2025-06-13 12:11:40.382841	Epoch:108/300	Batch:500/624	Loss_critic:0.1925	loss_gen:-0.3696
+2025-06-13 12:11:44.085397	Epoch:108/300	Batch:624/624	Loss_critic:-0.1684	loss_gen:-0.2687
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:11:44.225631	Epoch:109/300	Batch:4/624	Loss_critic:0.0727	loss_gen:-0.3587
+2025-06-13 12:11:47.892076	Epoch:109/300	Batch:128/624	Loss_critic:-0.0632	loss_gen:-0.2895
+2025-06-13 12:11:51.469299	Epoch:109/300	Batch:252/624	Loss_critic:-0.0839	loss_gen:-0.2278
+2025-06-13 12:11:54.999298	Epoch:109/300	Batch:376/624	Loss_critic:-0.3040	loss_gen:-0.2618
+2025-06-13 12:11:58.291881	Epoch:109/300	Batch:500/624	Loss_critic:-0.3338	loss_gen:-0.3282
+2025-06-13 12:12:01.636296	Epoch:109/300	Batch:624/624	Loss_critic:-0.3505	loss_gen:-0.1747
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:12:01.745890	Epoch:110/300	Batch:4/624	Loss_critic:-0.4687	loss_gen:-0.2891
+2025-06-13 12:12:04.946548	Epoch:110/300	Batch:128/624	Loss_critic:-0.3141	loss_gen:-0.3224
+2025-06-13 12:12:08.102152	Epoch:110/300	Batch:252/624	Loss_critic:0.1960	loss_gen:-0.2609
+2025-06-13 12:12:11.666392	Epoch:110/300	Batch:376/624	Loss_critic:-0.4507	loss_gen:-0.2598
+2025-06-13 12:12:15.419663	Epoch:110/300	Batch:500/624	Loss_critic:-0.2240	loss_gen:-0.2170
+2025-06-13 12:12:19.281282	Epoch:110/300	Batch:624/624	Loss_critic:0.1724	loss_gen:-0.2595
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:12:19.423856	Epoch:111/300	Batch:4/624	Loss_critic:-0.2771	loss_gen:-0.2617
+2025-06-13 12:12:23.440097	Epoch:111/300	Batch:128/624	Loss_critic:-0.1854	loss_gen:-0.1902
+2025-06-13 12:12:27.248277	Epoch:111/300	Batch:252/624	Loss_critic:-0.3588	loss_gen:-0.2283
+2025-06-13 12:12:30.601697	Epoch:111/300	Batch:376/624	Loss_critic:-0.4203	loss_gen:-0.2319
+2025-06-13 12:12:33.767368	Epoch:111/300	Batch:500/624	Loss_critic:-0.2318	loss_gen:-0.2813
+2025-06-13 12:12:37.013433	Epoch:111/300	Batch:624/624	Loss_critic:0.0740	loss_gen:-0.4720
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:12:37.124225	Epoch:112/300	Batch:4/624	Loss_critic:0.0011	loss_gen:-0.5218
+2025-06-13 12:12:40.400395	Epoch:112/300	Batch:128/624	Loss_critic:-0.0769	loss_gen:-0.2771
+2025-06-13 12:12:43.865522	Epoch:112/300	Batch:252/624	Loss_critic:-0.2119	loss_gen:-0.2867
+2025-06-13 12:12:47.349072	Epoch:112/300	Batch:376/624	Loss_critic:-0.1101	loss_gen:-0.2777
+2025-06-13 12:12:50.857797	Epoch:112/300	Batch:500/624	Loss_critic:-0.2124	loss_gen:-0.3666
+2025-06-13 12:12:54.511494	Epoch:112/300	Batch:624/624	Loss_critic:-0.3927	loss_gen:-0.2970
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:12:54.646798	Epoch:113/300	Batch:4/624	Loss_critic:-0.1880	loss_gen:-0.2459
+2025-06-13 12:12:58.391804	Epoch:113/300	Batch:128/624	Loss_critic:-0.2842	loss_gen:-0.2171
+2025-06-13 12:13:02.037305	Epoch:113/300	Batch:252/624	Loss_critic:-0.2390	loss_gen:-0.2223
+2025-06-13 12:13:05.788857	Epoch:113/300	Batch:376/624	Loss_critic:-0.3015	loss_gen:-0.2196
+2025-06-13 12:13:09.457313	Epoch:113/300	Batch:500/624	Loss_critic:-0.3590	loss_gen:-0.2391
+2025-06-13 12:13:13.106638	Epoch:113/300	Batch:624/624	Loss_critic:-0.0548	loss_gen:-0.2824
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:13:13.216955	Epoch:114/300	Batch:4/624	Loss_critic:0.1643	loss_gen:-0.2873
+2025-06-13 12:13:16.821151	Epoch:114/300	Batch:128/624	Loss_critic:-0.4320	loss_gen:-0.1820
+2025-06-13 12:13:20.409923	Epoch:114/300	Batch:252/624	Loss_critic:-0.1596	loss_gen:-0.2859
+2025-06-13 12:13:23.937760	Epoch:114/300	Batch:376/624	Loss_critic:-0.0616	loss_gen:-0.3028
+2025-06-13 12:13:27.327915	Epoch:114/300	Batch:500/624	Loss_critic:-0.1397	loss_gen:-0.3558
+2025-06-13 12:13:30.949494	Epoch:114/300	Batch:624/624	Loss_critic:-0.3130	loss_gen:-0.2201
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:13:31.090165	Epoch:115/300	Batch:4/624	Loss_critic:-0.1068	loss_gen:-0.2358
+2025-06-13 12:13:34.753218	Epoch:115/300	Batch:128/624	Loss_critic:-0.2928	loss_gen:-0.2662
+2025-06-13 12:13:38.438234	Epoch:115/300	Batch:252/624	Loss_critic:-0.2830	loss_gen:-0.2824
+2025-06-13 12:13:42.278340	Epoch:115/300	Batch:376/624	Loss_critic:-0.2734	loss_gen:-0.2798
+2025-06-13 12:13:46.120077	Epoch:115/300	Batch:500/624	Loss_critic:-0.0245	loss_gen:-0.3439
+2025-06-13 12:13:49.849480	Epoch:115/300	Batch:624/624	Loss_critic:-0.3116	loss_gen:-0.2364
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:13:49.959243	Epoch:116/300	Batch:4/624	Loss_critic:-0.3969	loss_gen:-0.2308
+2025-06-13 12:13:53.551093	Epoch:116/300	Batch:128/624	Loss_critic:-0.3648	loss_gen:-0.2345
+2025-06-13 12:13:57.044826	Epoch:116/300	Batch:252/624	Loss_critic:-0.3321	loss_gen:-0.2602
+2025-06-13 12:14:00.490872	Epoch:116/300	Batch:376/624	Loss_critic:0.7318	loss_gen:-0.2777
+2025-06-13 12:14:03.936300	Epoch:116/300	Batch:500/624	Loss_critic:-0.2763	loss_gen:-0.2348
+2025-06-13 12:14:07.412898	Epoch:116/300	Batch:624/624	Loss_critic:-0.0487	loss_gen:-0.2081
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:14:07.522854	Epoch:117/300	Batch:4/624	Loss_critic:-0.3904	loss_gen:-0.1798
+2025-06-13 12:14:11.110846	Epoch:117/300	Batch:128/624	Loss_critic:-0.1609	loss_gen:-0.2617
+2025-06-13 12:14:14.701543	Epoch:117/300	Batch:252/624	Loss_critic:-0.4055	loss_gen:-0.2872
+2025-06-13 12:14:18.320357	Epoch:117/300	Batch:376/624	Loss_critic:-0.3467	loss_gen:-0.2021
+2025-06-13 12:14:21.843913	Epoch:117/300	Batch:500/624	Loss_critic:-0.4210	loss_gen:-0.1861
+2025-06-13 12:14:25.307680	Epoch:117/300	Batch:624/624	Loss_critic:-0.4815	loss_gen:-0.1770
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:14:25.432526	Epoch:118/300	Batch:4/624	Loss_critic:-0.4173	loss_gen:-0.2365
+2025-06-13 12:14:28.972360	Epoch:118/300	Batch:128/624	Loss_critic:-0.5242	loss_gen:-0.2120
+2025-06-13 12:14:32.415128	Epoch:118/300	Batch:252/624	Loss_critic:-0.3108	loss_gen:-0.1593
+2025-06-13 12:14:35.767700	Epoch:118/300	Batch:376/624	Loss_critic:-0.0385	loss_gen:-0.3541
+2025-06-13 12:14:39.135993	Epoch:118/300	Batch:500/624	Loss_critic:-0.1808	loss_gen:-0.3203
+2025-06-13 12:14:42.548296	Epoch:118/300	Batch:624/624	Loss_critic:0.1288	loss_gen:-0.3581
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:14:42.657668	Epoch:119/300	Batch:4/624	Loss_critic:-0.1891	loss_gen:-0.3305
+2025-06-13 12:14:46.232035	Epoch:119/300	Batch:128/624	Loss_critic:0.6672	loss_gen:-0.2662
+2025-06-13 12:14:49.771870	Epoch:119/300	Batch:252/624	Loss_critic:-0.3130	loss_gen:-0.2381
+2025-06-13 12:14:53.438461	Epoch:119/300	Batch:376/624	Loss_critic:-0.3701	loss_gen:-0.2540
+2025-06-13 12:14:56.710233	Epoch:119/300	Batch:500/624	Loss_critic:-0.3531	loss_gen:-0.1955
+2025-06-13 12:15:00.000100	Epoch:119/300	Batch:624/624	Loss_critic:-0.1500	loss_gen:-0.2394
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:15:00.125946	Epoch:120/300	Batch:4/624	Loss_critic:-0.2412	loss_gen:-0.2301
+2025-06-13 12:15:03.382291	Epoch:120/300	Batch:128/624	Loss_critic:-0.2835	loss_gen:-0.2386
+2025-06-13 12:15:06.671911	Epoch:120/300	Batch:252/624	Loss_critic:-0.2436	loss_gen:-0.2967
+2025-06-13 12:15:10.165314	Epoch:120/300	Batch:376/624	Loss_critic:-0.2525	loss_gen:-0.2068
+2025-06-13 12:15:13.828436	Epoch:120/300	Batch:500/624	Loss_critic:-0.2440	loss_gen:-0.1826
+2025-06-13 12:15:17.557739	Epoch:120/300	Batch:624/624	Loss_critic:-0.4061	loss_gen:-0.1474
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:15:17.698887	Epoch:121/300	Batch:4/624	Loss_critic:-0.3766	loss_gen:-0.1633
+2025-06-13 12:15:21.380455	Epoch:121/300	Batch:128/624	Loss_critic:-0.5517	loss_gen:-0.2340
+2025-06-13 12:15:24.908320	Epoch:121/300	Batch:252/624	Loss_critic:-0.5100	loss_gen:-0.1776
+2025-06-13 12:15:28.462991	Epoch:121/300	Batch:376/624	Loss_critic:-0.1881	loss_gen:-0.2084
+2025-06-13 12:15:31.848181	Epoch:121/300	Batch:500/624	Loss_critic:-0.4272	loss_gen:-0.2388
+2025-06-13 12:15:35.216833	Epoch:121/300	Batch:624/624	Loss_critic:-0.1049	loss_gen:-0.3193
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:15:35.326912	Epoch:122/300	Batch:4/624	Loss_critic:-0.1753	loss_gen:-0.3332
+2025-06-13 12:15:38.802869	Epoch:122/300	Batch:128/624	Loss_critic:-0.1674	loss_gen:-0.1521
+2025-06-13 12:15:42.469108	Epoch:122/300	Batch:252/624	Loss_critic:-0.4751	loss_gen:-0.2305
+2025-06-13 12:15:46.056644	Epoch:122/300	Batch:376/624	Loss_critic:0.2781	loss_gen:-0.4361
+2025-06-13 12:15:49.646846	Epoch:122/300	Batch:500/624	Loss_critic:-0.2741	loss_gen:-0.2988
+2025-06-13 12:15:52.968650	Epoch:122/300	Batch:624/624	Loss_critic:-0.1711	loss_gen:-0.2307
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:15:53.078664	Epoch:123/300	Batch:4/624	Loss_critic:-0.3452	loss_gen:-0.2361
+2025-06-13 12:15:56.831545	Epoch:123/300	Batch:128/624	Loss_critic:-0.2458	loss_gen:-0.2194
+2025-06-13 12:16:00.677391	Epoch:123/300	Batch:252/624	Loss_critic:-0.2854	loss_gen:-0.3362
+2025-06-13 12:16:04.478416	Epoch:123/300	Batch:376/624	Loss_critic:-0.1785	loss_gen:-0.2718
+2025-06-13 12:16:08.146134	Epoch:123/300	Batch:500/624	Loss_critic:-0.2609	loss_gen:-0.2527
+2025-06-13 12:16:11.629770	Epoch:123/300	Batch:624/624	Loss_critic:-0.4172	loss_gen:-0.2568
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:16:11.754773	Epoch:124/300	Batch:4/624	Loss_critic:-0.2334	loss_gen:-0.2371
+2025-06-13 12:16:15.161887	Epoch:124/300	Batch:128/624	Loss_critic:-0.2733	loss_gen:-0.2723
+2025-06-13 12:16:18.859976	Epoch:124/300	Batch:252/624	Loss_critic:-0.0175	loss_gen:-0.1497
+2025-06-13 12:16:22.518816	Epoch:124/300	Batch:376/624	Loss_critic:0.1038	loss_gen:-0.3267
+2025-06-13 12:16:26.119791	Epoch:124/300	Batch:500/624	Loss_critic:-0.2977	loss_gen:-0.2597
+2025-06-13 12:16:29.768375	Epoch:124/300	Batch:624/624	Loss_critic:-0.1011	loss_gen:-0.2738
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:16:29.893697	Epoch:125/300	Batch:4/624	Loss_critic:-0.1861	loss_gen:-0.1993
+2025-06-13 12:16:33.451093	Epoch:125/300	Batch:128/624	Loss_critic:0.0351	loss_gen:-0.2730
+2025-06-13 12:16:36.846185	Epoch:125/300	Batch:252/624	Loss_critic:-0.3685	loss_gen:-0.1903
+2025-06-13 12:16:40.520252	Epoch:125/300	Batch:376/624	Loss_critic:-0.1041	loss_gen:-0.2825
+2025-06-13 12:16:44.290181	Epoch:125/300	Batch:500/624	Loss_critic:-0.3371	loss_gen:-0.1874
+2025-06-13 12:16:47.954508	Epoch:125/300	Batch:624/624	Loss_critic:-0.1140	loss_gen:-0.2072
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:16:48.111690	Epoch:126/300	Batch:4/624	Loss_critic:-0.1907	loss_gen:-0.2035
+2025-06-13 12:16:51.833593	Epoch:126/300	Batch:128/624	Loss_critic:-0.3085	loss_gen:-0.2014
+2025-06-13 12:16:55.587472	Epoch:126/300	Batch:252/624	Loss_critic:-0.0807	loss_gen:-0.2389
+2025-06-13 12:16:59.143165	Epoch:126/300	Batch:376/624	Loss_critic:-0.4233	loss_gen:-0.1860
+2025-06-13 12:17:02.739218	Epoch:126/300	Batch:500/624	Loss_critic:-0.4855	loss_gen:-0.2253
+2025-06-13 12:17:06.432537	Epoch:126/300	Batch:624/624	Loss_critic:0.0040	loss_gen:-0.3676
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:17:06.542264	Epoch:127/300	Batch:4/624	Loss_critic:0.2652	loss_gen:-0.3237
+2025-06-13 12:17:10.205432	Epoch:127/300	Batch:128/624	Loss_critic:-0.1682	loss_gen:-0.3195
+2025-06-13 12:17:13.872065	Epoch:127/300	Batch:252/624	Loss_critic:-0.2548	loss_gen:-0.3133
+2025-06-13 12:17:17.689545	Epoch:127/300	Batch:376/624	Loss_critic:-0.2897	loss_gen:-0.2146
+2025-06-13 12:17:21.387834	Epoch:127/300	Batch:500/624	Loss_critic:-0.1294	loss_gen:-0.3560
+2025-06-13 12:17:25.007276	Epoch:127/300	Batch:624/624	Loss_critic:-0.2192	loss_gen:-0.4733
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:17:25.148687	Epoch:128/300	Batch:4/624	Loss_critic:0.0304	loss_gen:-0.4116
+2025-06-13 12:17:28.695599	Epoch:128/300	Batch:128/624	Loss_critic:0.0939	loss_gen:-0.4359
+2025-06-13 12:17:32.112936	Epoch:128/300	Batch:252/624	Loss_critic:-0.2850	loss_gen:-0.3749
+2025-06-13 12:17:35.726761	Epoch:128/300	Batch:376/624	Loss_critic:-0.0543	loss_gen:-0.3362
+2025-06-13 12:17:39.331673	Epoch:128/300	Batch:500/624	Loss_critic:-0.3087	loss_gen:-0.3012
+2025-06-13 12:17:43.031630	Epoch:128/300	Batch:624/624	Loss_critic:-0.2405	loss_gen:-0.2007
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:17:43.172259	Epoch:129/300	Batch:4/624	Loss_critic:-0.2940	loss_gen:-0.1907
+2025-06-13 12:17:46.910721	Epoch:129/300	Batch:128/624	Loss_critic:1.1054	loss_gen:-0.7426
+2025-06-13 12:17:50.574906	Epoch:129/300	Batch:252/624	Loss_critic:0.0300	loss_gen:-0.3216
+2025-06-13 12:17:54.336012	Epoch:129/300	Batch:376/624	Loss_critic:-0.4692	loss_gen:-0.1870
+2025-06-13 12:17:57.984709	Epoch:129/300	Batch:500/624	Loss_critic:-0.1363	loss_gen:-0.3393
+2025-06-13 12:18:01.670550	Epoch:129/300	Batch:624/624	Loss_critic:-0.2904	loss_gen:-0.2686
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:18:01.779912	Epoch:130/300	Batch:4/624	Loss_critic:-0.2864	loss_gen:-0.2518
+2025-06-13 12:18:05.455355	Epoch:130/300	Batch:128/624	Loss_critic:-0.0515	loss_gen:-0.4248
+2025-06-13 12:18:09.139248	Epoch:130/300	Batch:252/624	Loss_critic:-0.0738	loss_gen:-0.3066
+2025-06-13 12:18:12.945014	Epoch:130/300	Batch:376/624	Loss_critic:-0.0705	loss_gen:-0.4428
+2025-06-13 12:18:16.711910	Epoch:130/300	Batch:500/624	Loss_critic:-0.1439	loss_gen:-0.2698
+2025-06-13 12:18:20.651509	Epoch:130/300	Batch:624/624	Loss_critic:-0.2015	loss_gen:-0.2262
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:18:20.776799	Epoch:131/300	Batch:4/624	Loss_critic:-0.3338	loss_gen:-0.3376
+2025-06-13 12:18:24.403108	Epoch:131/300	Batch:128/624	Loss_critic:-0.3589	loss_gen:-0.2329
+2025-06-13 12:18:28.076532	Epoch:131/300	Batch:252/624	Loss_critic:-0.1279	loss_gen:-0.3048
+2025-06-13 12:18:31.734364	Epoch:131/300	Batch:376/624	Loss_critic:-0.0979	loss_gen:-0.2767
+2025-06-13 12:18:35.344900	Epoch:131/300	Batch:500/624	Loss_critic:-0.2708	loss_gen:-0.2726
+2025-06-13 12:18:39.002721	Epoch:131/300	Batch:624/624	Loss_critic:-0.0648	loss_gen:-0.2530
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:18:39.112091	Epoch:132/300	Batch:4/624	Loss_critic:-0.3365	loss_gen:-0.2648
+2025-06-13 12:18:42.785842	Epoch:132/300	Batch:128/624	Loss_critic:-0.3706	loss_gen:-0.1882
+2025-06-13 12:18:46.537665	Epoch:132/300	Batch:252/624	Loss_critic:0.4183	loss_gen:-0.3098
+2025-06-13 12:18:50.116950	Epoch:132/300	Batch:376/624	Loss_critic:0.1052	loss_gen:-0.3082
+2025-06-13 12:18:53.761632	Epoch:132/300	Batch:500/624	Loss_critic:-0.1954	loss_gen:-0.3090
+2025-06-13 12:18:57.483277	Epoch:132/300	Batch:624/624	Loss_critic:-0.4514	loss_gen:-0.2724
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:18:57.598067	Epoch:133/300	Batch:4/624	Loss_critic:0.1151	loss_gen:-0.2131
+2025-06-13 12:19:01.350060	Epoch:133/300	Batch:128/624	Loss_critic:-0.2774	loss_gen:-0.3371
+2025-06-13 12:19:04.947134	Epoch:133/300	Batch:252/624	Loss_critic:-0.3885	loss_gen:-0.3091
+2025-06-13 12:19:08.638881	Epoch:133/300	Batch:376/624	Loss_critic:0.1125	loss_gen:-0.2955
+2025-06-13 12:19:12.425197	Epoch:133/300	Batch:500/624	Loss_critic:-0.2301	loss_gen:-0.2892
+2025-06-13 12:19:16.021374	Epoch:133/300	Batch:624/624	Loss_critic:-0.2683	loss_gen:-0.2867
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:19:16.147060	Epoch:134/300	Batch:4/624	Loss_critic:-0.0272	loss_gen:-0.2840
+2025-06-13 12:19:19.860661	Epoch:134/300	Batch:128/624	Loss_critic:-0.5109	loss_gen:-0.2338
+2025-06-13 12:19:23.521454	Epoch:134/300	Batch:252/624	Loss_critic:-0.2024	loss_gen:-0.3646
+2025-06-13 12:19:27.229134	Epoch:134/300	Batch:376/624	Loss_critic:0.0003	loss_gen:-0.3066
+2025-06-13 12:19:30.793355	Epoch:134/300	Batch:500/624	Loss_critic:-0.3625	loss_gen:-0.3452
+2025-06-13 12:19:34.390507	Epoch:134/300	Batch:624/624	Loss_critic:0.0052	loss_gen:-0.2329
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:19:34.515506	Epoch:135/300	Batch:4/624	Loss_critic:-0.1430	loss_gen:-0.2290
+2025-06-13 12:19:38.094580	Epoch:135/300	Batch:128/624	Loss_critic:-0.0590	loss_gen:-0.2105
+2025-06-13 12:19:41.802211	Epoch:135/300	Batch:252/624	Loss_critic:-0.3375	loss_gen:-0.2442
+2025-06-13 12:19:45.444956	Epoch:135/300	Batch:376/624	Loss_critic:-0.0026	loss_gen:-0.4282
+2025-06-13 12:19:49.184244	Epoch:135/300	Batch:500/624	Loss_critic:-0.3867	loss_gen:-0.3027
+2025-06-13 12:19:52.843414	Epoch:135/300	Batch:624/624	Loss_critic:-0.3808	loss_gen:-0.2205
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:19:52.968719	Epoch:136/300	Batch:4/624	Loss_critic:-0.3008	loss_gen:-0.2067
+2025-06-13 12:19:56.616195	Epoch:136/300	Batch:128/624	Loss_critic:-0.1091	loss_gen:-0.1799
+2025-06-13 12:20:00.166705	Epoch:136/300	Batch:252/624	Loss_critic:-0.0301	loss_gen:-0.3203
+2025-06-13 12:20:03.657428	Epoch:136/300	Batch:376/624	Loss_critic:-0.3860	loss_gen:-0.3098
+2025-06-13 12:20:07.259844	Epoch:136/300	Batch:500/624	Loss_critic:-0.0481	loss_gen:-0.2455
+2025-06-13 12:20:11.015706	Epoch:136/300	Batch:624/624	Loss_critic:-0.4333	loss_gen:-0.1731
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:20:11.157539	Epoch:137/300	Batch:4/624	Loss_critic:-0.1140	loss_gen:-0.2520
+2025-06-13 12:20:14.899961	Epoch:137/300	Batch:128/624	Loss_critic:-0.2688	loss_gen:-0.3425
+2025-06-13 12:20:18.721957	Epoch:137/300	Batch:252/624	Loss_critic:-0.4067	loss_gen:-0.2385
+2025-06-13 12:20:22.274586	Epoch:137/300	Batch:376/624	Loss_critic:0.1073	loss_gen:-0.3039
+2025-06-13 12:20:25.861216	Epoch:137/300	Batch:500/624	Loss_critic:0.2408	loss_gen:-0.3272
+2025-06-13 12:20:29.403265	Epoch:137/300	Batch:624/624	Loss_critic:-0.3595	loss_gen:-0.2516
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:20:29.514122	Epoch:138/300	Batch:4/624	Loss_critic:-0.4859	loss_gen:-0.2076
+2025-06-13 12:20:33.179466	Epoch:138/300	Batch:128/624	Loss_critic:-0.4260	loss_gen:-0.2340
+2025-06-13 12:20:36.799550	Epoch:138/300	Batch:252/624	Loss_critic:-0.2849	loss_gen:-0.2995
+2025-06-13 12:20:40.582395	Epoch:138/300	Batch:376/624	Loss_critic:-0.2474	loss_gen:-0.2420
+2025-06-13 12:20:44.189205	Epoch:138/300	Batch:500/624	Loss_critic:-0.3877	loss_gen:-0.1709
+2025-06-13 12:20:47.658634	Epoch:138/300	Batch:624/624	Loss_critic:-0.2704	loss_gen:-0.2338
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:20:47.800279	Epoch:139/300	Batch:4/624	Loss_critic:-0.3673	loss_gen:-0.2471
+2025-06-13 12:20:51.460797	Epoch:139/300	Batch:128/624	Loss_critic:-0.3641	loss_gen:-0.2609
+2025-06-13 12:20:54.990630	Epoch:139/300	Batch:252/624	Loss_critic:-0.1032	loss_gen:-0.3264
+2025-06-13 12:20:58.634222	Epoch:139/300	Batch:376/624	Loss_critic:-0.3736	loss_gen:-0.1786
+2025-06-13 12:21:02.336606	Epoch:139/300	Batch:500/624	Loss_critic:0.0356	loss_gen:-0.3090
+2025-06-13 12:21:05.917974	Epoch:139/300	Batch:624/624	Loss_critic:-0.2466	loss_gen:-0.3130
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:21:06.057376	Epoch:140/300	Batch:4/624	Loss_critic:-0.1352	loss_gen:-0.2883
+2025-06-13 12:21:09.700635	Epoch:140/300	Batch:128/624	Loss_critic:-0.1768	loss_gen:-0.2212
+2025-06-13 12:21:13.355762	Epoch:140/300	Batch:252/624	Loss_critic:-0.2118	loss_gen:-0.2277
+2025-06-13 12:21:17.074734	Epoch:140/300	Batch:376/624	Loss_critic:-0.3105	loss_gen:-0.3246
+2025-06-13 12:21:20.874178	Epoch:140/300	Batch:500/624	Loss_critic:-0.3336	loss_gen:-0.2962
+2025-06-13 12:21:24.491343	Epoch:140/300	Batch:624/624	Loss_critic:-0.2775	loss_gen:-0.2208
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:21:24.604743	Epoch:141/300	Batch:4/624	Loss_critic:-0.3011	loss_gen:-0.2578
+2025-06-13 12:21:28.276177	Epoch:141/300	Batch:128/624	Loss_critic:-0.4936	loss_gen:-0.3167
+2025-06-13 12:21:31.750929	Epoch:141/300	Batch:252/624	Loss_critic:-0.0990	loss_gen:-0.2043
+2025-06-13 12:21:35.192498	Epoch:141/300	Batch:376/624	Loss_critic:-0.4924	loss_gen:-0.2417
+2025-06-13 12:21:38.809070	Epoch:141/300	Batch:500/624	Loss_critic:-0.2391	loss_gen:-0.2644
+2025-06-13 12:21:42.441554	Epoch:141/300	Batch:624/624	Loss_critic:-0.4764	loss_gen:-0.2005
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:21:42.568185	Epoch:142/300	Batch:4/624	Loss_critic:-0.4232	loss_gen:-0.2115
+2025-06-13 12:21:46.250340	Epoch:142/300	Batch:128/624	Loss_critic:-0.3154	loss_gen:-0.2714
+2025-06-13 12:21:50.024889	Epoch:142/300	Batch:252/624	Loss_critic:-0.4529	loss_gen:-0.1911
+2025-06-13 12:21:53.747695	Epoch:142/300	Batch:376/624	Loss_critic:-0.3749	loss_gen:-0.2059
+2025-06-13 12:21:57.554521	Epoch:142/300	Batch:500/624	Loss_critic:-0.4454	loss_gen:-0.1500
+2025-06-13 12:22:01.263184	Epoch:142/300	Batch:624/624	Loss_critic:0.1864	loss_gen:-0.3825
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:22:01.373724	Epoch:143/300	Batch:4/624	Loss_critic:0.2171	loss_gen:-0.4515
+2025-06-13 12:22:05.175586	Epoch:143/300	Batch:128/624	Loss_critic:-0.2944	loss_gen:-0.2803
+2025-06-13 12:22:09.015197	Epoch:143/300	Batch:252/624	Loss_critic:-0.4329	loss_gen:-0.1470
+2025-06-13 12:22:12.827250	Epoch:143/300	Batch:376/624	Loss_critic:-0.4014	loss_gen:-0.2212
+2025-06-13 12:22:16.733949	Epoch:143/300	Batch:500/624	Loss_critic:0.3652	loss_gen:-0.5158
+2025-06-13 12:22:20.531147	Epoch:143/300	Batch:624/624	Loss_critic:-0.0377	loss_gen:-0.2669
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:22:20.687411	Epoch:144/300	Batch:4/624	Loss_critic:-0.0128	loss_gen:-0.2849
+2025-06-13 12:22:24.360202	Epoch:144/300	Batch:128/624	Loss_critic:0.1057	loss_gen:-0.3041
+2025-06-13 12:22:28.016587	Epoch:144/300	Batch:252/624	Loss_critic:-0.0920	loss_gen:-0.2895
+2025-06-13 12:22:31.594410	Epoch:144/300	Batch:376/624	Loss_critic:-0.2210	loss_gen:-0.2202
+2025-06-13 12:22:35.298154	Epoch:144/300	Batch:500/624	Loss_critic:-0.1767	loss_gen:-0.2487
+2025-06-13 12:22:39.023020	Epoch:144/300	Batch:624/624	Loss_critic:0.1845	loss_gen:-0.3617
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:22:39.132803	Epoch:145/300	Batch:4/624	Loss_critic:-0.3592	loss_gen:-0.3862
+2025-06-13 12:22:42.848097	Epoch:145/300	Batch:128/624	Loss_critic:-0.2438	loss_gen:-0.2377
+2025-06-13 12:22:46.645494	Epoch:145/300	Batch:252/624	Loss_critic:-0.1542	loss_gen:-0.2944
+2025-06-13 12:22:50.400504	Epoch:145/300	Batch:376/624	Loss_critic:-0.3489	loss_gen:-0.2091
+2025-06-13 12:22:54.051993	Epoch:145/300	Batch:500/624	Loss_critic:-0.1885	loss_gen:-0.2272
+2025-06-13 12:22:57.714433	Epoch:145/300	Batch:624/624	Loss_critic:-0.3727	loss_gen:-0.1923
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:22:57.840314	Epoch:146/300	Batch:4/624	Loss_critic:-0.2504	loss_gen:-0.1903
+2025-06-13 12:23:01.466119	Epoch:146/300	Batch:128/624	Loss_critic:-0.2381	loss_gen:-0.2395
+2025-06-13 12:23:05.158523	Epoch:146/300	Batch:252/624	Loss_critic:-0.3723	loss_gen:-0.2328
+2025-06-13 12:23:08.897539	Epoch:146/300	Batch:376/624	Loss_critic:-0.2949	loss_gen:-0.1421
+2025-06-13 12:23:12.516614	Epoch:146/300	Batch:500/624	Loss_critic:-0.4665	loss_gen:-0.2914
+2025-06-13 12:23:16.316044	Epoch:146/300	Batch:624/624	Loss_critic:-0.2053	loss_gen:-0.2469
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:23:16.441344	Epoch:147/300	Batch:4/624	Loss_critic:-0.4118	loss_gen:-0.1945
+2025-06-13 12:23:20.280470	Epoch:147/300	Batch:128/624	Loss_critic:-0.0422	loss_gen:-0.4685
+2025-06-13 12:23:23.814897	Epoch:147/300	Batch:252/624	Loss_critic:-0.2364	loss_gen:-0.2519
+2025-06-13 12:23:27.376182	Epoch:147/300	Batch:376/624	Loss_critic:-0.1157	loss_gen:-0.3767
+2025-06-13 12:23:31.076029	Epoch:147/300	Batch:500/624	Loss_critic:-0.1623	loss_gen:-0.3050
+2025-06-13 12:23:34.668087	Epoch:147/300	Batch:624/624	Loss_critic:-0.2717	loss_gen:-0.2955
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:23:34.793569	Epoch:148/300	Batch:4/624	Loss_critic:-0.2651	loss_gen:-0.3377
+2025-06-13 12:23:38.554374	Epoch:148/300	Batch:128/624	Loss_critic:-0.1738	loss_gen:-0.2645
+2025-06-13 12:23:42.249198	Epoch:148/300	Batch:252/624	Loss_critic:-0.2036	loss_gen:-0.2107
+2025-06-13 12:23:45.939315	Epoch:148/300	Batch:376/624	Loss_critic:-0.0968	loss_gen:-0.2287
+2025-06-13 12:23:49.565045	Epoch:148/300	Batch:500/624	Loss_critic:-0.3218	loss_gen:-0.2683
+2025-06-13 12:23:53.222432	Epoch:148/300	Batch:624/624	Loss_critic:-0.3476	loss_gen:-0.1916
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:23:53.348691	Epoch:149/300	Batch:4/624	Loss_critic:-0.2159	loss_gen:-0.2191
+2025-06-13 12:23:56.901754	Epoch:149/300	Batch:128/624	Loss_critic:-0.3016	loss_gen:-0.2987
+2025-06-13 12:24:00.576795	Epoch:149/300	Batch:252/624	Loss_critic:-0.4086	loss_gen:-0.1725
+2025-06-13 12:24:04.060672	Epoch:149/300	Batch:376/624	Loss_critic:-0.4449	loss_gen:-0.2108
+2025-06-13 12:24:07.599098	Epoch:149/300	Batch:500/624	Loss_critic:-0.2393	loss_gen:-0.2258
+2025-06-13 12:24:11.099049	Epoch:149/300	Batch:624/624	Loss_critic:-0.3435	loss_gen:-0.2098
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:24:11.209007	Epoch:150/300	Batch:4/624	Loss_critic:-0.4569	loss_gen:-0.2003
+2025-06-13 12:24:14.747640	Epoch:150/300	Batch:128/624	Loss_critic:-0.1733	loss_gen:-0.1404
+2025-06-13 12:24:18.623589	Epoch:150/300	Batch:252/624	Loss_critic:-0.3757	loss_gen:-0.3116
+2025-06-13 12:24:22.398415	Epoch:150/300	Batch:376/624	Loss_critic:-0.4228	loss_gen:-0.2160
+2025-06-13 12:24:25.701378	Epoch:150/300	Batch:500/624	Loss_critic:-0.1786	loss_gen:-0.1670
+2025-06-13 12:24:28.840739	Epoch:150/300	Batch:624/624	Loss_critic:-0.2160	loss_gen:-0.3214
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:24:28.945966	Epoch:151/300	Batch:4/624	Loss_critic:-0.1208	loss_gen:-0.2663
+2025-06-13 12:24:32.045959	Epoch:151/300	Batch:128/624	Loss_critic:0.4493	loss_gen:-0.2255
+2025-06-13 12:24:35.386785	Epoch:151/300	Batch:252/624	Loss_critic:-0.2441	loss_gen:-0.2241
+2025-06-13 12:24:38.994590	Epoch:151/300	Batch:376/624	Loss_critic:-0.4730	loss_gen:-0.2277
+2025-06-13 12:24:42.919780	Epoch:151/300	Batch:500/624	Loss_critic:-0.0563	loss_gen:-0.3906
+2025-06-13 12:24:46.595817	Epoch:151/300	Batch:624/624	Loss_critic:-0.3451	loss_gen:-0.1323
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:24:46.722110	Epoch:152/300	Batch:4/624	Loss_critic:-0.3841	loss_gen:-0.1896
+2025-06-13 12:24:50.401411	Epoch:152/300	Batch:128/624	Loss_critic:-0.1987	loss_gen:-0.2397
+2025-06-13 12:24:54.344880	Epoch:152/300	Batch:252/624	Loss_critic:-0.4183	loss_gen:-0.1971
+2025-06-13 12:24:58.085109	Epoch:152/300	Batch:376/624	Loss_critic:-0.4519	loss_gen:-0.2288
+2025-06-13 12:25:01.827334	Epoch:152/300	Batch:500/624	Loss_critic:-0.2496	loss_gen:-0.2111
+2025-06-13 12:25:05.634889	Epoch:152/300	Batch:624/624	Loss_critic:-0.4078	loss_gen:-0.2010
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:25:05.770482	Epoch:153/300	Batch:4/624	Loss_critic:-0.3490	loss_gen:-0.1665
+2025-06-13 12:25:09.396335	Epoch:153/300	Batch:128/624	Loss_critic:-0.1597	loss_gen:-0.2651
+2025-06-13 12:25:13.041586	Epoch:153/300	Batch:252/624	Loss_critic:-0.0391	loss_gen:-0.3948
+2025-06-13 12:25:16.677473	Epoch:153/300	Batch:376/624	Loss_critic:-0.2432	loss_gen:-0.2937
+2025-06-13 12:25:20.370383	Epoch:153/300	Batch:500/624	Loss_critic:-0.0395	loss_gen:-0.4388
+2025-06-13 12:25:23.866653	Epoch:153/300	Batch:624/624	Loss_critic:-0.1805	loss_gen:-0.3703
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:25:23.976639	Epoch:154/300	Batch:4/624	Loss_critic:-0.2286	loss_gen:-0.2290
+2025-06-13 12:25:27.609671	Epoch:154/300	Batch:128/624	Loss_critic:-0.2580	loss_gen:-0.3076
+2025-06-13 12:25:31.184467	Epoch:154/300	Batch:252/624	Loss_critic:-0.2698	loss_gen:-0.3768
+2025-06-13 12:25:34.774211	Epoch:154/300	Batch:376/624	Loss_critic:-0.1024	loss_gen:-0.2746
+2025-06-13 12:25:38.426015	Epoch:154/300	Batch:500/624	Loss_critic:-0.2742	loss_gen:-0.2486
+2025-06-13 12:25:42.058159	Epoch:154/300	Batch:624/624	Loss_critic:-0.3270	loss_gen:-0.2003
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:25:42.167555	Epoch:155/300	Batch:4/624	Loss_critic:-0.3857	loss_gen:-0.2164
+2025-06-13 12:25:45.711179	Epoch:155/300	Batch:128/624	Loss_critic:-0.4513	loss_gen:-0.1865
+2025-06-13 12:25:49.326042	Epoch:155/300	Batch:252/624	Loss_critic:-0.2039	loss_gen:-0.2590
+2025-06-13 12:25:53.023011	Epoch:155/300	Batch:376/624	Loss_critic:-0.1221	loss_gen:-0.2144
+2025-06-13 12:25:56.715327	Epoch:155/300	Batch:500/624	Loss_critic:-0.1722	loss_gen:-0.1695
+2025-06-13 12:26:00.480890	Epoch:155/300	Batch:624/624	Loss_critic:-0.1788	loss_gen:-0.2961
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:26:00.590270	Epoch:156/300	Batch:4/624	Loss_critic:-0.1371	loss_gen:-0.2890
+2025-06-13 12:26:04.294619	Epoch:156/300	Batch:128/624	Loss_critic:-0.4992	loss_gen:-0.2202
+2025-06-13 12:26:08.059885	Epoch:156/300	Batch:252/624	Loss_critic:-0.1437	loss_gen:-0.1432
+2025-06-13 12:26:11.766113	Epoch:156/300	Batch:376/624	Loss_critic:0.0392	loss_gen:-0.3086
+2025-06-13 12:26:15.522011	Epoch:156/300	Batch:500/624	Loss_critic:-0.5493	loss_gen:-0.2051
+2025-06-13 12:26:19.398902	Epoch:156/300	Batch:624/624	Loss_critic:-0.5092	loss_gen:-0.1708
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:26:19.525050	Epoch:157/300	Batch:4/624	Loss_critic:-0.4187	loss_gen:-0.1731
+2025-06-13 12:26:23.418051	Epoch:157/300	Batch:128/624	Loss_critic:-0.4668	loss_gen:-0.2064
+2025-06-13 12:26:27.138805	Epoch:157/300	Batch:252/624	Loss_critic:0.6446	loss_gen:-0.2995
+2025-06-13 12:26:30.793940	Epoch:157/300	Batch:376/624	Loss_critic:-0.2804	loss_gen:-0.2176
+2025-06-13 12:26:34.543091	Epoch:157/300	Batch:500/624	Loss_critic:-0.3490	loss_gen:-0.2019
+2025-06-13 12:26:38.181745	Epoch:157/300	Batch:624/624	Loss_critic:-0.5375	loss_gen:-0.2150
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:26:38.291474	Epoch:158/300	Batch:4/624	Loss_critic:-0.3180	loss_gen:-0.2320
+2025-06-13 12:26:42.121820	Epoch:158/300	Batch:128/624	Loss_critic:-0.2748	loss_gen:-0.2194
+2025-06-13 12:26:45.778040	Epoch:158/300	Batch:252/624	Loss_critic:-0.3543	loss_gen:-0.2110
+2025-06-13 12:26:49.450993	Epoch:158/300	Batch:376/624	Loss_critic:-0.3559	loss_gen:-0.2464
+2025-06-13 12:26:53.126094	Epoch:158/300	Batch:500/624	Loss_critic:-0.4086	loss_gen:-0.2192
+2025-06-13 12:26:56.714703	Epoch:158/300	Batch:624/624	Loss_critic:-0.3487	loss_gen:-0.1787
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:26:56.840009	Epoch:159/300	Batch:4/624	Loss_critic:-0.3474	loss_gen:-0.1715
+2025-06-13 12:27:00.511367	Epoch:159/300	Batch:128/624	Loss_critic:0.0777	loss_gen:-0.2373
+2025-06-13 12:27:04.393748	Epoch:159/300	Batch:252/624	Loss_critic:-0.4779	loss_gen:-0.2718
+2025-06-13 12:27:08.253967	Epoch:159/300	Batch:376/624	Loss_critic:-0.1965	loss_gen:-0.3629
+2025-06-13 12:27:12.071613	Epoch:159/300	Batch:500/624	Loss_critic:-0.2480	loss_gen:-0.2343
+2025-06-13 12:27:15.873162	Epoch:159/300	Batch:624/624	Loss_critic:-0.1075	loss_gen:-0.2089
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:27:15.998550	Epoch:160/300	Batch:4/624	Loss_critic:-0.3841	loss_gen:-0.2003
+2025-06-13 12:27:19.883304	Epoch:160/300	Batch:128/624	Loss_critic:-0.0433	loss_gen:-0.3145
+2025-06-13 12:27:23.561191	Epoch:160/300	Batch:252/624	Loss_critic:0.0552	loss_gen:-0.2302
+2025-06-13 12:27:27.238906	Epoch:160/300	Batch:376/624	Loss_critic:0.1634	loss_gen:-0.7549
+2025-06-13 12:27:30.787705	Epoch:160/300	Batch:500/624	Loss_critic:-0.2115	loss_gen:-0.3840
+2025-06-13 12:27:34.491444	Epoch:160/300	Batch:624/624	Loss_critic:-0.2111	loss_gen:-0.3166
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:27:34.619800	Epoch:161/300	Batch:4/624	Loss_critic:-0.1946	loss_gen:-0.3680
+2025-06-13 12:27:38.342929	Epoch:161/300	Batch:128/624	Loss_critic:-0.3592	loss_gen:-0.2680
+2025-06-13 12:27:42.101122	Epoch:161/300	Batch:252/624	Loss_critic:-0.2632	loss_gen:-0.2358
+2025-06-13 12:27:45.761561	Epoch:161/300	Batch:376/624	Loss_critic:-0.1970	loss_gen:-0.2126
+2025-06-13 12:27:49.376118	Epoch:161/300	Batch:500/624	Loss_critic:-0.2771	loss_gen:-0.2293
+2025-06-13 12:27:52.869675	Epoch:161/300	Batch:624/624	Loss_critic:-0.0213	loss_gen:-0.2721
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:27:53.029953	Epoch:162/300	Batch:4/624	Loss_critic:-0.3507	loss_gen:-0.2328
+2025-06-13 12:27:56.534554	Epoch:162/300	Batch:128/624	Loss_critic:-0.2857	loss_gen:-0.2595
+2025-06-13 12:28:00.197739	Epoch:162/300	Batch:252/624	Loss_critic:-0.1842	loss_gen:-0.3373
+2025-06-13 12:28:03.893657	Epoch:162/300	Batch:376/624	Loss_critic:-0.0988	loss_gen:-0.3566
+2025-06-13 12:28:07.666098	Epoch:162/300	Batch:500/624	Loss_critic:-0.3720	loss_gen:-0.2287
+2025-06-13 12:28:11.410103	Epoch:162/300	Batch:624/624	Loss_critic:-0.0678	loss_gen:-0.2441
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:28:11.535497	Epoch:163/300	Batch:4/624	Loss_critic:-0.2178	loss_gen:-0.2550
+2025-06-13 12:28:15.115923	Epoch:163/300	Batch:128/624	Loss_critic:-0.3061	loss_gen:-0.2037
+2025-06-13 12:28:18.781081	Epoch:163/300	Batch:252/624	Loss_critic:-0.2605	loss_gen:-0.2179
+2025-06-13 12:28:22.334266	Epoch:163/300	Batch:376/624	Loss_critic:-0.2215	loss_gen:-0.2786
+2025-06-13 12:28:26.019288	Epoch:163/300	Batch:500/624	Loss_critic:-0.3715	loss_gen:-0.2290
+2025-06-13 12:28:29.656294	Epoch:163/300	Batch:624/624	Loss_critic:-0.2285	loss_gen:-0.1995
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:28:29.782056	Epoch:164/300	Batch:4/624	Loss_critic:-0.4907	loss_gen:-0.2350
+2025-06-13 12:28:33.451524	Epoch:164/300	Batch:128/624	Loss_critic:-0.3626	loss_gen:-0.3302
+2025-06-13 12:28:37.026646	Epoch:164/300	Batch:252/624	Loss_critic:0.8324	loss_gen:-0.2845
+2025-06-13 12:28:40.674817	Epoch:164/300	Batch:376/624	Loss_critic:-0.3651	loss_gen:-0.1993
+2025-06-13 12:28:44.259865	Epoch:164/300	Batch:500/624	Loss_critic:-0.3466	loss_gen:-0.2208
+2025-06-13 12:28:47.770275	Epoch:164/300	Batch:624/624	Loss_critic:-0.2845	loss_gen:-0.1973
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:28:47.880201	Epoch:165/300	Batch:4/624	Loss_critic:-0.4145	loss_gen:-0.2118
+2025-06-13 12:28:51.526683	Epoch:165/300	Batch:128/624	Loss_critic:-0.1013	loss_gen:-0.2155
+2025-06-13 12:28:55.060181	Epoch:165/300	Batch:252/624	Loss_critic:-0.2602	loss_gen:-0.2589
+2025-06-13 12:28:58.684552	Epoch:165/300	Batch:376/624	Loss_critic:-0.4318	loss_gen:-0.2124
+2025-06-13 12:29:02.234867	Epoch:165/300	Batch:500/624	Loss_critic:-0.4478	loss_gen:-0.2000
+2025-06-13 12:29:06.051171	Epoch:165/300	Batch:624/624	Loss_critic:-0.4092	loss_gen:-0.2383
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:29:06.176206	Epoch:166/300	Batch:4/624	Loss_critic:-0.3938	loss_gen:-0.2517
+2025-06-13 12:29:09.788157	Epoch:166/300	Batch:128/624	Loss_critic:-0.3507	loss_gen:-0.2416
+2025-06-13 12:29:13.480728	Epoch:166/300	Batch:252/624	Loss_critic:-0.2529	loss_gen:-0.4319
+2025-06-13 12:29:17.139970	Epoch:166/300	Batch:376/624	Loss_critic:-0.1616	loss_gen:-0.1683
+2025-06-13 12:29:20.821976	Epoch:166/300	Batch:500/624	Loss_critic:-0.3538	loss_gen:-0.2609
+2025-06-13 12:29:24.432914	Epoch:166/300	Batch:624/624	Loss_critic:-0.1832	loss_gen:-0.3122
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:29:24.558563	Epoch:167/300	Batch:4/624	Loss_critic:-0.4166	loss_gen:-0.3234
+2025-06-13 12:29:27.994003	Epoch:167/300	Batch:128/624	Loss_critic:-0.4159	loss_gen:-0.2215
+2025-06-13 12:29:31.433759	Epoch:167/300	Batch:252/624	Loss_critic:-0.4685	loss_gen:-0.2333
+2025-06-13 12:29:35.012118	Epoch:167/300	Batch:376/624	Loss_critic:-0.1579	loss_gen:-0.2608
+2025-06-13 12:29:38.671987	Epoch:167/300	Batch:500/624	Loss_critic:-0.4319	loss_gen:-0.1880
+2025-06-13 12:29:42.377517	Epoch:167/300	Batch:624/624	Loss_critic:-0.3351	loss_gen:-0.2891
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:29:42.487210	Epoch:168/300	Batch:4/624	Loss_critic:-0.2346	loss_gen:-0.3722
+2025-06-13 12:29:46.119502	Epoch:168/300	Batch:128/624	Loss_critic:-0.3545	loss_gen:-0.2461
+2025-06-13 12:29:49.765900	Epoch:168/300	Batch:252/624	Loss_critic:-0.3312	loss_gen:-0.2357
+2025-06-13 12:29:53.303011	Epoch:168/300	Batch:376/624	Loss_critic:-0.2093	loss_gen:-0.3459
+2025-06-13 12:29:56.986566	Epoch:168/300	Batch:500/624	Loss_critic:-0.2167	loss_gen:-0.2738
+2025-06-13 12:30:00.789726	Epoch:168/300	Batch:624/624	Loss_critic:-0.2592	loss_gen:-0.2133
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:30:00.899197	Epoch:169/300	Batch:4/624	Loss_critic:-0.3884	loss_gen:-0.2021
+2025-06-13 12:30:04.654961	Epoch:169/300	Batch:128/624	Loss_critic:-0.2069	loss_gen:-0.1981
+2025-06-13 12:30:08.504130	Epoch:169/300	Batch:252/624	Loss_critic:-0.3370	loss_gen:-0.2438
+2025-06-13 12:30:12.541537	Epoch:169/300	Batch:376/624	Loss_critic:-0.5588	loss_gen:-0.2377
+2025-06-13 12:30:16.380812	Epoch:169/300	Batch:500/624	Loss_critic:0.0655	loss_gen:-0.1826
+2025-06-13 12:30:20.259228	Epoch:169/300	Batch:624/624	Loss_critic:-0.2719	loss_gen:-0.2679
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:30:20.384825	Epoch:170/300	Batch:4/624	Loss_critic:-0.3109	loss_gen:-0.1963
+2025-06-13 12:30:23.980665	Epoch:170/300	Batch:128/624	Loss_critic:-0.0191	loss_gen:-0.3793
+2025-06-13 12:30:27.687829	Epoch:170/300	Batch:252/624	Loss_critic:-0.3011	loss_gen:-0.3109
+2025-06-13 12:30:31.285440	Epoch:170/300	Batch:376/624	Loss_critic:-0.3806	loss_gen:-0.2202
+2025-06-13 12:30:34.896419	Epoch:170/300	Batch:500/624	Loss_critic:-0.1991	loss_gen:-0.2635
+2025-06-13 12:30:38.522576	Epoch:170/300	Batch:624/624	Loss_critic:-0.2398	loss_gen:-0.1975
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:30:38.631956	Epoch:171/300	Batch:4/624	Loss_critic:-0.2633	loss_gen:-0.2530
+2025-06-13 12:30:42.351359	Epoch:171/300	Batch:128/624	Loss_critic:-0.3561	loss_gen:-0.2088
+2025-06-13 12:30:45.883332	Epoch:171/300	Batch:252/624	Loss_critic:-0.4949	loss_gen:-0.2267
+2025-06-13 12:30:49.495553	Epoch:171/300	Batch:376/624	Loss_critic:-0.1314	loss_gen:-0.2530
+2025-06-13 12:30:53.110007	Epoch:171/300	Batch:500/624	Loss_critic:-0.1434	loss_gen:-0.2094
+2025-06-13 12:30:56.878118	Epoch:171/300	Batch:624/624	Loss_critic:-0.2290	loss_gen:-0.2370
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:30:57.003109	Epoch:172/300	Batch:4/624	Loss_critic:-0.1119	loss_gen:-0.1944
+2025-06-13 12:31:00.709181	Epoch:172/300	Batch:128/624	Loss_critic:-0.3167	loss_gen:-0.2457
+2025-06-13 12:31:04.557220	Epoch:172/300	Batch:252/624	Loss_critic:-0.6066	loss_gen:-0.1403
+2025-06-13 12:31:08.359657	Epoch:172/300	Batch:376/624	Loss_critic:0.0539	loss_gen:-0.3489
+2025-06-13 12:31:12.144124	Epoch:172/300	Batch:500/624	Loss_critic:-0.3217	loss_gen:-0.2951
+2025-06-13 12:31:15.820514	Epoch:172/300	Batch:624/624	Loss_critic:-0.2293	loss_gen:-0.2697
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:31:15.945628	Epoch:173/300	Batch:4/624	Loss_critic:-0.2081	loss_gen:-0.2312
+2025-06-13 12:31:19.608876	Epoch:173/300	Batch:128/624	Loss_critic:-0.3099	loss_gen:-0.1809
+2025-06-13 12:31:23.206183	Epoch:173/300	Batch:252/624	Loss_critic:-0.2238	loss_gen:-0.2300
+2025-06-13 12:31:26.771505	Epoch:173/300	Batch:376/624	Loss_critic:0.6309	loss_gen:-0.3032
+2025-06-13 12:31:30.468036	Epoch:173/300	Batch:500/624	Loss_critic:-0.4341	loss_gen:-0.1735
+2025-06-13 12:31:34.152845	Epoch:173/300	Batch:624/624	Loss_critic:-0.1642	loss_gen:-0.2128
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:31:34.278679	Epoch:174/300	Batch:4/624	Loss_critic:-0.4612	loss_gen:-0.2307
+2025-06-13 12:31:38.124314	Epoch:174/300	Batch:128/624	Loss_critic:-0.1097	loss_gen:-0.2803
+2025-06-13 12:31:41.954819	Epoch:174/300	Batch:252/624	Loss_critic:-0.3478	loss_gen:-0.2500
+2025-06-13 12:31:45.826488	Epoch:174/300	Batch:376/624	Loss_critic:-0.5390	loss_gen:-0.1831
+2025-06-13 12:31:49.459168	Epoch:174/300	Batch:500/624	Loss_critic:-0.3128	loss_gen:-0.1976
+2025-06-13 12:31:53.053890	Epoch:174/300	Batch:624/624	Loss_critic:1.5575	loss_gen:-0.6575
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:31:53.186345	Epoch:175/300	Batch:4/624	Loss_critic:0.3166	loss_gen:-0.7330
+2025-06-13 12:31:56.757345	Epoch:175/300	Batch:128/624	Loss_critic:-0.1748	loss_gen:-0.2932
+2025-06-13 12:32:00.338006	Epoch:175/300	Batch:252/624	Loss_critic:-0.3307	loss_gen:-0.2457
+2025-06-13 12:32:03.917326	Epoch:175/300	Batch:376/624	Loss_critic:-0.1115	loss_gen:-0.4403
+2025-06-13 12:32:07.606002	Epoch:175/300	Batch:500/624	Loss_critic:-0.2008	loss_gen:-0.2343
+2025-06-13 12:32:11.436364	Epoch:175/300	Batch:624/624	Loss_critic:-0.1762	loss_gen:-0.3309
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:32:11.576990	Epoch:176/300	Batch:4/624	Loss_critic:0.0918	loss_gen:-0.3251
+2025-06-13 12:32:15.453566	Epoch:176/300	Batch:128/624	Loss_critic:-0.2715	loss_gen:-0.2715
+2025-06-13 12:32:19.193116	Epoch:176/300	Batch:252/624	Loss_critic:-0.1934	loss_gen:-0.2691
+2025-06-13 12:32:22.788112	Epoch:176/300	Batch:376/624	Loss_critic:-0.0227	loss_gen:-0.2825
+2025-06-13 12:32:26.258718	Epoch:176/300	Batch:500/624	Loss_critic:0.0821	loss_gen:-0.1547
+2025-06-13 12:32:29.760162	Epoch:176/300	Batch:624/624	Loss_critic:-0.1801	loss_gen:-0.3160
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:32:29.885162	Epoch:177/300	Batch:4/624	Loss_critic:-0.3812	loss_gen:-0.3062
+2025-06-13 12:32:33.526944	Epoch:177/300	Batch:128/624	Loss_critic:-0.1434	loss_gen:-0.2922
+2025-06-13 12:32:36.924434	Epoch:177/300	Batch:252/624	Loss_critic:0.4135	loss_gen:-0.2797
+2025-06-13 12:32:40.125316	Epoch:177/300	Batch:376/624	Loss_critic:-0.2753	loss_gen:-0.2747
+2025-06-13 12:32:43.879116	Epoch:177/300	Batch:500/624	Loss_critic:-0.4186	loss_gen:-0.1896
+2025-06-13 12:32:46.737575	Epoch:177/300	Batch:624/624	Loss_critic:-0.1664	loss_gen:-0.1449
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:32:46.832290	Epoch:178/300	Batch:4/624	Loss_critic:-0.3964	loss_gen:-0.1740
+2025-06-13 12:32:49.695651	Epoch:178/300	Batch:128/624	Loss_critic:-0.3737	loss_gen:-0.2090
+2025-06-13 12:32:52.529323	Epoch:178/300	Batch:252/624	Loss_critic:-0.1403	loss_gen:-0.2878
+2025-06-13 12:32:55.323968	Epoch:178/300	Batch:376/624	Loss_critic:0.1117	loss_gen:-0.2833
+2025-06-13 12:32:58.085457	Epoch:178/300	Batch:500/624	Loss_critic:-0.2188	loss_gen:-0.3122
+2025-06-13 12:33:00.855304	Epoch:178/300	Batch:624/624	Loss_critic:-0.0666	loss_gen:-0.1775
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:33:00.958385	Epoch:179/300	Batch:4/624	Loss_critic:-0.3523	loss_gen:-0.1891
+2025-06-13 12:33:03.773067	Epoch:179/300	Batch:128/624	Loss_critic:-0.2423	loss_gen:-0.2540
+2025-06-13 12:33:06.574274	Epoch:179/300	Batch:252/624	Loss_critic:0.1631	loss_gen:-0.2737
+2025-06-13 12:33:09.375281	Epoch:179/300	Batch:376/624	Loss_critic:-0.1358	loss_gen:-0.2230
+2025-06-13 12:33:12.119098	Epoch:179/300	Batch:500/624	Loss_critic:-0.1172	loss_gen:-0.1892
+2025-06-13 12:33:14.876507	Epoch:179/300	Batch:624/624	Loss_critic:-0.4586	loss_gen:-0.2096
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:33:14.986506	Epoch:180/300	Batch:4/624	Loss_critic:-0.3733	loss_gen:-0.2186
+2025-06-13 12:33:17.905200	Epoch:180/300	Batch:128/624	Loss_critic:-0.3039	loss_gen:-0.2116
+2025-06-13 12:33:20.647676	Epoch:180/300	Batch:252/624	Loss_critic:-0.3166	loss_gen:-0.2347
+2025-06-13 12:33:23.469945	Epoch:180/300	Batch:376/624	Loss_critic:-0.0125	loss_gen:-0.3270
+2025-06-13 12:33:26.323641	Epoch:180/300	Batch:500/624	Loss_critic:-0.4213	loss_gen:-0.2269
+2025-06-13 12:33:29.139052	Epoch:180/300	Batch:624/624	Loss_critic:-0.3361	loss_gen:-0.2657
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:33:29.230931	Epoch:181/300	Batch:4/624	Loss_critic:-0.1550	loss_gen:-0.3258
+2025-06-13 12:33:32.116453	Epoch:181/300	Batch:128/624	Loss_critic:-0.1319	loss_gen:-0.2305
+2025-06-13 12:33:34.895652	Epoch:181/300	Batch:252/624	Loss_critic:-0.1013	loss_gen:-0.3733
+2025-06-13 12:33:37.693228	Epoch:181/300	Batch:376/624	Loss_critic:-0.3604	loss_gen:-0.2253
+2025-06-13 12:33:40.587282	Epoch:181/300	Batch:500/624	Loss_critic:-0.4373	loss_gen:-0.1438
+2025-06-13 12:33:43.429990	Epoch:181/300	Batch:624/624	Loss_critic:0.5335	loss_gen:-0.2972
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:33:43.529999	Epoch:182/300	Batch:4/624	Loss_critic:-0.3005	loss_gen:-0.3209
+2025-06-13 12:33:46.336498	Epoch:182/300	Batch:128/624	Loss_critic:-0.1200	loss_gen:-0.2455
+2025-06-13 12:33:49.282713	Epoch:182/300	Batch:252/624	Loss_critic:-0.4184	loss_gen:-0.2272
+2025-06-13 12:33:52.523516	Epoch:182/300	Batch:376/624	Loss_critic:-0.2692	loss_gen:-0.2538
+2025-06-13 12:33:55.701931	Epoch:182/300	Batch:500/624	Loss_critic:-0.3592	loss_gen:-0.1785
+2025-06-13 12:33:58.870531	Epoch:182/300	Batch:624/624	Loss_critic:-0.2723	loss_gen:-0.1882
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:33:58.980529	Epoch:183/300	Batch:4/624	Loss_critic:-0.5299	loss_gen:-0.1333
+2025-06-13 12:34:02.178271	Epoch:183/300	Batch:128/624	Loss_critic:0.1204	loss_gen:-0.5142
+2025-06-13 12:34:05.401947	Epoch:183/300	Batch:252/624	Loss_critic:-0.1406	loss_gen:-0.2765
+2025-06-13 12:34:08.715942	Epoch:183/300	Batch:376/624	Loss_critic:-0.1107	loss_gen:-0.3444
+2025-06-13 12:34:11.892948	Epoch:183/300	Batch:500/624	Loss_critic:-0.1607	loss_gen:-0.2745
+2025-06-13 12:34:15.041072	Epoch:183/300	Batch:624/624	Loss_critic:-0.1947	loss_gen:-0.2398
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:34:15.150992	Epoch:184/300	Batch:4/624	Loss_critic:-0.3125	loss_gen:-0.2958
+2025-06-13 12:34:18.259668	Epoch:184/300	Batch:128/624	Loss_critic:-0.2456	loss_gen:-0.4180
+2025-06-13 12:34:21.453394	Epoch:184/300	Batch:252/624	Loss_critic:-0.3390	loss_gen:-0.2511
+2025-06-13 12:34:24.728175	Epoch:184/300	Batch:376/624	Loss_critic:-0.3762	loss_gen:-0.3483
+2025-06-13 12:34:27.932729	Epoch:184/300	Batch:500/624	Loss_critic:-0.3232	loss_gen:-0.2524
+2025-06-13 12:34:31.146308	Epoch:184/300	Batch:624/624	Loss_critic:-0.2571	loss_gen:-0.2457
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:34:31.263341	Epoch:185/300	Batch:4/624	Loss_critic:-0.3510	loss_gen:-0.2619
+2025-06-13 12:34:34.521902	Epoch:185/300	Batch:128/624	Loss_critic:-0.0829	loss_gen:-0.4235
+2025-06-13 12:34:37.804182	Epoch:185/300	Batch:252/624	Loss_critic:-0.1864	loss_gen:-0.3163
+2025-06-13 12:34:41.037321	Epoch:185/300	Batch:376/624	Loss_critic:-0.2228	loss_gen:-0.2224
+2025-06-13 12:34:44.278797	Epoch:185/300	Batch:500/624	Loss_critic:-0.3580	loss_gen:-0.1533
+2025-06-13 12:34:47.407603	Epoch:185/300	Batch:624/624	Loss_critic:-0.3602	loss_gen:-0.2041
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:34:47.517604	Epoch:186/300	Batch:4/624	Loss_critic:-0.2201	loss_gen:-0.3136
+2025-06-13 12:34:50.411520	Epoch:186/300	Batch:128/624	Loss_critic:-0.3740	loss_gen:-0.2059
+2025-06-13 12:34:53.557507	Epoch:186/300	Batch:252/624	Loss_critic:-0.4960	loss_gen:-0.2433
+2025-06-13 12:34:56.758014	Epoch:186/300	Batch:376/624	Loss_critic:-0.5090	loss_gen:-0.2487
+2025-06-13 12:34:59.873026	Epoch:186/300	Batch:500/624	Loss_critic:-0.0367	loss_gen:-0.2231
+2025-06-13 12:35:03.117204	Epoch:186/300	Batch:624/624	Loss_critic:-0.3118	loss_gen:-0.1964
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:35:03.233622	Epoch:187/300	Batch:4/624	Loss_critic:-0.1792	loss_gen:-0.2723
+2025-06-13 12:35:06.359355	Epoch:187/300	Batch:128/624	Loss_critic:-0.0638	loss_gen:-0.2037
+2025-06-13 12:35:09.526034	Epoch:187/300	Batch:252/624	Loss_critic:-0.4064	loss_gen:-0.1961
+2025-06-13 12:35:12.549585	Epoch:187/300	Batch:376/624	Loss_critic:-0.0432	loss_gen:-0.1699
+2025-06-13 12:35:15.658125	Epoch:187/300	Batch:500/624	Loss_critic:-0.2780	loss_gen:-0.2679
+2025-06-13 12:35:18.498530	Epoch:187/300	Batch:624/624	Loss_critic:-0.1035	loss_gen:-0.1990
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:35:18.604598	Epoch:188/300	Batch:4/624	Loss_critic:-0.2610	loss_gen:-0.2171
+2025-06-13 12:35:21.835757	Epoch:188/300	Batch:128/624	Loss_critic:-0.3206	loss_gen:-0.2384
+2025-06-13 12:35:24.961087	Epoch:188/300	Batch:252/624	Loss_critic:-0.2543	loss_gen:-0.1820
+2025-06-13 12:35:28.129101	Epoch:188/300	Batch:376/624	Loss_critic:-0.4084	loss_gen:-0.2826
+2025-06-13 12:35:31.364585	Epoch:188/300	Batch:500/624	Loss_critic:-0.1986	loss_gen:-0.2866
+2025-06-13 12:35:34.605499	Epoch:188/300	Batch:624/624	Loss_critic:-0.1693	loss_gen:-0.2051
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:35:34.715501	Epoch:189/300	Batch:4/624	Loss_critic:-0.0309	loss_gen:-0.1951
+2025-06-13 12:35:37.949834	Epoch:189/300	Batch:128/624	Loss_critic:-0.3176	loss_gen:-0.2620
+2025-06-13 12:35:40.980604	Epoch:189/300	Batch:252/624	Loss_critic:-0.2933	loss_gen:-0.2756
+2025-06-13 12:35:44.084668	Epoch:189/300	Batch:376/624	Loss_critic:-0.4384	loss_gen:-0.3328
+2025-06-13 12:35:47.040908	Epoch:189/300	Batch:500/624	Loss_critic:-0.1873	loss_gen:-0.2892
+2025-06-13 12:35:49.803960	Epoch:189/300	Batch:624/624	Loss_critic:-0.2205	loss_gen:-0.3222
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:35:49.901943	Epoch:190/300	Batch:4/624	Loss_critic:-0.1473	loss_gen:-0.2488
+2025-06-13 12:35:52.724467	Epoch:190/300	Batch:128/624	Loss_critic:-0.1428	loss_gen:-0.3655
+2025-06-13 12:35:55.604761	Epoch:190/300	Batch:252/624	Loss_critic:0.0378	loss_gen:-0.4596
+2025-06-13 12:35:58.571163	Epoch:190/300	Batch:376/624	Loss_critic:0.1810	loss_gen:-0.3375
+2025-06-13 12:36:01.280849	Epoch:190/300	Batch:500/624	Loss_critic:-0.0851	loss_gen:-0.3440
+2025-06-13 12:36:04.071775	Epoch:190/300	Batch:624/624	Loss_critic:-0.4320	loss_gen:-0.3245
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:36:04.176694	Epoch:191/300	Batch:4/624	Loss_critic:-0.1887	loss_gen:-0.3181
+2025-06-13 12:36:06.996557	Epoch:191/300	Batch:128/624	Loss_critic:-0.0245	loss_gen:-0.3409
+2025-06-13 12:36:09.826085	Epoch:191/300	Batch:252/624	Loss_critic:-0.4358	loss_gen:-0.3249
+2025-06-13 12:36:12.634267	Epoch:191/300	Batch:376/624	Loss_critic:0.0312	loss_gen:-0.2855
+2025-06-13 12:36:15.494975	Epoch:191/300	Batch:500/624	Loss_critic:1.0155	loss_gen:-0.7325
+2025-06-13 12:36:18.392932	Epoch:191/300	Batch:624/624	Loss_critic:0.2017	loss_gen:-0.5427
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:36:18.492933	Epoch:192/300	Batch:4/624	Loss_critic:0.0304	loss_gen:-0.3793
+2025-06-13 12:36:21.284100	Epoch:192/300	Batch:128/624	Loss_critic:-0.0306	loss_gen:-0.2806
+2025-06-13 12:36:24.093268	Epoch:192/300	Batch:252/624	Loss_critic:-0.2783	loss_gen:-0.2825
+2025-06-13 12:36:26.956144	Epoch:192/300	Batch:376/624	Loss_critic:0.0681	loss_gen:-0.3056
+2025-06-13 12:36:29.777208	Epoch:192/300	Batch:500/624	Loss_critic:-0.3953	loss_gen:-0.2994
+2025-06-13 12:36:32.594117	Epoch:192/300	Batch:624/624	Loss_critic:-0.1831	loss_gen:-0.2527
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:36:32.694152	Epoch:193/300	Batch:4/624	Loss_critic:-0.2826	loss_gen:-0.2651
+2025-06-13 12:36:35.525339	Epoch:193/300	Batch:128/624	Loss_critic:0.5900	loss_gen:-0.2473
+2025-06-13 12:36:38.383979	Epoch:193/300	Batch:252/624	Loss_critic:1.0182	loss_gen:-0.2406
+2025-06-13 12:36:41.287246	Epoch:193/300	Batch:376/624	Loss_critic:0.0404	loss_gen:-0.2332
+2025-06-13 12:36:44.130280	Epoch:193/300	Batch:500/624	Loss_critic:0.5939	loss_gen:-0.2779
+2025-06-13 12:36:46.906914	Epoch:193/300	Batch:624/624	Loss_critic:-0.3634	loss_gen:-0.2799
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:36:47.006921	Epoch:194/300	Batch:4/624	Loss_critic:-0.1968	loss_gen:-0.2528
+2025-06-13 12:36:49.797439	Epoch:194/300	Batch:128/624	Loss_critic:0.9818	loss_gen:-0.2711
+2025-06-13 12:36:52.633033	Epoch:194/300	Batch:252/624	Loss_critic:0.0563	loss_gen:-0.4769
+2025-06-13 12:36:55.509024	Epoch:194/300	Batch:376/624	Loss_critic:-0.1021	loss_gen:-0.2327
+2025-06-13 12:36:58.253602	Epoch:194/300	Batch:500/624	Loss_critic:-0.2057	loss_gen:-0.4510
+2025-06-13 12:37:01.010815	Epoch:194/300	Batch:624/624	Loss_critic:0.0531	loss_gen:-0.3501
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:37:01.111327	Epoch:195/300	Batch:4/624	Loss_critic:-0.3374	loss_gen:-0.3367
+2025-06-13 12:37:03.824255	Epoch:195/300	Batch:128/624	Loss_critic:-0.2304	loss_gen:-0.3886
+2025-06-13 12:37:06.633763	Epoch:195/300	Batch:252/624	Loss_critic:0.0011	loss_gen:-0.3680
+2025-06-13 12:37:09.547128	Epoch:195/300	Batch:376/624	Loss_critic:0.4381	loss_gen:-0.2270
+2025-06-13 12:37:12.353790	Epoch:195/300	Batch:500/624	Loss_critic:-0.2481	loss_gen:-0.2655
+2025-06-13 12:37:15.084889	Epoch:195/300	Batch:624/624	Loss_critic:-0.1606	loss_gen:-0.2863
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:37:15.184850	Epoch:196/300	Batch:4/624	Loss_critic:0.3487	loss_gen:-0.2993
+2025-06-13 12:37:17.984793	Epoch:196/300	Batch:128/624	Loss_critic:-0.0584	loss_gen:-0.2647
+2025-06-13 12:37:20.786863	Epoch:196/300	Batch:252/624	Loss_critic:-0.1011	loss_gen:-0.2603
+2025-06-13 12:37:23.615294	Epoch:196/300	Batch:376/624	Loss_critic:-0.2176	loss_gen:-0.2312
+2025-06-13 12:37:26.385417	Epoch:196/300	Batch:500/624	Loss_critic:0.6959	loss_gen:-0.2627
+2025-06-13 12:37:29.135902	Epoch:196/300	Batch:624/624	Loss_critic:-0.4253	loss_gen:-0.1981
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:37:29.236265	Epoch:197/300	Batch:4/624	Loss_critic:-0.2298	loss_gen:-0.1484
+2025-06-13 12:37:32.062423	Epoch:197/300	Batch:128/624	Loss_critic:-0.2651	loss_gen:-0.2180
+2025-06-13 12:37:34.940812	Epoch:197/300	Batch:252/624	Loss_critic:-0.3550	loss_gen:-0.2190
+2025-06-13 12:37:37.821243	Epoch:197/300	Batch:376/624	Loss_critic:-0.0643	loss_gen:-0.2349
+2025-06-13 12:37:40.658360	Epoch:197/300	Batch:500/624	Loss_critic:-0.4408	loss_gen:-0.2092
+2025-06-13 12:37:43.462623	Epoch:197/300	Batch:624/624	Loss_critic:0.3477	loss_gen:-0.1686
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:37:43.562618	Epoch:198/300	Batch:4/624	Loss_critic:-0.3403	loss_gen:-0.2091
+2025-06-13 12:37:46.346329	Epoch:198/300	Batch:128/624	Loss_critic:-0.2867	loss_gen:-0.2611
+2025-06-13 12:37:49.139879	Epoch:198/300	Batch:252/624	Loss_critic:-0.2217	loss_gen:-0.3058
+2025-06-13 12:37:52.146124	Epoch:198/300	Batch:376/624	Loss_critic:-0.4375	loss_gen:-0.2267
+2025-06-13 12:37:55.342984	Epoch:198/300	Batch:500/624	Loss_critic:-0.5229	loss_gen:-0.2110
+2025-06-13 12:37:58.508644	Epoch:198/300	Batch:624/624	Loss_critic:-0.2302	loss_gen:-0.2478
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:37:58.618643	Epoch:199/300	Batch:4/624	Loss_critic:-0.0446	loss_gen:-0.2821
+2025-06-13 12:38:01.723784	Epoch:199/300	Batch:128/624	Loss_critic:-0.2693	loss_gen:-0.2005
+2025-06-13 12:38:04.844038	Epoch:199/300	Batch:252/624	Loss_critic:-0.1574	loss_gen:-0.1932
+2025-06-13 12:38:07.967407	Epoch:199/300	Batch:376/624	Loss_critic:-0.4630	loss_gen:-0.2136
+2025-06-13 12:38:11.115709	Epoch:199/300	Batch:500/624	Loss_critic:-0.1193	loss_gen:-0.2202
+2025-06-13 12:38:14.230078	Epoch:199/300	Batch:624/624	Loss_critic:-0.5796	loss_gen:-0.2117
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:38:14.340088	Epoch:200/300	Batch:4/624	Loss_critic:-0.4369	loss_gen:-0.2039
+2025-06-13 12:38:17.458184	Epoch:200/300	Batch:128/624	Loss_critic:-0.0859	loss_gen:-0.2390
+2025-06-13 12:38:20.553135	Epoch:200/300	Batch:252/624	Loss_critic:-0.3515	loss_gen:-0.2406
+2025-06-13 12:38:23.746554	Epoch:200/300	Batch:376/624	Loss_critic:-0.3583	loss_gen:-0.2001
+2025-06-13 12:38:26.977746	Epoch:200/300	Batch:500/624	Loss_critic:0.0374	loss_gen:-0.2412
+2025-06-13 12:38:30.097370	Epoch:200/300	Batch:624/624	Loss_critic:-0.3277	loss_gen:-0.1833
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:38:30.207249	Epoch:201/300	Batch:4/624	Loss_critic:0.2235	loss_gen:-0.1438
+2025-06-13 12:38:33.300454	Epoch:201/300	Batch:128/624	Loss_critic:-0.4520	loss_gen:-0.2171
+2025-06-13 12:38:37.749894	Epoch:201/300	Batch:252/624	Loss_critic:0.0179	loss_gen:-0.2298
+2025-06-13 12:38:42.262471	Epoch:201/300	Batch:376/624	Loss_critic:-0.5951	loss_gen:-0.1893
+2025-06-13 12:38:46.466811	Epoch:201/300	Batch:500/624	Loss_critic:-0.3990	loss_gen:-0.1985
+2025-06-13 12:38:50.322185	Epoch:201/300	Batch:624/624	Loss_critic:-0.5385	loss_gen:-0.1993
+lr_d=1.0e-04	lr_gen=1.0e-04
+2025-06-13 12:38:50.498993	Epoch:202/300	Batch:4/624	Loss_critic:-0.5001	loss_gen:-0.1828
+2025-06-13 12:38:54.754812	Epoch:202/300	Batch:128/624	Loss_critic:-0.3329	loss_gen:-0.1942
+2025-06-13 12:38:58.195116	Epoch:202/300	Batch:252/624	Loss_critic:-0.4199	loss_gen:-0.1938
+2025-06-13 12:39:01.264533	Epoch:202/300	Batch:376/624	Loss_critic:-0.4064	loss_gen:-0.1744

@@ -1,0 +1,351 @@
+2025-06-12 16:42:19.093388	Epoch:1/50	Batch:4/99	Loss_disc:0.6878	Loss_gen:0.6984
+2025-06-12 16:42:19.430508	Epoch:1/50	Batch:23/99	Loss_disc:0.7046	Loss_gen:0.6920
+2025-06-12 16:42:19.640287	Epoch:1/50	Batch:42/99	Loss_disc:0.6957	Loss_gen:0.6964
+2025-06-12 16:42:19.863136	Epoch:1/50	Batch:61/99	Loss_disc:0.6987	Loss_gen:0.6988
+2025-06-12 16:42:20.056025	Epoch:1/50	Batch:80/99	Loss_disc:0.6971	Loss_gen:0.6895
+2025-06-12 16:42:20.250968	Epoch:1/50	Batch:99/99	Loss_disc:0.7029	Loss_gen:0.6966
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:20.298607	Epoch:2/50	Batch:4/99	Loss_disc:0.7031	Loss_gen:0.6972
+2025-06-12 16:42:20.491928	Epoch:2/50	Batch:23/99	Loss_disc:0.6948	Loss_gen:0.6967
+2025-06-12 16:42:20.684273	Epoch:2/50	Batch:42/99	Loss_disc:0.6903	Loss_gen:0.6990
+2025-06-12 16:42:20.941427	Epoch:2/50	Batch:61/99	Loss_disc:0.6819	Loss_gen:0.6939
+2025-06-12 16:42:21.133700	Epoch:2/50	Batch:80/99	Loss_disc:0.6803	Loss_gen:0.6920
+2025-06-12 16:42:21.373335	Epoch:2/50	Batch:99/99	Loss_disc:0.6962	Loss_gen:0.6966
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:21.429370	Epoch:3/50	Batch:4/99	Loss_disc:0.6885	Loss_gen:0.6920
+2025-06-12 16:42:21.650967	Epoch:3/50	Batch:23/99	Loss_disc:0.6959	Loss_gen:0.6937
+2025-06-12 16:42:21.863541	Epoch:3/50	Batch:42/99	Loss_disc:0.6955	Loss_gen:0.6904
+2025-06-12 16:42:22.084974	Epoch:3/50	Batch:61/99	Loss_disc:0.6937	Loss_gen:0.7026
+2025-06-12 16:42:22.299406	Epoch:3/50	Batch:80/99	Loss_disc:0.7003	Loss_gen:0.6896
+2025-06-12 16:42:22.484414	Epoch:3/50	Batch:99/99	Loss_disc:0.6841	Loss_gen:0.6920
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:22.532595	Epoch:4/50	Batch:4/99	Loss_disc:0.6957	Loss_gen:0.6985
+2025-06-12 16:42:22.742960	Epoch:4/50	Batch:23/99	Loss_disc:0.6801	Loss_gen:0.6831
+2025-06-12 16:42:22.927813	Epoch:4/50	Batch:42/99	Loss_disc:0.6932	Loss_gen:0.6893
+2025-06-12 16:42:23.129364	Epoch:4/50	Batch:61/99	Loss_disc:0.6954	Loss_gen:0.6952
+2025-06-12 16:42:23.321543	Epoch:4/50	Batch:80/99	Loss_disc:0.6851	Loss_gen:0.6941
+2025-06-12 16:42:23.515244	Epoch:4/50	Batch:99/99	Loss_disc:0.6984	Loss_gen:0.7007
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:23.555243	Epoch:5/50	Batch:4/99	Loss_disc:0.7081	Loss_gen:0.6892
+2025-06-12 16:42:23.763418	Epoch:5/50	Batch:23/99	Loss_disc:0.6993	Loss_gen:0.7007
+2025-06-12 16:42:23.956068	Epoch:5/50	Batch:42/99	Loss_disc:0.7062	Loss_gen:0.6906
+2025-06-12 16:42:24.148870	Epoch:5/50	Batch:61/99	Loss_disc:0.6926	Loss_gen:0.7085
+2025-06-12 16:42:24.350396	Epoch:5/50	Batch:80/99	Loss_disc:0.7045	Loss_gen:0.7118
+2025-06-12 16:42:24.543225	Epoch:5/50	Batch:99/99	Loss_disc:0.6958	Loss_gen:0.6962
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:24.599185	Epoch:6/50	Batch:4/99	Loss_disc:0.6961	Loss_gen:0.6955
+2025-06-12 16:42:24.791250	Epoch:6/50	Batch:23/99	Loss_disc:0.6877	Loss_gen:0.6945
+2025-06-12 16:42:24.991445	Epoch:6/50	Batch:42/99	Loss_disc:0.6927	Loss_gen:0.6913
+2025-06-12 16:42:25.191916	Epoch:6/50	Batch:61/99	Loss_disc:0.6825	Loss_gen:0.6919
+2025-06-12 16:42:25.400375	Epoch:6/50	Batch:80/99	Loss_disc:0.6965	Loss_gen:0.7156
+2025-06-12 16:42:25.592912	Epoch:6/50	Batch:99/99	Loss_disc:0.6868	Loss_gen:0.7060
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:25.641572	Epoch:7/50	Batch:4/99	Loss_disc:0.6933	Loss_gen:0.7044
+2025-06-12 16:42:25.866906	Epoch:7/50	Batch:23/99	Loss_disc:0.6883	Loss_gen:0.6955
+2025-06-12 16:42:26.075817	Epoch:7/50	Batch:42/99	Loss_disc:0.7043	Loss_gen:0.7022
+2025-06-12 16:42:26.286419	Epoch:7/50	Batch:61/99	Loss_disc:0.7007	Loss_gen:0.6990
+2025-06-12 16:42:26.478554	Epoch:7/50	Batch:80/99	Loss_disc:0.6829	Loss_gen:0.7156
+2025-06-12 16:42:26.671057	Epoch:7/50	Batch:99/99	Loss_disc:0.6902	Loss_gen:0.7040
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:26.719057	Epoch:8/50	Batch:4/99	Loss_disc:0.7002	Loss_gen:0.7005
+2025-06-12 16:42:26.919529	Epoch:8/50	Batch:23/99	Loss_disc:0.6954	Loss_gen:0.6848
+2025-06-12 16:42:27.139279	Epoch:8/50	Batch:42/99	Loss_disc:0.6874	Loss_gen:0.6958
+2025-06-12 16:42:27.406630	Epoch:8/50	Batch:61/99	Loss_disc:0.6936	Loss_gen:0.7007
+2025-06-12 16:42:27.611667	Epoch:8/50	Batch:80/99	Loss_disc:0.7027	Loss_gen:0.6905
+2025-06-12 16:42:27.797661	Epoch:8/50	Batch:99/99	Loss_disc:0.6855	Loss_gen:0.6948
+lr_d=[1e-07]	lr_gen=[1e-06]
+2025-06-12 16:42:27.845171	Epoch:9/50	Batch:4/99	Loss_disc:0.6975	Loss_gen:0.6999
+2025-06-12 16:42:28.054393	Epoch:9/50	Batch:23/99	Loss_disc:0.6914	Loss_gen:0.6959
+2025-06-12 16:42:28.238869	Epoch:9/50	Batch:42/99	Loss_disc:0.6889	Loss_gen:0.6995
+2025-06-12 16:42:28.415804	Epoch:9/50	Batch:61/99	Loss_disc:0.6918	Loss_gen:0.7135
+2025-06-12 16:42:28.585916	Epoch:9/50	Batch:80/99	Loss_disc:0.6866	Loss_gen:0.6887
+2025-06-12 16:42:28.762217	Epoch:9/50	Batch:99/99	Loss_disc:0.6848	Loss_gen:0.6930
+lr_d=[2e-08]	lr_gen=[2e-07]
+2025-06-12 16:42:28.810816	Epoch:10/50	Batch:4/99	Loss_disc:0.7014	Loss_gen:0.6903
+2025-06-12 16:42:28.979193	Epoch:10/50	Batch:23/99	Loss_disc:0.6879	Loss_gen:0.6882
+2025-06-12 16:42:29.147907	Epoch:10/50	Batch:42/99	Loss_disc:0.6930	Loss_gen:0.6993
+2025-06-12 16:42:29.340966	Epoch:10/50	Batch:61/99	Loss_disc:0.6976	Loss_gen:0.7005
+2025-06-12 16:42:29.540878	Epoch:10/50	Batch:80/99	Loss_disc:0.6956	Loss_gen:0.6942
+2025-06-12 16:42:29.735250	Epoch:10/50	Batch:99/99	Loss_disc:0.6858	Loss_gen:0.6960
+lr_d=[2e-08]	lr_gen=[2e-07]
+2025-06-12 16:42:29.775344	Epoch:11/50	Batch:4/99	Loss_disc:0.6819	Loss_gen:0.6961
+2025-06-12 16:42:29.961059	Epoch:11/50	Batch:23/99	Loss_disc:0.6919	Loss_gen:0.6970
+2025-06-12 16:42:30.137730	Epoch:11/50	Batch:42/99	Loss_disc:0.6986	Loss_gen:0.6814
+2025-06-12 16:42:30.314953	Epoch:11/50	Batch:61/99	Loss_disc:0.6940	Loss_gen:0.6875
+2025-06-12 16:42:30.491418	Epoch:11/50	Batch:80/99	Loss_disc:0.6902	Loss_gen:0.6912
+2025-06-12 16:42:30.667786	Epoch:11/50	Batch:99/99	Loss_disc:0.6967	Loss_gen:0.6885
+lr_d=[2e-08]	lr_gen=[2e-07]
+2025-06-12 16:42:30.715938	Epoch:12/50	Batch:4/99	Loss_disc:0.6879	Loss_gen:0.6975
+2025-06-12 16:42:30.892492	Epoch:12/50	Batch:23/99	Loss_disc:0.7053	Loss_gen:0.6939
+2025-06-12 16:42:31.068732	Epoch:12/50	Batch:42/99	Loss_disc:0.6916	Loss_gen:0.6930
+2025-06-12 16:42:31.269717	Epoch:12/50	Batch:61/99	Loss_disc:0.6893	Loss_gen:0.6929
+2025-06-12 16:42:31.462466	Epoch:12/50	Batch:80/99	Loss_disc:0.6951	Loss_gen:0.6915
+2025-06-12 16:42:31.650630	Epoch:12/50	Batch:99/99	Loss_disc:0.6938	Loss_gen:0.6910
+lr_d=[2e-08]	lr_gen=[2e-07]
+2025-06-12 16:42:31.696097	Epoch:13/50	Batch:4/99	Loss_disc:0.7030	Loss_gen:0.7067
+2025-06-12 16:42:31.896632	Epoch:13/50	Batch:23/99	Loss_disc:0.6934	Loss_gen:0.7024
+2025-06-12 16:42:32.082017	Epoch:13/50	Batch:42/99	Loss_disc:0.6799	Loss_gen:0.6938
+2025-06-12 16:42:32.250399	Epoch:13/50	Batch:61/99	Loss_disc:0.6945	Loss_gen:0.6956
+2025-06-12 16:42:32.460080	Epoch:13/50	Batch:80/99	Loss_disc:0.6949	Loss_gen:0.7046
+2025-06-12 16:42:32.644885	Epoch:13/50	Batch:99/99	Loss_disc:0.6990	Loss_gen:0.7000
+lr_d=[2e-08]	lr_gen=[2e-07]
+2025-06-12 16:42:32.692884	Epoch:14/50	Batch:4/99	Loss_disc:0.6945	Loss_gen:0.7017
+2025-06-12 16:42:32.870020	Epoch:14/50	Batch:23/99	Loss_disc:0.6975	Loss_gen:0.6992
+2025-06-12 16:42:33.046265	Epoch:14/50	Batch:42/99	Loss_disc:0.7070	Loss_gen:0.6961
+2025-06-12 16:42:33.238725	Epoch:14/50	Batch:61/99	Loss_disc:0.7016	Loss_gen:0.7066
+2025-06-12 16:42:33.439131	Epoch:14/50	Batch:80/99	Loss_disc:0.6981	Loss_gen:0.6972
+2025-06-12 16:42:33.663543	Epoch:14/50	Batch:99/99	Loss_disc:0.6950	Loss_gen:0.6868
+lr_d=[2e-08]	lr_gen=[2e-07]
+2025-06-12 16:42:33.711543	Epoch:15/50	Batch:4/99	Loss_disc:0.6864	Loss_gen:0.6939
+2025-06-12 16:42:33.897191	Epoch:15/50	Batch:23/99	Loss_disc:0.6855	Loss_gen:0.6999
+2025-06-12 16:42:34.089657	Epoch:15/50	Batch:42/99	Loss_disc:0.6844	Loss_gen:0.7064
+2025-06-12 16:42:34.282205	Epoch:15/50	Batch:61/99	Loss_disc:0.6938	Loss_gen:0.6971
+2025-06-12 16:42:34.491316	Epoch:15/50	Batch:80/99	Loss_disc:0.6934	Loss_gen:0.6906
+2025-06-12 16:42:34.692506	Epoch:15/50	Batch:99/99	Loss_disc:0.6897	Loss_gen:0.7136
+lr_d=[4e-09]	lr_gen=[4e-08]
+2025-06-12 16:42:34.748016	Epoch:16/50	Batch:4/99	Loss_disc:0.6918	Loss_gen:0.6916
+2025-06-12 16:42:34.924426	Epoch:16/50	Batch:23/99	Loss_disc:0.6947	Loss_gen:0.6991
+2025-06-12 16:42:35.125164	Epoch:16/50	Batch:42/99	Loss_disc:0.6834	Loss_gen:0.6950
+2025-06-12 16:42:35.342271	Epoch:16/50	Batch:61/99	Loss_disc:0.6854	Loss_gen:0.6962
+2025-06-12 16:42:35.527626	Epoch:16/50	Batch:80/99	Loss_disc:0.6969	Loss_gen:0.6939
+2025-06-12 16:42:35.735938	Epoch:16/50	Batch:99/99	Loss_disc:0.6915	Loss_gen:0.7019
+lr_d=[4e-09]	lr_gen=[4e-08]
+2025-06-12 16:42:35.791939	Epoch:17/50	Batch:4/99	Loss_disc:0.7000	Loss_gen:0.7005
+2025-06-12 16:42:36.000202	Epoch:17/50	Batch:23/99	Loss_disc:0.6929	Loss_gen:0.6887
+2025-06-12 16:42:36.185358	Epoch:17/50	Batch:42/99	Loss_disc:0.6937	Loss_gen:0.6951
+2025-06-12 16:42:36.378095	Epoch:17/50	Batch:61/99	Loss_disc:0.6887	Loss_gen:0.6838
+2025-06-12 16:42:36.572588	Epoch:17/50	Batch:80/99	Loss_disc:0.7014	Loss_gen:0.6972
+2025-06-12 16:42:36.764251	Epoch:17/50	Batch:99/99	Loss_disc:0.6912	Loss_gen:0.7040
+lr_d=[4e-09]	lr_gen=[4e-08]
+2025-06-12 16:42:36.812251	Epoch:18/50	Batch:4/99	Loss_disc:0.6846	Loss_gen:0.6965
+2025-06-12 16:42:37.013602	Epoch:18/50	Batch:23/99	Loss_disc:0.6979	Loss_gen:0.6934
+2025-06-12 16:42:37.214613	Epoch:18/50	Batch:42/99	Loss_disc:0.6871	Loss_gen:0.6883
+2025-06-12 16:42:37.399309	Epoch:18/50	Batch:61/99	Loss_disc:0.6970	Loss_gen:0.7060
+2025-06-12 16:42:37.568632	Epoch:18/50	Batch:80/99	Loss_disc:0.6997	Loss_gen:0.6912
+2025-06-12 16:42:37.776955	Epoch:18/50	Batch:99/99	Loss_disc:0.6985	Loss_gen:0.6974
+lr_d=[4e-09]	lr_gen=[4e-08]
+2025-06-12 16:42:37.817717	Epoch:19/50	Batch:4/99	Loss_disc:0.6925	Loss_gen:0.6900
+2025-06-12 16:42:38.017682	Epoch:19/50	Batch:23/99	Loss_disc:0.6947	Loss_gen:0.6985
+2025-06-12 16:42:38.218191	Epoch:19/50	Batch:42/99	Loss_disc:0.6980	Loss_gen:0.7031
+2025-06-12 16:42:38.436299	Epoch:19/50	Batch:61/99	Loss_disc:0.6923	Loss_gen:0.7011
+2025-06-12 16:42:38.660817	Epoch:19/50	Batch:80/99	Loss_disc:0.6994	Loss_gen:0.6945
+2025-06-12 16:42:38.869505	Epoch:19/50	Batch:99/99	Loss_disc:0.6978	Loss_gen:0.6922
+lr_d=[4e-09]	lr_gen=[4e-08]
+2025-06-12 16:42:38.921154	Epoch:20/50	Batch:4/99	Loss_disc:0.6918	Loss_gen:0.6844
+2025-06-12 16:42:39.120298	Epoch:20/50	Batch:23/99	Loss_disc:0.7033	Loss_gen:0.6934
+2025-06-12 16:42:39.344862	Epoch:20/50	Batch:42/99	Loss_disc:0.6917	Loss_gen:0.6975
+2025-06-12 16:42:39.546543	Epoch:20/50	Batch:61/99	Loss_disc:0.6909	Loss_gen:0.6916
+2025-06-12 16:42:39.747772	Epoch:20/50	Batch:80/99	Loss_disc:0.6922	Loss_gen:0.6847
+2025-06-12 16:42:39.956377	Epoch:20/50	Batch:99/99	Loss_disc:0.6900	Loss_gen:0.6960
+lr_d=[4e-09]	lr_gen=[4e-08]
+2025-06-12 16:42:40.012610	Epoch:21/50	Batch:4/99	Loss_disc:0.6887	Loss_gen:0.6934
+2025-06-12 16:42:40.222286	Epoch:21/50	Batch:23/99	Loss_disc:0.6847	Loss_gen:0.7000
+2025-06-12 16:42:40.447470	Epoch:21/50	Batch:42/99	Loss_disc:0.7014	Loss_gen:0.6975
+2025-06-12 16:42:40.664719	Epoch:21/50	Batch:61/99	Loss_disc:0.6913	Loss_gen:0.6937
+2025-06-12 16:42:40.873966	Epoch:21/50	Batch:80/99	Loss_disc:0.6988	Loss_gen:0.6914
+2025-06-12 16:42:41.085561	Epoch:21/50	Batch:99/99	Loss_disc:0.6888	Loss_gen:0.7044
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:41.127061	Epoch:22/50	Batch:4/99	Loss_disc:0.6836	Loss_gen:0.6913
+2025-06-12 16:42:41.337915	Epoch:22/50	Batch:23/99	Loss_disc:0.6959	Loss_gen:0.6894
+2025-06-12 16:42:41.527565	Epoch:22/50	Batch:42/99	Loss_disc:0.7004	Loss_gen:0.6826
+2025-06-12 16:42:41.730992	Epoch:22/50	Batch:61/99	Loss_disc:0.6973	Loss_gen:0.6995
+2025-06-12 16:42:41.930686	Epoch:22/50	Batch:80/99	Loss_disc:0.7069	Loss_gen:0.6989
+2025-06-12 16:42:42.150524	Epoch:22/50	Batch:99/99	Loss_disc:0.6931	Loss_gen:0.6977
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:42.220645	Epoch:23/50	Batch:4/99	Loss_disc:0.6857	Loss_gen:0.6955
+2025-06-12 16:42:42.445392	Epoch:23/50	Batch:23/99	Loss_disc:0.6948	Loss_gen:0.7022
+2025-06-12 16:42:42.662627	Epoch:23/50	Batch:42/99	Loss_disc:0.6922	Loss_gen:0.7059
+2025-06-12 16:42:42.878911	Epoch:23/50	Batch:61/99	Loss_disc:0.6965	Loss_gen:0.6945
+2025-06-12 16:42:43.081306	Epoch:23/50	Batch:80/99	Loss_disc:0.7025	Loss_gen:0.6871
+2025-06-12 16:42:43.305905	Epoch:23/50	Batch:99/99	Loss_disc:0.6901	Loss_gen:0.6977
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:43.370007	Epoch:24/50	Batch:4/99	Loss_disc:0.6890	Loss_gen:0.6984
+2025-06-12 16:42:43.595357	Epoch:24/50	Batch:23/99	Loss_disc:0.6966	Loss_gen:0.7060
+2025-06-12 16:42:43.803884	Epoch:24/50	Batch:42/99	Loss_disc:0.6981	Loss_gen:0.6967
+2025-06-12 16:42:44.003883	Epoch:24/50	Batch:61/99	Loss_disc:0.6877	Loss_gen:0.6938
+2025-06-12 16:42:44.204702	Epoch:24/50	Batch:80/99	Loss_disc:0.6982	Loss_gen:0.6910
+2025-06-12 16:42:44.412911	Epoch:24/50	Batch:99/99	Loss_disc:0.6878	Loss_gen:0.6969
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:44.468911	Epoch:25/50	Batch:4/99	Loss_disc:0.6918	Loss_gen:0.6970
+2025-06-12 16:42:44.694257	Epoch:25/50	Batch:23/99	Loss_disc:0.6910	Loss_gen:0.6953
+2025-06-12 16:42:44.935906	Epoch:25/50	Batch:42/99	Loss_disc:0.6865	Loss_gen:0.7054
+2025-06-12 16:42:45.144395	Epoch:25/50	Batch:61/99	Loss_disc:0.6979	Loss_gen:0.6884
+2025-06-12 16:42:45.368698	Epoch:25/50	Batch:80/99	Loss_disc:0.6900	Loss_gen:0.6966
+2025-06-12 16:42:45.584966	Epoch:25/50	Batch:99/99	Loss_disc:0.6916	Loss_gen:0.6947
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:45.641900	Epoch:26/50	Batch:4/99	Loss_disc:0.6909	Loss_gen:0.6978
+2025-06-12 16:42:45.849666	Epoch:26/50	Batch:23/99	Loss_disc:0.6852	Loss_gen:0.7041
+2025-06-12 16:42:46.057842	Epoch:26/50	Batch:42/99	Loss_disc:0.6914	Loss_gen:0.7049
+2025-06-12 16:42:46.258510	Epoch:26/50	Batch:61/99	Loss_disc:0.7029	Loss_gen:0.6906
+2025-06-12 16:42:46.459757	Epoch:26/50	Batch:80/99	Loss_disc:0.7042	Loss_gen:0.6884
+2025-06-12 16:42:46.668174	Epoch:26/50	Batch:99/99	Loss_disc:0.6937	Loss_gen:0.6917
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:46.724888	Epoch:27/50	Batch:4/99	Loss_disc:0.6939	Loss_gen:0.6973
+2025-06-12 16:42:46.930250	Epoch:27/50	Batch:23/99	Loss_disc:0.6826	Loss_gen:0.6989
+2025-06-12 16:42:47.126495	Epoch:27/50	Batch:42/99	Loss_disc:0.7047	Loss_gen:0.6989
+2025-06-12 16:42:47.350620	Epoch:27/50	Batch:61/99	Loss_disc:0.7065	Loss_gen:0.6903
+2025-06-12 16:42:47.545098	Epoch:27/50	Batch:80/99	Loss_disc:0.6866	Loss_gen:0.7099
+2025-06-12 16:42:47.752102	Epoch:27/50	Batch:99/99	Loss_disc:0.6942	Loss_gen:0.7002
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:47.802971	Epoch:28/50	Batch:4/99	Loss_disc:0.6845	Loss_gen:0.6953
+2025-06-12 16:42:48.043977	Epoch:28/50	Batch:23/99	Loss_disc:0.6970	Loss_gen:0.7024
+2025-06-12 16:42:48.260655	Epoch:28/50	Batch:42/99	Loss_disc:0.6962	Loss_gen:0.6915
+2025-06-12 16:42:48.494036	Epoch:28/50	Batch:61/99	Loss_disc:0.6968	Loss_gen:0.6949
+2025-06-12 16:42:48.742674	Epoch:28/50	Batch:80/99	Loss_disc:0.6892	Loss_gen:0.6910
+2025-06-12 16:42:48.971123	Epoch:28/50	Batch:99/99	Loss_disc:0.6949	Loss_gen:0.6907
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:49.031795	Epoch:29/50	Batch:4/99	Loss_disc:0.6946	Loss_gen:0.6978
+2025-06-12 16:42:49.249063	Epoch:29/50	Batch:23/99	Loss_disc:0.6886	Loss_gen:0.7078
+2025-06-12 16:42:49.473985	Epoch:29/50	Batch:42/99	Loss_disc:0.6951	Loss_gen:0.7041
+2025-06-12 16:42:49.676482	Epoch:29/50	Batch:61/99	Loss_disc:0.6957	Loss_gen:0.6994
+2025-06-12 16:42:49.869098	Epoch:29/50	Batch:80/99	Loss_disc:0.6940	Loss_gen:0.7061
+2025-06-12 16:42:50.077314	Epoch:29/50	Batch:99/99	Loss_disc:0.6868	Loss_gen:0.6894
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:50.125485	Epoch:30/50	Batch:4/99	Loss_disc:0.6978	Loss_gen:0.7013
+2025-06-12 16:42:50.326063	Epoch:30/50	Batch:23/99	Loss_disc:0.6876	Loss_gen:0.6975
+2025-06-12 16:42:50.543409	Epoch:30/50	Batch:42/99	Loss_disc:0.6989	Loss_gen:0.7150
+2025-06-12 16:42:50.743311	Epoch:30/50	Batch:61/99	Loss_disc:0.6954	Loss_gen:0.7049
+2025-06-12 16:42:50.935651	Epoch:30/50	Batch:80/99	Loss_disc:0.6904	Loss_gen:0.7007
+2025-06-12 16:42:51.128221	Epoch:30/50	Batch:99/99	Loss_disc:0.6980	Loss_gen:0.6990
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:51.184332	Epoch:31/50	Batch:4/99	Loss_disc:0.7026	Loss_gen:0.7106
+2025-06-12 16:42:51.368408	Epoch:31/50	Batch:23/99	Loss_disc:0.6945	Loss_gen:0.6971
+2025-06-12 16:42:51.552903	Epoch:31/50	Batch:42/99	Loss_disc:0.6903	Loss_gen:0.7042
+2025-06-12 16:42:51.729575	Epoch:31/50	Batch:61/99	Loss_disc:0.6840	Loss_gen:0.6920
+2025-06-12 16:42:51.897992	Epoch:31/50	Batch:80/99	Loss_disc:0.6846	Loss_gen:0.6884
+2025-06-12 16:42:52.076590	Epoch:31/50	Batch:99/99	Loss_disc:0.6932	Loss_gen:0.6941
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:52.123840	Epoch:32/50	Batch:4/99	Loss_disc:0.6952	Loss_gen:0.6875
+2025-06-12 16:42:52.307846	Epoch:32/50	Batch:23/99	Loss_disc:0.6893	Loss_gen:0.6980
+2025-06-12 16:42:52.501581	Epoch:32/50	Batch:42/99	Loss_disc:0.7007	Loss_gen:0.6849
+2025-06-12 16:42:52.695258	Epoch:32/50	Batch:61/99	Loss_disc:0.6972	Loss_gen:0.7128
+2025-06-12 16:42:52.879095	Epoch:32/50	Batch:80/99	Loss_disc:0.6955	Loss_gen:0.6938
+2025-06-12 16:42:53.072575	Epoch:32/50	Batch:99/99	Loss_disc:0.6863	Loss_gen:0.7074
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:53.112581	Epoch:33/50	Batch:4/99	Loss_disc:0.6960	Loss_gen:0.6928
+2025-06-12 16:42:53.288906	Epoch:33/50	Batch:23/99	Loss_disc:0.6979	Loss_gen:0.7004
+2025-06-12 16:42:53.473198	Epoch:33/50	Batch:42/99	Loss_disc:0.6919	Loss_gen:0.6972
+2025-06-12 16:42:53.649581	Epoch:33/50	Batch:61/99	Loss_disc:0.6901	Loss_gen:0.6926
+2025-06-12 16:42:53.841843	Epoch:33/50	Batch:80/99	Loss_disc:0.6881	Loss_gen:0.6965
+2025-06-12 16:42:54.026220	Epoch:33/50	Batch:99/99	Loss_disc:0.7044	Loss_gen:0.6889
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:54.066901	Epoch:34/50	Batch:4/99	Loss_disc:0.6965	Loss_gen:0.6934
+2025-06-12 16:42:54.234459	Epoch:34/50	Batch:23/99	Loss_disc:0.6931	Loss_gen:0.7066
+2025-06-12 16:42:54.424090	Epoch:34/50	Batch:42/99	Loss_disc:0.6903	Loss_gen:0.6967
+2025-06-12 16:42:54.646387	Epoch:34/50	Batch:61/99	Loss_disc:0.6930	Loss_gen:0.6915
+2025-06-12 16:42:54.827255	Epoch:34/50	Batch:80/99	Loss_disc:0.7034	Loss_gen:0.6989
+2025-06-12 16:42:55.002256	Epoch:34/50	Batch:99/99	Loss_disc:0.6966	Loss_gen:0.7058
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:55.050259	Epoch:35/50	Batch:4/99	Loss_disc:0.6940	Loss_gen:0.7027
+2025-06-12 16:42:55.226568	Epoch:35/50	Batch:23/99	Loss_disc:0.6793	Loss_gen:0.6898
+2025-06-12 16:42:55.402598	Epoch:35/50	Batch:42/99	Loss_disc:0.6951	Loss_gen:0.6992
+2025-06-12 16:42:55.587530	Epoch:35/50	Batch:61/99	Loss_disc:0.6760	Loss_gen:0.6925
+2025-06-12 16:42:55.799877	Epoch:35/50	Batch:80/99	Loss_disc:0.6853	Loss_gen:0.6996
+2025-06-12 16:42:55.997771	Epoch:35/50	Batch:99/99	Loss_disc:0.6929	Loss_gen:0.6890
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:56.038201	Epoch:36/50	Batch:4/99	Loss_disc:0.6888	Loss_gen:0.6982
+2025-06-12 16:42:56.222609	Epoch:36/50	Batch:23/99	Loss_disc:0.6966	Loss_gen:0.6840
+2025-06-12 16:42:56.391088	Epoch:36/50	Batch:42/99	Loss_disc:0.6988	Loss_gen:0.7064
+2025-06-12 16:42:56.575778	Epoch:36/50	Batch:61/99	Loss_disc:0.6873	Loss_gen:0.7090
+2025-06-12 16:42:56.777117	Epoch:36/50	Batch:80/99	Loss_disc:0.7008	Loss_gen:0.6964
+2025-06-12 16:42:56.978548	Epoch:36/50	Batch:99/99	Loss_disc:0.6908	Loss_gen:0.7005
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:57.026548	Epoch:37/50	Batch:4/99	Loss_disc:0.7012	Loss_gen:0.6987
+2025-06-12 16:42:57.203870	Epoch:37/50	Batch:23/99	Loss_disc:0.6934	Loss_gen:0.7049
+2025-06-12 16:42:57.388303	Epoch:37/50	Batch:42/99	Loss_disc:0.6974	Loss_gen:0.7009
+2025-06-12 16:42:57.557424	Epoch:37/50	Batch:61/99	Loss_disc:0.6930	Loss_gen:0.6871
+2025-06-12 16:42:57.733496	Epoch:37/50	Batch:80/99	Loss_disc:0.6919	Loss_gen:0.7060
+2025-06-12 16:42:57.910113	Epoch:37/50	Batch:99/99	Loss_disc:0.6939	Loss_gen:0.7082
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:57.958111	Epoch:38/50	Batch:4/99	Loss_disc:0.6977	Loss_gen:0.6960
+2025-06-12 16:42:58.142502	Epoch:38/50	Batch:23/99	Loss_disc:0.6796	Loss_gen:0.6920
+2025-06-12 16:42:58.342963	Epoch:38/50	Batch:42/99	Loss_disc:0.6923	Loss_gen:0.6939
+2025-06-12 16:42:58.518793	Epoch:38/50	Batch:61/99	Loss_disc:0.6940	Loss_gen:0.6983
+2025-06-12 16:42:58.708667	Epoch:38/50	Batch:80/99	Loss_disc:0.6968	Loss_gen:0.6983
+2025-06-12 16:42:58.891759	Epoch:38/50	Batch:99/99	Loss_disc:0.6922	Loss_gen:0.6911
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:58.930263	Epoch:39/50	Batch:4/99	Loss_disc:0.6989	Loss_gen:0.6965
+2025-06-12 16:42:59.114970	Epoch:39/50	Batch:23/99	Loss_disc:0.6849	Loss_gen:0.6896
+2025-06-12 16:42:59.292482	Epoch:39/50	Batch:42/99	Loss_disc:0.6895	Loss_gen:0.6959
+2025-06-12 16:42:59.461151	Epoch:39/50	Batch:61/99	Loss_disc:0.6978	Loss_gen:0.6999
+2025-06-12 16:42:59.645374	Epoch:39/50	Batch:80/99	Loss_disc:0.6884	Loss_gen:0.6921
+2025-06-12 16:42:59.878161	Epoch:39/50	Batch:99/99	Loss_disc:0.6885	Loss_gen:0.6823
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:42:59.926936	Epoch:40/50	Batch:4/99	Loss_disc:0.6895	Loss_gen:0.7091
+2025-06-12 16:43:00.102941	Epoch:40/50	Batch:23/99	Loss_disc:0.6880	Loss_gen:0.6968
+2025-06-12 16:43:00.304792	Epoch:40/50	Batch:42/99	Loss_disc:0.6964	Loss_gen:0.7041
+2025-06-12 16:43:00.512805	Epoch:40/50	Batch:61/99	Loss_disc:0.7050	Loss_gen:0.7025
+2025-06-12 16:43:00.714503	Epoch:40/50	Batch:80/99	Loss_disc:0.6837	Loss_gen:0.6902
+2025-06-12 16:43:00.899890	Epoch:40/50	Batch:99/99	Loss_disc:0.6941	Loss_gen:0.6946
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:00.946590	Epoch:41/50	Batch:4/99	Loss_disc:0.6806	Loss_gen:0.6807
+2025-06-12 16:43:01.161593	Epoch:41/50	Batch:23/99	Loss_disc:0.7002	Loss_gen:0.7003
+2025-06-12 16:43:01.382043	Epoch:41/50	Batch:42/99	Loss_disc:0.6884	Loss_gen:0.6999
+2025-06-12 16:43:01.590045	Epoch:41/50	Batch:61/99	Loss_disc:0.6916	Loss_gen:0.7032
+2025-06-12 16:43:01.783203	Epoch:41/50	Batch:80/99	Loss_disc:0.6958	Loss_gen:0.7029
+2025-06-12 16:43:01.978040	Epoch:41/50	Batch:99/99	Loss_disc:0.6883	Loss_gen:0.7046
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:02.033202	Epoch:42/50	Batch:4/99	Loss_disc:0.6889	Loss_gen:0.6972
+2025-06-12 16:43:02.227574	Epoch:42/50	Batch:23/99	Loss_disc:0.7045	Loss_gen:0.7089
+2025-06-12 16:43:02.428436	Epoch:42/50	Batch:42/99	Loss_disc:0.6988	Loss_gen:0.7029
+2025-06-12 16:43:02.619630	Epoch:42/50	Batch:61/99	Loss_disc:0.6789	Loss_gen:0.6876
+2025-06-12 16:43:02.861540	Epoch:42/50	Batch:80/99	Loss_disc:0.6980	Loss_gen:0.6881
+2025-06-12 16:43:03.055280	Epoch:42/50	Batch:99/99	Loss_disc:0.7022	Loss_gen:0.7016
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:03.103990	Epoch:43/50	Batch:4/99	Loss_disc:0.6966	Loss_gen:0.6926
+2025-06-12 16:43:03.313403	Epoch:43/50	Batch:23/99	Loss_disc:0.7059	Loss_gen:0.6919
+2025-06-12 16:43:03.514271	Epoch:43/50	Batch:42/99	Loss_disc:0.6997	Loss_gen:0.6925
+2025-06-12 16:43:03.717404	Epoch:43/50	Batch:61/99	Loss_disc:0.6944	Loss_gen:0.6884
+2025-06-12 16:43:03.925617	Epoch:43/50	Batch:80/99	Loss_disc:0.6795	Loss_gen:0.6886
+2025-06-12 16:43:04.125645	Epoch:43/50	Batch:99/99	Loss_disc:0.7002	Loss_gen:0.6944
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:04.173645	Epoch:44/50	Batch:4/99	Loss_disc:0.6959	Loss_gen:0.7088
+2025-06-12 16:43:04.367166	Epoch:44/50	Batch:23/99	Loss_disc:0.6848	Loss_gen:0.6944
+2025-06-12 16:43:04.567912	Epoch:44/50	Batch:42/99	Loss_disc:0.6928	Loss_gen:0.7058
+2025-06-12 16:43:04.768618	Epoch:44/50	Batch:61/99	Loss_disc:0.6905	Loss_gen:0.6995
+2025-06-12 16:43:04.960763	Epoch:44/50	Batch:80/99	Loss_disc:0.6939	Loss_gen:0.7017
+2025-06-12 16:43:05.161900	Epoch:44/50	Batch:99/99	Loss_disc:0.6915	Loss_gen:0.6998
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:05.210284	Epoch:45/50	Batch:4/99	Loss_disc:0.7031	Loss_gen:0.6855
+2025-06-12 16:43:05.403854	Epoch:45/50	Batch:23/99	Loss_disc:0.6839	Loss_gen:0.6998
+2025-06-12 16:43:05.603957	Epoch:45/50	Batch:42/99	Loss_disc:0.6958	Loss_gen:0.6920
+2025-06-12 16:43:05.797709	Epoch:45/50	Batch:61/99	Loss_disc:0.6947	Loss_gen:0.7032
+2025-06-12 16:43:05.998077	Epoch:45/50	Batch:80/99	Loss_disc:0.6893	Loss_gen:0.6899
+2025-06-12 16:43:06.216395	Epoch:45/50	Batch:99/99	Loss_disc:0.6899	Loss_gen:0.7077
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:06.264400	Epoch:46/50	Batch:4/99	Loss_disc:0.6966	Loss_gen:0.7003
+2025-06-12 16:43:06.481920	Epoch:46/50	Batch:23/99	Loss_disc:0.6983	Loss_gen:0.6968
+2025-06-12 16:43:06.691820	Epoch:46/50	Batch:42/99	Loss_disc:0.6980	Loss_gen:0.7062
+2025-06-12 16:43:06.899831	Epoch:46/50	Batch:61/99	Loss_disc:0.6886	Loss_gen:0.6942
+2025-06-12 16:43:07.100810	Epoch:46/50	Batch:80/99	Loss_disc:0.6946	Loss_gen:0.6949
+2025-06-12 16:43:07.301240	Epoch:46/50	Batch:99/99	Loss_disc:0.6911	Loss_gen:0.6937
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:07.357338	Epoch:47/50	Batch:4/99	Loss_disc:0.6917	Loss_gen:0.6945
+2025-06-12 16:43:07.574399	Epoch:47/50	Batch:23/99	Loss_disc:0.6851	Loss_gen:0.6975
+2025-06-12 16:43:07.781991	Epoch:47/50	Batch:42/99	Loss_disc:0.6973	Loss_gen:0.7007
+2025-06-12 16:43:07.997680	Epoch:47/50	Batch:61/99	Loss_disc:0.6912	Loss_gen:0.6927
+2025-06-12 16:43:08.201971	Epoch:47/50	Batch:80/99	Loss_disc:0.6906	Loss_gen:0.6930
+2025-06-12 16:43:08.407751	Epoch:47/50	Batch:99/99	Loss_disc:0.7030	Loss_gen:0.7051
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:08.455883	Epoch:48/50	Batch:4/99	Loss_disc:0.6853	Loss_gen:0.6958
+2025-06-12 16:43:08.672969	Epoch:48/50	Batch:23/99	Loss_disc:0.6910	Loss_gen:0.7035
+2025-06-12 16:43:08.873676	Epoch:48/50	Batch:42/99	Loss_disc:0.6932	Loss_gen:0.6909
+2025-06-12 16:43:09.082244	Epoch:48/50	Batch:61/99	Loss_disc:0.6855	Loss_gen:0.6930
+2025-06-12 16:43:09.323872	Epoch:48/50	Batch:80/99	Loss_disc:0.6915	Loss_gen:0.6937
+2025-06-12 16:43:09.541332	Epoch:48/50	Batch:99/99	Loss_disc:0.6980	Loss_gen:0.6987
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:09.589684	Epoch:49/50	Batch:4/99	Loss_disc:0.6869	Loss_gen:0.7107
+2025-06-12 16:43:09.806382	Epoch:49/50	Batch:23/99	Loss_disc:0.6964	Loss_gen:0.7020
+2025-06-12 16:43:10.015143	Epoch:49/50	Batch:42/99	Loss_disc:0.6867	Loss_gen:0.6873
+2025-06-12 16:43:10.232970	Epoch:49/50	Batch:61/99	Loss_disc:0.7023	Loss_gen:0.7018
+2025-06-12 16:43:10.450238	Epoch:49/50	Batch:80/99	Loss_disc:0.6910	Loss_gen:0.6966
+2025-06-12 16:43:10.699242	Epoch:49/50	Batch:99/99	Loss_disc:0.6835	Loss_gen:0.6915
+lr_d=[4e-09]	lr_gen=[8e-09]
+2025-06-12 16:43:10.754116	Epoch:50/50	Batch:4/99	Loss_disc:0.6973	Loss_gen:0.6980
+2025-06-12 16:43:11.006543	Epoch:50/50	Batch:23/99	Loss_disc:0.6854	Loss_gen:0.6850
+2025-06-12 16:43:11.237394	Epoch:50/50	Batch:42/99	Loss_disc:0.6981	Loss_gen:0.6794
+2025-06-12 16:43:11.454290	Epoch:50/50	Batch:61/99	Loss_disc:0.6910	Loss_gen:0.6934
+2025-06-12 16:43:11.655498	Epoch:50/50	Batch:80/99	Loss_disc:0.6796	Loss_gen:0.6905
+2025-06-12 16:43:11.872761	Epoch:50/50	Batch:99/99	Loss_disc:0.6919	Loss_gen:0.7010
+lr_d=[4e-09]	lr_gen=[8e-09]
+Fake Sequence Probability = 0.4986 Real Sequence Probability = 0.4989

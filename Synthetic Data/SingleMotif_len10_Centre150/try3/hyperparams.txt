@@ -1,0 +1,11 @@
+dataset=SingleMotif_len10_Centre150
+z_dim=5000
+batch_size=8
+features_critic=100
+features_gen=125
+lr_critic=0.0001
+lr_gen=0.0001
+num_epochs=15
+params_gen = 20196754
+param_critic = 756001
+lambda_gp = 10

@@ -16,7 +16,7 @@ if __name__ == '__main__':
     sourcefolder = "GANs_with_DNA/Simulate"
     datafolder = "SingleMotif_10bp_AllA"
     destinationfolder = f"GANs_with_DNA/Synthetic Data/{datafolder}"
-    version = 6
+    version = 8
     try:
         os.makedirs(f"{destinationfolder}/try{version}", exist_ok = False)
     except FileExistsError:
@@ -53,17 +53,11 @@ if __name__ == '__main__':
     # Setup trainers
     optim_critic = Adam(critic.parameters(), lr=learning_rate_critic, betas=(0.0, 0.9))
     optim_gen = Adam(gen.parameters(), lr=learning_rate_gen, betas=(0.0, 0.9))
-    sched_d = ReduceLROnPlateau(optimizer=optim_critic, factor=0.2,
-                                patience=5, cooldown=0, eps=1e-8)
-    sched_g = ReduceLROnPlateau(optimizer=optim_gen , factor=0.2,
-                                patience=5, cooldown=0, eps=1e-8)
+    sched_d = ReduceLROnPlateau(optimizer=optim_critic, factor=0.1,
+                                patience=10, cooldown=2, eps=1e-8)
+    sched_g = ReduceLROnPlateau(optimizer=optim_gen , factor=0.1,
+                                patience=10, cooldown=2, eps=1e-8)
 
-    # Evaluation on same input latent vector
-    if torch.cuda.is_available():
-        torch.cuda.manual_seed(0)
-    torch.manual_seed(0)
-    # fixed_noise = torch.randn((1, z_dim)).to(device) # Fixed Random Seed
-    # fixed_real = test_dataset[0][0].reshape(1, 4, -1).to(device)
 
     f = open(f"{destinationfolder}/try{version}/output.log", 'w')
     g = open(f"{destinationfolder}/try{version}/Saved.fasta", 'w')

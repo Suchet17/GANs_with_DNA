@@ -1,0 +1,11 @@
+dataset=SingleMotif_10bp_AllA
+z_dim=256
+batch_size=8
+features_critic=10
+features_gen=125
+lr_critic=0.0001
+lr_gen=0.0001
+num_epochs=300
+params_gen = 1220754
+param_critic = 48601
+lambda_gp = 10

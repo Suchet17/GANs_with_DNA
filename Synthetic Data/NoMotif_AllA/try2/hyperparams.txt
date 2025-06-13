@@ -1,0 +1,10 @@
+dataset=NoMotif_AllA
+z_dim=100
+batch_size=1
+features_disc=100
+features_gen=25
+lr_disc=1e-07
+lr_gen=1e-06
+num_epochs=50
+params_gen = 89354
+param_disc = 306001

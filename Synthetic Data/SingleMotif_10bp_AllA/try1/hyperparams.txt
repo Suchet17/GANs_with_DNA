@@ -1,0 +1,11 @@
+dataset=SingleMotif_10bp_AllA
+z_dim=5000
+batch_size=1
+features_disc=100
+features_gen=125
+lr_disc=5e-07
+lr_gen=1e-06
+num_epochs=15
+params_gen = 20196754
+param_disc = 306001
+repeat_factor=10
