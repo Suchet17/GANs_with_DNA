@@ -14,9 +14,10 @@ from utils import gradient_penalty, count_parameters, onehot_to_fasta
 
 if __name__ == '__main__':
     sourcefolder = "GANs_with_DNA/Simulate"
-    datafolder = "SingleMotif_10bp_AllA"
+    datafolder = "2FixedMotifs_10bp_AllA"
+    motif = "GGCGTACAAG, GAAAGTCTTG"
     destinationfolder = f"GANs_with_DNA/Synthetic Data/{datafolder}"
-    version = 8
+    version = 2
     try:
         os.makedirs(f"{destinationfolder}/try{version}", exist_ok = False)
     except FileExistsError:
@@ -25,7 +26,7 @@ if __name__ == '__main__':
             raise SystemExit
 
     device = torch.device('cuda')
-    print("Device = ",device)
+    print("Device = ", device)
 
     # Setup models
     critic = Critic(features_critic).to(device)
@@ -40,7 +41,7 @@ if __name__ == '__main__':
           f"lr_critic={learning_rate_critic}", f"lr_gen={learning_rate_gen}",
           f"num_epochs={num_epochs}", f"params_gen = {count_parameters(gen)[0]}",
           f"param_critic = {count_parameters(critic)[0]}", f"lambda_gp = {lambda_gp}",
-          file=h, flush=True, sep='\n')
+          f"MOTIF = {motif}", file=h, flush=True, sep='\n')
     h.close()
 
     #Setup training data
@@ -77,7 +78,7 @@ if __name__ == '__main__':
             critic_real = critic(real).reshape(-1)
             critic_fake = critic(fake).reshape(-1)
             gp = gradient_penalty(critic, real, fake, device=device)
-            loss_critic = torch.mean(critic(fake))  - torch.mean(critic(real)) + lambda_gp*gp
+            loss_critic = torch.mean(critic_fake)  - torch.mean(critic_real) + lambda_gp*gp
 
             critic.zero_grad()
             loss_critic.backward(retain_graph=True)
@@ -98,8 +99,8 @@ if __name__ == '__main__':
                       f"loss_gen:{loss_gen:.4f}",
                       sep='\t', file = f, flush=True)
 
-        sched_d.step(loss_critic+loss_gen)
-        sched_g.step(loss_critic+loss_gen)
+        # sched_d.step(loss_critic+loss_gen)
+        # sched_g.step(loss_critic+loss_gen)
         print(f"lr_d={sched_d.get_last_lr()[0]:.1e}",
               f"lr_gen={sched_g.get_last_lr()[0]:.1e}",
               file=f, flush=True, sep='\t')
@@ -109,7 +110,7 @@ if __name__ == '__main__':
 
         eval_fake = gen(torch.randn((1, z_dim)).to(device))
         eval_fake_seq = onehot_to_fasta(eval_fake.detach()[0].to('cpu'))
-        print(f">{epoch}\n{eval_fake_seq}", file=g, flush=True)
+        print(f">{epoch+1}\n{eval_fake_seq}", file=g, flush=True)
         print(f"Saved Sequence{epoch+1}",
               f"Fake Prob = {torch.mean(critic(eval_fake)).item():.4f}",
               f"Real Prob = {torch.mean(critic(real)).item():.4f}")

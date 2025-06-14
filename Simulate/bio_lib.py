@@ -35,14 +35,14 @@ aa_of_codon_standard={}
 for k in codon_of_aa_standard.keys():
     for c in codon_of_aa_standard[k]:
         aa_of_codon_standard[c] = k
-        
+
 aa_of_codon_ctg_clade={}
 for k in codon_of_aa_ctg_clade.keys():
     for c in codon_of_aa_ctg_clade[k]:
         aa_of_codon_ctg_clade[c] = k
-        
 
-        
+
+
 import re
 
 def wvconsensus(w):
@@ -92,7 +92,7 @@ def re_threecodons(aastr,codontable="normal"):
             for c3 in codon_of_aa[aastr[2]]:
                 restr += c1+c2+c3+"|"
     return restr[0:-1]
-            
+
 def re_twocodons(aastr,codontable="normal"):
     if codontable=="ctg":
         codon_of_aa = codon_of_aa_ctg_clade
@@ -103,8 +103,8 @@ def re_twocodons(aastr,codontable="normal"):
         for c2 in codon_of_aa[aastr[1]]:
             restr += c1+c2+"|"
     return restr[0:-1]
-            
-                          
+
+
 def re_onecodon(aastr,codontable="normal"):
     if codontable=="ctg":
         codon_of_aa = codon_of_aa_ctg_clade
@@ -114,9 +114,9 @@ def re_onecodon(aastr,codontable="normal"):
     for c1 in codon_of_aa[aastr[0]]:
         restr += c1+"|"
     return restr[0:-1]
-            
-                          
-                          
+
+
+
 def extract_coding_seq(aas,nts,codontable="normal"):
     if codontable=="ctg":
         codon_of_aa = codon_of_aa_ctg_clade
@@ -142,13 +142,13 @@ def extract_coding_seq(aas,nts,codontable="normal"):
     nts1 = nts[n_nt+1:]
     if len(aas1) < 3:
         return ""
-    
+
     codonpat = re.compile(re_threecodons(aas1))
     nextmatch = codonpat.search(nts1)
     while nextmatch:
         n_nt = nextmatch.start()
         nts1 = nts1[n_nt:]
-        
+
         out_nts_rest = extract_coding_seq(aas1,nts1)
         if out_nts_rest:
             return out_nts + out_nts_rest
@@ -156,7 +156,7 @@ def extract_coding_seq(aas,nts,codontable="normal"):
             nts1 = nts1[1:]
             nextmatch = codonpat.search(nts1)
     return ""
-        
+
 
 
 
@@ -213,7 +213,7 @@ def consensus(c1,c2,c3=""):
             output = "H"
         elif ('T' not in s) and ('U' not in s):
             output = "V"
-        
+
     elif c1=="A":
         if c2 =="G":
             output = "R"
@@ -241,7 +241,7 @@ def read_one_wm(tflines,pseudocount):
         name = " "
     nums = [[(float(x)+pseudocount) for x in l.split()[1:5]] for l in tflines\
             if len(l)>2 and l[0].isdigit() and l[1].isdigit()]
-            
+
     return (name,[[x/sum(l) for x in l] for l in nums])
 
 def readtransfac(filename,pseudocount=0):
@@ -259,7 +259,7 @@ def wm_transpose_norm(wm,pseudocount=0.0):
                 except:
                     print(wm)
                     raise IndexError
-        new_wm = [[(x+pseudocount)/(sum(l)+4.*pseudocount) for x in l] for l in new_wm]        
+        new_wm = [[(x+pseudocount)/(sum(l)+4.*pseudocount) for x in l] for l in new_wm]
         return new_wm
 
 
@@ -282,7 +282,7 @@ def readjaspar(filename,pseudocount=0.):
             currwm += [[float(x) for x in l.split()]]
     wmlist += [(currname,wm_transpose_norm(currwm,pseudocount))]
     return wmlist
-    
+
 
 def readuniprobe(filename,pseudocount=0.):
     f = open(filename)
@@ -301,7 +301,7 @@ def readuniprobe(filename,pseudocount=0.):
         else:
             currwm += [[float(x) for x in l.split()]]
     wmlist += [(currname,wm_transpose_norm(currwm,pseudocount))]
-    return wmlist   
+    return wmlist
 
 def twodigitstr(n):
     if n<=9:
@@ -326,12 +326,12 @@ def align_seqs_to_wm(seqlist,wm):
         else:
             outs += [sr]
     return outs
-    
+
 def write_transfac(name,wm,filehandle):
     filehandle.write("NA\t"+name+"\n")
     filehandle.write("PO\tA\tC\tG\tT\n")
     for i in range(len(wm)):
-        filehandle.write("\t".join([twodigitstr(i+1)] + [str(x) for x in wm[i]])+"\n")
+        filehandle.write("\t".join([twodigitstr(i+1)] + [f"{x:.3f}" for x in wm[i]])+"\n")
     filehandle.write("//\n")
 
 
@@ -340,7 +340,7 @@ def write_full_transfac(wmlist,filename):
     for name,wm in wmlist:
         write_transfac(name,wm,f)
     f.close()
-    
+
 def write_mememotif_header(f,bgfreqs=[]):
     f.write("MEME version 4\n\nALPHABET= ACGT\n\nstrands: + -\n\n")
     if bgfreqs:
@@ -379,7 +379,7 @@ def read_meme(filename,pscount=0.5):
             if wm > []:
                 wm = [[x/sum(l) for x in l] for l in wm]
                 wm = [[(x*nsites + pscount) for x in l] for l in wm]
-                wm = [[x/sum(l) for x in l] for l in wm]                
+                wm = [[x/sum(l) for x in l] for l in wm]
                 wmlist += [(name,wm)]
                 name = ""
                 wm = []
@@ -387,10 +387,10 @@ def read_meme(filename,pscount=0.5):
     if wm > []:
         wm = [[x/sum(l) for x in l] for l in wm]
         wm = [[(x*nsites + pscount) for x in l] for l in wm]
-        wm = [[x/sum(l) for x in l] for l in wm] 
+        wm = [[x/sum(l) for x in l] for l in wm]
         wmlist += [(name,wm)]
     return wmlist
-    
+
 
 def readfasta(filename):
     fastalist=[]
@@ -454,7 +454,7 @@ def scanwm(wm,seq):
             bestn = n
             bestr = True
     return best, bestn, bestr
-   
+
 
 def writefasta_padded(fl, filename,L=1000):
     f = open(filename,"w")

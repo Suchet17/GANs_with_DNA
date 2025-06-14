@@ -1,0 +1,12 @@
+dataset=2FixedMotifs_10bp_AllA
+z_dim=256
+batch_size=8
+features_critic=80
+features_gen=250
+lr_critic=0.0001
+lr_gen=0.0001
+num_epochs=500
+params_gen = 3436754
+param_critic = 1376001
+lambda_gp = 10
+MOTIF = GGCGTACAAG, GAAAGTCTTG

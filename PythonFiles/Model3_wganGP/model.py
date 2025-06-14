@@ -27,8 +27,10 @@ class Critic(nn.Module):
             nn.Dropout(0.3),
 
             nn.Flatten(),
+            nn.Linear(16*features, 8*features),
+            nn.ReLU(),
             nn.Dropout(0.3),
-            nn.Linear(16*features, num_classes),
+            nn.Linear(8*features, num_classes),
             nn.Sigmoid(),
         )
 
@@ -47,7 +49,9 @@ class Generator(nn.Module):
             nn.LeakyReLU(0.2),
             nn.ConvTranspose1d(features, features, kernel_size=8 , stride=4, padding=1), #250
             nn.LeakyReLU(0.2),
-            nn.ConvTranspose1d(features, 4, kernel_size=10, stride=4, padding=3), #1000
+            nn.ConvTranspose1d(features, features, kernel_size=10, stride=4, padding=3), #1000
+            nn.LeakyReLU(0.2),
+            nn.ConvTranspose1d(features, 4, kernel_size=5, stride=1, padding=2), #1000
             nn.Tanh(),
         )
 
@@ -59,10 +63,10 @@ def init_weights(model):
     for m in model.modules():
         if isinstance(m, (nn.Conv2d, nn.ConvTranspose2d)):
             nn.init.normal_(m.weight.data, 0.0, 0.2)
-        if isinstance(m, nn.BatchNorm2d):
-            nn.init.normal_(m.weight.data, 0.0, 0.2)
 
 def test():
+    from utils import count_parameters
+    from config import features_gen, features_critic
     if torch.cuda.is_available():
         device = torch.device('cuda')
     else:
@@ -72,18 +76,21 @@ def test():
     noise_dim = 100
     num_classes = 2
     x = torch.randn((batch_size, H, W)).to(device)
-    critic = Critic(57, num_classes).to(device)
+    critic = Critic(features_critic, num_classes).to(device)
     print(x.shape)
     print(critic(x).shape)
     assert critic(x).shape == (batch_size, num_classes), "Critic test failed"
 
-    gen = Generator(noise_dim, 5)
+    gen = Generator(noise_dim, features_gen)
     init_weights(gen)
     z = torch.randn((batch_size, noise_dim))
     print(z.shape)
     print(gen(z).shape)
     assert gen(z).shape == (batch_size, 4, 1000), "Generator test failed"
     print("Success, all tests passed!")
+
+    print("Num Params Gen =",count_parameters(gen)[0])
+    print("Num Params Crit =",count_parameters(critic)[0])
 
 if __name__ == "__main__":
     test()

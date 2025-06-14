@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import biolib as bio
+import bio_lib as bio
 import random
 import sys
 import numpy
@@ -10,28 +10,28 @@ basestr = "ACGT"
 def random_wm(lwm_l=10,lwm_h=10,dir0=0.5):
     # core lwm_l has dirichlet parameter dir, from where it increases linearly to 10 at the flank
 
-    nflank_l = (lwm_h - lwm_l)//2
-    nflank_r = lwm_h - lwm_l - nflank_l
+    # nflank_l = (lwm_h - lwm_l)//2
+    # nflank_r = lwm_h - lwm_l - nflank_l
 
-    if nflank_l > 0:
-        flank_grad = (20.0/dir0)**(1.0/nflank_l)
-    elif nflank_r > 0:
-        flank_grad = (20.0/dir0)**(1.0/nflank_r)
-    else:
-        flank_grad = 0.0000001
+    # if nflank_l > 0:
+    #     flank_grad = (20.0/dir0)**(1.0/nflank_l)
+    # elif nflank_r > 0:
+    #     flank_grad = (20.0/dir0)**(1.0/nflank_r)
+    # else:
+    #     flank_grad = 0.0000001
     wm = []
 
-    dir = 20.0
-    for n in range(nflank_l):
-        wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
-        dir /= flank_grad
+    # dir = 20.0
+    # for n in range(nflank_l):
+    #     wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
+    #     dir /= flank_grad
 
     dir = dir0
     for n in range(lwm_l):
         wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
-    for n in range(nflank_r):
-        dir *= flank_grad
-        wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
+    # for n in range(nflank_r):
+    #     dir *= flank_grad
+    #     wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
     return wm
 
 
@@ -127,7 +127,7 @@ lwm_h = 10
 dirpam = 0.2
 randvec = [0.25,0.25,0.25,0.25]
 
-import sys,getopt
+import getopt
 optlist,args = getopt.getopt(sys.argv[1:],"N:M:K:l:L:n:d:rb:h")
 for o,v in optlist:
     if o=="-N":

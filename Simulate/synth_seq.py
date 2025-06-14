@@ -10,27 +10,27 @@ basestr = "ACGT"
 def random_wm(lwm_l=10,lwm_h=10,dir0=0.5):
     # core lwm_l has dirichlet parameter dir, from where it increases linearly to 10 at the flank
 
-    nflank_l = (lwm_h - lwm_l)//2
-    nflank_r = lwm_h - lwm_l - nflank_l
+    # nflank_l = (lwm_h - lwm_l)//2
+    # nflank_r = lwm_h - lwm_l - nflank_l
 
-    if nflank_l==0:
-        nflank_l=1
-    if nflank_r==0:
-        nflank_r=1
-    flank_grad = (20.0/dir0)**(1.0/nflank_l)
+    # if nflank_l==0:
+    #     nflank_l=1
+    # if nflank_r==0:
+    #     nflank_r=1
+    # flank_grad = (20.0/dir0)**(1.0/nflank_l)
     wm = []
 
-    dir = 20.0
-    for n in range(nflank_l):
-        wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
-        dir /= flank_grad
+    # dir = 20.0
+    # for n in range(nflank_l):
+    #     wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
+    #     dir /= flank_grad
 
     dir = dir0
     for n in range(lwm_l):
         wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
-    for n in range(nflank_r):
-        dir *= flank_grad
-        wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
+    # for n in range(nflank_r):
+    #     dir *= flank_grad
+    #     wm += [[x for x in numpy.random.dirichlet([dir,dir,dir,dir])]]
     return wm
 
 
